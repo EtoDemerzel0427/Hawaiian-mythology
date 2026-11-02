@@ -38,6 +38,12 @@ def cn_num(n):
     if n < 20: return "十" + (CN_NUM[n % 10] if n % 10 else "")
     return CN_NUM[n // 10] + "十" + (CN_NUM[n % 10] if n % 10 else "")
 
+def roman(n):
+    out = ""
+    for v, r in ((40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")):
+        while n >= v: out += r; n -= v
+    return out
+
 def chap_label(n):
     if n == 0: return "序"
     if n == 40: return "参考文献"
@@ -220,13 +226,20 @@ ADMON_TITLES = {"tldr": "本章导读", "culture": "文化背景", "language": "
                 "note": "注", "tip": "提示", "question": "思考", "chant": "吟唱", "summary": "小结",
                 "warning": "注意", "people": "人物"}
 
+KIND_TAGS = {"culture": "文化", "language": "语言", "place": "地理", "compare": "比较", "modern": "今日",
+             "story": "故事", "people": "人物", "source": "文献", "note": "注", "chant": "吟唱", "question": "思考"}
+
 def postprocess(h):
     # default admonition titles in Chinese
     def tfix(m):
         kind, title = m.group(1), m.group(2)
-        if title.strip().lower() == kind.lower():
-            title = ADMON_TITLES.get(kind.lower(), title)
-        return f'<div class="admonition {kind}">\n<p class="admonition-title">{title}</p>'
+        k = kind.lower()
+        if title.strip().lower() == k:
+            title = ADMON_TITLES.get(k, title)
+            tag = ""
+        else:
+            tag = f'<span class="kind">{KIND_TAGS[k]}</span>' if k in KIND_TAGS else ""
+        return f'<div class="admonition {kind}">\n<p class="admonition-title">{tag}<span>{title}</span></p>'
     h = re.sub(r'<div class="admonition (\w+)">\n<p class="admonition-title">(.*?)</p>', tfix, h)
     return h
 
@@ -241,7 +254,9 @@ def layout(title, body, root, active="", toc="", desc="", body_class=""):
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+SC:wght@400;700&family=Spectral:ital,wght@0,400;0,600;1,400&family=ZCOOL+XiaoWei&display=swap">
 <title>{esc(title)}{' · ' + SITE_TITLE if title != SITE_TITLE else ''}</title>
 <meta name="description" content="{esc(desc or SITE_SUB)}">
 <link rel="icon" href="{root}static/favicon.svg" type="image/svg+xml">
@@ -249,19 +264,19 @@ def layout(title, body, root, active="", toc="", desc="", body_class=""):
 <script>try{{var t=localStorage.getItem('hm-theme');if(t)document.documentElement.dataset.theme=t;var m=localStorage.getItem('hm-mode');if(m)document.documentElement.dataset.mode=m;}}catch(e){{}}</script>
 </head>
 <body class="{body_class}" data-root="{root}">
-<header class="topbar">
+<header class="topbar"><div class="topbar-row">
   <button class="icon-btn" id="nav-toggle" aria-label="目录">☰</button>
-  <a class="brand" href="{root}index.html"><img src="{root}static/favicon.svg" alt=""><span>{SITE_TITLE}</span></a>
+  <a class="brand" href="{root}index.html"><img src="{root}static/favicon.svg" alt=""><b>{SITE_TITLE}</b><i>Hawaiian Mythology · 1940</i></a>
   <div class="search"><input id="q" type="search" placeholder="搜索：神名、地名、主题…" autocomplete="off"><div id="results" hidden></div></div>
   <div class="modes" role="group" aria-label="阅读模式">
     <button data-mode="zh" title="只看译文">中</button><button data-mode="both" title="中英对照">对照</button><button data-mode="en" title="只看原文">英</button>
   </div>
   <button class="icon-btn" id="theme-toggle" aria-label="切换明暗">◐</button>
-</header>
+</div><span class="niho" aria-hidden="true"></span></header>
 <div class="shell">
 <nav class="sidebar" id="sidebar">{side}</nav>
 <main class="main"><article class="doc">{body}</article>
-<footer class="foot"><p>底本：Martha Warren Beckwith, <i>Hawaiian Mythology</i>, Yale University Press, 1940（美国公有领域）。扫描本见 <a href="https://archive.org/details/hawaiianmytholog00beck_0">Internet Archive</a>。译文、注释与专栏为本站撰写。<a href="{REPO}">GitHub</a></p></footer>
+<footer class="foot"><span class="niho ink" aria-hidden="true"></span><p>底本：Martha Warren Beckwith, <i>Hawaiian Mythology</i>, Yale University Press, 1940（美国公有领域）。扫描本见 <a href="https://archive.org/details/hawaiianmytholog00beck_0">Internet Archive</a>。译文、注释与专栏为本站撰写。<a href="{REPO}">GitHub</a></p></footer>
 </main>
 <aside class="outline">{toc}</aside>
 </div>
@@ -286,7 +301,7 @@ def sidebar(root, active):
             out.append("</ol>"); cur_part = 0
         st = "" if c["status"] != "source" else ' <span class="dot" title="尚未翻译，暂显示原文">·</span>'
         on = " on" if active == f"ch{n}" else ""
-        lab = "" if n in (0, 40) else f'<span class="n">{n}</span>'
+        lab = "" if n in (0, 40) else f'<span class="n">{roman(n)}</span>'
         out.append(f'<li><a class="side-link{on}" href="{root}{c["url"]}">{lab}{esc(c["title"])}{st}</a></li>' if c["part"] else
                    f'<a class="side-link solo{on}" href="{root}{c["url"]}">{esc(c["title"])}{st}</a>')
     if cur_part not in (None, 0): out.append("</ol>")
@@ -372,11 +387,13 @@ def render_chapter(n, zh_path, src):
         status_banner = '<div class="banner">本章译文尚在进行中，下面暂时显示英文原文。</div>'
     elif c["status"] == "partial":
         status_banner = '<div class="banner">本章译文尚未完成，未译段落暂缺。</div>'
-    head = (f'<header class="chap-head"><div class="kicker">{PARTS.get(c["part"], "")}</div>'
-            f'<h1><span class="cl">{chap_label(n)}</span>{esc(title)}</h1>'
+    big = f'<span class="roman" aria-hidden="true">{roman(n)}</span>' if n not in (0, 40) else ""
+    head = (f'<header class="chap-head">{big}<div class="kicker">{chap_label(n)} · {PARTS.get(c["part"], "") or "附录"}</div>'
+            f'<h1>{esc(title)}</h1>'
             f'<div class="en-title" lang="en">{esc(c["en_title"])} · Beckwith 1940, pp. {esc(src["meta"].get("pages", "") if src else "")}</div>'
             + (f'<p class="summary">{esc(c["summary"])}</p>' if c.get("summary") else "") +
             f'<div class="readhint">点击段首 <b>¶</b> 号可展开该段英文原文；右上角可切换「中 / 对照 / 英」。页边 <span class="pg">p.N</span> 链接到原书扫描页。</div>'
+            f'<div class="niho-pair" aria-hidden="true"><span class="niho"></span><span class="niho down ink"></span></div>'
             f'</header>{status_banner}')
     body = head + "\n".join(parts) + notes_html + pager(n, root)
     return layout(f"{chap_label(n)} {title}", body, root, active=f"ch{n}", toc=outline(re.sub(r'<div class="en" lang="en">.*?</div></section>', "</section>", "\n".join(parts), flags=re.S) + notes_html), desc=c.get("summary", ""), body_class="chapter")
@@ -403,7 +420,7 @@ def render_essay(slug, path):
     meta, body = parse_fm(path.read_text(encoding="utf-8"))
     used = []
     h = render_md(body, f"essays/{slug}", root, used)
-    h = h.replace('<p class="admonition-title">本章导读</p>', '<p class="admonition-title">本文要点</p>')
+    h = h.replace('<p class="admonition-title"><span>本章导读</span></p>', '<p class="admonition-title"><span>本文要点</span></p>')
     e = ctx.essays[slug]
     notes = ""
     _, zn = split_paras(body)
@@ -451,13 +468,18 @@ def home_page():
     intro = render_md(body, "home", root)
     cards = []
     for p in (1, 2, 3, 4):
-        lis = "".join(f'<li><a href="{c["url"]}"><span class="n">{n}</span>{esc(c["title"])}</a><span class="en" lang="en">{esc(c["en_title"])}</span></li>'
+        lis = "".join(f'<li><a href="{c["url"]}"><span class="n">{roman(n)}</span>{esc(c["title"])}</a><span class="en" lang="en">{esc(c["en_title"])}</span></li>'
                       for n, c in sorted(ctx.chapters.items()) if c["part"] == p)
         cards.append(f'<section class="part-card"><h3>{PARTS[p]}</h3><div class="en" lang="en">{PARTS_EN[p]}</div><ol>{lis}</ol></section>')
     ess = "".join(f'<a class="essay-card" href="{e["url"]}"><b>{esc(e["title"])}</b><span>{esc(e["summary"])}</span></a>'
                   for slug, e in sorted(ctx.essays.items(), key=lambda kv: (kv[1]["order"], kv[0])))
     done = sum(1 for c in ctx.chapters.values() if c["status"] not in ("source", "partial"))
-    h = (f'<header class="hero"><div class="kicker">Martha Warren Beckwith · <i>Hawaiian Mythology</i> · 1940</div>'
+    h = (f'<header class="hero">'
+         f'<p class="chant" lang="haw">O ke au i kahuli wela ka honua,<br>O ke au i kahuli lole ka lani</p>'
+         f'<p class="chant-zh">那时大地翻转而炽热，那时诸天翻覆而倒转</p>'
+         f'<div class="chant-src">《库穆利波》开篇 · <a href="essays/kumulipo.html">Kumulipo 1–2</a></div>'
+         f'<div class="niho-pair" aria-hidden="true"><span class="niho"></span><span class="niho down ink"></span></div>'
+         f'<div class="kicker">Martha Warren Beckwith · Hawaiian Mythology · 1940</div>'
          f'<h1>{SITE_TITLE}</h1><p class="sub">{SITE_SUB}</p>'
          f'<p class="progress">已译 {done} / {len(ctx.chapters)} 篇 · 专栏 {len(ctx.essays)} 篇</p></header>'
          f'{intro}<h2 id="mulu">目录</h2>'
