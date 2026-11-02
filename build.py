@@ -494,6 +494,10 @@ def render_chant():
     intro_f = ROOT / "content" / "kumulipo" / "chant" / "_intro.md"
     if intro_f.exists():
         body.append(render_md(parse_fm(intro_f.read_text(encoding="utf-8"))[1], "chant", root, book="ku"))
+    lili_f = ROOT / "content" / "kumulipo" / "chant" / "_lili.md"
+    if lili_f.exists():
+        body.append('<details class="lili lili-intro"><summary>关于利留卡拉尼女王的 1897 年英译（各 wā 下的折叠栏）</summary>'
+                    + render_md(parse_fm(lili_f.read_text(encoding="utf-8"))[1], "chant/lili", root, book="ku") + "</details>")
     for s in secs:
         sid = f"wa{s['idx']}"
         title = WA_ZH[s["idx"]] if s["idx"] < len(WA_ZH) else s["title"]
