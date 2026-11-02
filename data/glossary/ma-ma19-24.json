@@ -1,0 +1,7 @@
+{
+  "hewa": {"term": "hewa", "modern": "hewa", "zh": "过错、罪", "def": "错误、过失、不当之举；传教士用它来译基督教的“罪”。与 pono 相对。Malo 在《夏威夷古俗》第 21 章列举了古人视为 hewa 的种种行为。", "see": ["g:pono"]},
+  "pono": {"term": "pono", "modern": "pono", "zh": "正当、合宜", "def": "正当、合宜、各得其所的状态，也指福祉与良好秩序：酋长守礼、神受祭祀、土地丰产即为 pono。传教士用它来译“义”。与 hewa 相对。", "see": ["g:hewa"]},
+  "kuauhau": {"term": "kuauhau", "modern": "kū‘auhau", "zh": "谱系（谱系家）", "def": "谱系，尤指酋长的世系；也指精通谱系的专家。高等酋长婚配之前，由谱系家审查对方的血统，以免与 kauwā 结合。", "see": ["g:mookuauhau", "g:kauwa"]},
+  "kuhikuhi-puuone": {"term": "kuhikuhi-pu‘uone", "modern": "kuhikuhi pu‘uone", "zh": "神庙选址祭司", "def": "字面“指点沙丘”：掌握神庙选址与布局秘传知识的祭司，据说先用沙堆出神庙模型；神庙建得合法度，才能赢得神助。", "see": ["g:heiau", "g:luakini"]},
+  "kolea": {"term": "kolea", "modern": "kōlea", "zh": "金斑鸻", "def": "太平洋金斑鸻（Pluvialis fulva），每年秋天从北方飞来夏威夷越冬、春天离去的候鸟；传说中来自南方的瓦瓦乌，其在岸上摇摆被视为风暴将至的征兆。"}
+}

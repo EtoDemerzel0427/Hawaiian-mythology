@@ -402,7 +402,7 @@ def render_chapter(book, n, zh_path, src):
     R = lambda t, nu=None, en=False: render_md(t, page_key, root, nu, en, book)
     if zh_path:
         meta, body = parse_fm(zh_path.read_text(encoding="utf-8"))
-        body = re.sub(r"[ \t]*\{p:[0-9ivxl]+\}[ \t]*", "", body)
+        body = re.sub(r"(?<=\S)[ \t]*\{p:[0-9ivxl]+\}|\{p:[0-9ivxl]+\}[ \t]?", "", body)   # keep a line's leading indent
         seq, zh_notes = split_paras(body)
         for item in seq:
             if item[0] == "md":
