@@ -688,8 +688,8 @@ def build(check_only=False):
         write("search.json", json.dumps(search, ensure_ascii=False, separators=(",", ":")))
         (OUT / ".nojekyll").write_text("")
     for w in WARN: print("warning:", w, file=sys.stderr)
-    n_hm = len(ctx.book_chapters("hm")); n_ku = len(ctx.book_chapters("ku"))
-    print(f"built {n_hm} + {n_ku} chapters, chant {len(ctx.haw['lines'])} lines ({sum(1 for v in ctx.lines.values() if v.get('zh'))} translated), "
+    n_hm, n_ku, n_ma = (len(ctx.book_chapters(k)) for k in ("hm", "ku", "malo"))
+    print(f"built {n_hm} + {n_ku} + {n_ma} chapters, chant {len(ctx.haw['lines'])} lines ({sum(1 for v in ctx.lines.values() if v.get('zh'))} translated), "
           f"{len(ctx.essays)} essays, {len(ctx.gloss)} glossary terms; {len(WARN)} warnings")
 
 if __name__ == "__main__":

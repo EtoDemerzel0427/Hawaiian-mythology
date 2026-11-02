@@ -4,7 +4,7 @@
 
 # 夏威夷神话注疏
 
-**Martha Warren Beckwith《夏威夷神话》（*Hawaiian Mythology*, 1940）与《库穆利波》（*The Kumulipo*, 1951）中文全译与注疏**
+**Martha Warren Beckwith《夏威夷神话》（*Hawaiian Mythology*, 1940）、《库穆利波》（*The Kumulipo*, 1951）与 David Malo《夏威夷古俗》（*Hawaiian Antiquities*, 1903）中文全译与注疏**
 
 *O ke au i kahuli wela ka honua* — 那时大地翻转而炽热
 
@@ -27,8 +27,9 @@ Beckwith 的《夏威夷神话》是英文世界关于夏威夷口头传统最�
 | **全译** | 作者序、39 章正文与参考文献，约 39 万字；每段译文与英文原文一一对应 |
 | **注释** | 900 余处就地注释，按类型着色：文化背景、夏威夷语构词、地理、比较神话、故事梗概、人物、今日视角 |
 | **原文** | 英文底本由 1940 年初版的 OCR 整理，逐章对照扫描页人工校对，保留原书页码与全部原注 |
-| **专栏** | 14 篇专题长文：怎样读这本书、夏威夷语入门、神与守护神与半神、kapu 制度、四大神、《库穆利波》、佩蕾史诗、毛伊、库克与洛诺之争、航海、草裙舞与吟诵、谱系与等级、巫术与冥界、文献来源 |
+| **专栏** | 21 篇专题长文（含航海、刺青、藏骨、羽衣、莫纳克亚、1893 年政变、月相历法等写作参考）：怎样读这本书、夏威夷语入门、神与守护神与半神、kapu 制度、四大神、《库穆利波》、佩蕾史诗、毛伊、库克与洛诺之争、航海、草裙舞与吟诵、谱系与等级、巫术与冥界、文献来源 |
 | **《库穆利波》** | 导言、27 章、结语与附录全译；全诗 2102 行逐行对读（夏威夷语 / 英译 / 中译），附行注与十六 wā 导读 |
+| **《夏威夷古俗》** | David Malo 原书 67 章与 Emerson 注释全译：天地物产、等级与 kapu、神庙与丧葬、历法、竞技、古代诸王 |
 | **工具** | 神名人名地名对照表、夏威夷语术语表（悬停释义）、全文搜索 |
 
 阅读时可以在「中 / 对照 / 英」三种模式间切换，点击段首 ¶ 号展开单段原文，页边页码直接链接到原书扫描页。
@@ -57,6 +58,9 @@ source/kumulipo/en/NN.md 《库穆利波》英文底本
 content/kumulipo/        《库穆利波》中文译注；chant/ 为全诗对读页各 wā 导读
 data/kumulipo/           夏威夷语原文（haw-lines.json）与逐行对读数据（lines/*.json）
 tools/import_kumulipo.py 从 sacred-texts 的 HTML 导入《库穆利波》
+source/malo/en/NN.md     《夏威夷古俗》英文底本（¶ = Malo 小节号，[^N] = Emerson 注）
+content/malo/            《夏威夷古俗》中文译注
+data/kumulipo/lili.json  利留卡拉尼女王 1897 年《库穆利波》英译（按诗节对齐行号）
 content/about/           体例说明
 data/names/*.json        译名表（构建时合并）
 data/glossary/*.json     术语表（构建时合并）
@@ -74,4 +78,6 @@ static/                  样式、脚本、图标
 - 该版在美国出版且版权未续展，HathiTrust 版权审查结论为美国公有领域。Beckwith 卒于 1959 年，在“作者终身加七十年”的法域，原书于 2030 年进入公有领域。
 - 1970 年重印本所附 Katharine Luomala 序言仍受版权保护，本站不收录。
 - 《库穆利波》（University of Chicago Press, 1951）：一般认为其版权未续展，在美国属于公有领域；这一判断没有 HathiTrust 的正式审查结论。底本取自 sacred-texts 的人工校对本。1972 年影印本所附 Luomala 序言不收录。
+- 《夏威夷古俗》（Malo 著，Emerson 译，1903）：美国公有领域。扫描与 OCR 来自 Internet Archive（hawaiianantiquit00malorich）。
+- 利留卡拉尼女王《库穆利波》英译（1897）：美国公有领域。
 - 本站撰写的译文、注释与专栏采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可；代码采用 MIT 许可。
