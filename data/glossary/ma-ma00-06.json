@@ -1,0 +1,7 @@
+{
+  "kukulu": {"term": "kukulu", "modern": "kūkulu", "zh": "天柱、方位", "def": "本义是竖立之物、柱子与墙；古人设想天穹架在海平线四周的“天柱”或“天墙”上，于是东西南北四方也称 kūkulu，如 kūkulu hikina（东）、kūkulu komohana（西）。", "see": ["g:lewa"]},
+  "lewa": {"term": "lewa", "modern": "lewa", "zh": "天空、悬空之处", "def": "天与地之间的空间，本义是“悬荡、摇摆”；马洛把天空从高到低分为 lewa-lani、lewa-nu‘u 等几层。", "see": ["g:kukulu"]},
+  "mauka-makai": {"term": "mauka / makai", "modern": "mauka / makai", "zh": "向山 / 向海", "def": "夏威夷岛屿上最基本的方位说法：uka 是内陆、山上，kai 是海；mauka 即“往山那边”，makai 即“往海那边”。今天的夏威夷英语仍用这两个词指路。", "see": ["g:kukulu"]},
+  "opua": {"term": "opua", "modern": "‘ōpua", "zh": "地平线上的云堆", "def": "低悬在地平线上、成堆成簇的云团；古人观察它的形状与“叶子”的朝向来预测风雨，诗歌中也常用它起兴。", "see": []},
+  "kona-wind": {"term": "kona", "modern": "kona", "zh": "科纳风（南风）", "def": "从南方或西南方吹来的风暴，与常年的东北信风方向相反，常带来大雨和巨浪，打在平常背风的一面。Kona 也是各岛背风面（西面、西南面）区域的通名。", "see": []}
+}
