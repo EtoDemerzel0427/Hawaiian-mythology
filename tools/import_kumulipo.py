@@ -117,6 +117,23 @@ def main(d, root):
     # Hawaiian lines from Appendix I
     app = (d / "ku31.htm").read_text(encoding="utf-8", errors="replace")
     app = app[:app.find("APPENDIX II")] if "APPENDIX II" in app else app
+    app, _ = extract_notes(app)                      # Appendix I has a few footnotes of its own
+    app = re.sub(r"(?<=\S)\[\d{1,2}\]", "", app)    # and their markers
+    # genealogies are printed in two columns (husband | wife) as HTML tables: zip them into "husband / wife" lines
+    def merge_table(m):
+        out = []
+        for tr in re.findall(r"(?is)<tr\b.*?(?=<tr\b|</table>)", m.group(0)):
+            cols = [[l for l in clean(td).split("\n") if l.strip()] for td in re.findall(r"(?is)<td\b[^>]*>(.*?)(?=<td\b|</tr>|$)", tr)]
+            cols = [c for c in cols if c]
+            if not cols: continue
+            if len(cols) == 1: out += cols[0]; continue
+            L, R = cols[0], cols[1]
+            for i in range(max(len(L), len(R))):
+                a = L[i] if i < len(L) else ""
+                b = re.sub(r"^\d+\.\s*", "", R[i]) if i < len(R) else ""
+                out.append(f"{a} / {b}" if a and b else (a or b))
+        return "<P>" + "<BR>".join(html.escape(x) for x in out) + "</P>"
+    app = re.sub(r"(?is)<table\b.*?</table>", merge_table, app)
     lines, sections, cur = {}, [], None
     for tag, txt, center, small in blocks(app):
         if tag in ("h3", "h4") and txt.upper().startswith(("KA WA", "(HE LALA")): sections.append(dict(title=txt, start=None)); continue
@@ -125,12 +142,17 @@ def main(d, root):
             l = l.strip()
             if not l or l.startswith("{p."): continue
             m = re.match(r"^(\d+)\.\s*(.*)$", l)
-            if m: ln = int(m.group(1)); text = m.group(2).strip()
+            if m:
+                ln = int(m.group(1)); text = m.group(2).strip()
+                if last and abs(ln - (last + 1)) > 5: ln = last + 1     # misprinted number (e.g. "1889" for 1989)
             elif last: ln = last + 1; text = l          # only every fifth line is numbered in the genealogies
             else: continue
             lines[ln] = text; last = ln
             if sections and sections[-1]["start"] is None: sections[-1]["start"] = ln
     dd = root / "data" / "kumulipo"; dd.mkdir(parents=True, exist_ok=True)
+    ov = dd / "haw-overrides.json"          # hand-checked corrections against the scan
+    if ov.exists():
+        for k, v in json.load(open(ov, encoding="utf-8"))["lines"].items(): lines[int(k)] = v
     (dd / "haw-lines.json").write_text(json.dumps(dict(sections=sections, lines=lines), ensure_ascii=False, indent=0))
     print("hawaiian lines:", len(lines), "max", max(lines), "sections", [(s["title"], s["start"]) for s in sections])
 

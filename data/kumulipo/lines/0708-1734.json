@@ -1,0 +1,4176 @@
+{
+ "708": {
+  "en": "She was a woman living among chiefs and married to her brother",
+  "zh": "她是居于天上的女子，与兄弟结成拱弧之配",
+  "note": "*noho lani* 字面“居于天上”，Beckwith 解作“居于酋长之间”；*pi‘o*（拱弧）指兄妹婚，是禁忌酋长家族最推崇的婚配，所生子女等级最高，称为“神”（*akua*），见 [[ku:19#p1]]、[[ku:19#p4]]。卡拉卡瓦刊本作 *Piolani*（附录二）。"
+ },
+ "709": {
+  "en": "She was a restless woman living among chiefs",
+  "zh": "她是不安分的女子，居于天上"
+ },
+ "710": {
+  "en": "She lived above and came bending down over Ki'i",
+  "zh": "她居于高处，俯身弯向基伊",
+  "note": "高贵的拉伊拉伊（La‘ila‘i）屈就凡人基伊（Ki‘i）为夫，人类由此而生（[[ku:19#p1]]；参看 [[line:612-613]]）。"
+ },
+ "711": {
+  "en": "The earth swarmed with her offspring",
+  "zh": "大地上满是她的子孙"
+ },
+ "712": {
+  "en": "Born was Kamaha'ina [First-born], a male",
+  "zh": "生了 Kamaha‘ina，是男",
+  "note": "Beckwith 注其名义为“头生子”（First-born）。附录二：Kamokuiki 谱系抄本（Kms）第 2 页把 Kamaha‘ina、Kamamule……Kamakalua 列为基伊与拉伊拉伊的子女，而把上文所列诸子归于卡内与拉伊拉伊；参看 [[line:676-685]]。"
+ },
+ "713": {
+  "en": "Born was Kamamule, her younger born",
+  "zh": "生了 Kamamule，她后生的孩子"
+ },
+ "714": {
+  "en": "Born was Kamamainau, her middle one",
+  "zh": "生了 Kamamainau，她居中的孩子"
+ },
+ "715": {
+  "en": "Born was Kamakulua her little one, a girl",
+  "zh": "生了 Kamakulua，她最小的孩子，是女"
+ },
+ "716": {
+  "en": "Kamaha'ina lived as husband to Hali['a]",
+  "zh": "Kamaha‘ina 作为丈夫，与 Hali‘a 同居",
+  "note": "Hali‘a 是拉伊拉伊与卡内所生的女儿（[[ku:19#p1]]）；刊本作 *Hali*，Beckwith 补为 Hali[‘a]。以下约八百对夫妻都从这一对传下。"
+ },
+ "717": {
+  "en": "",
+  "zh": "生了 Loa‘a，是男",
+  "note": "Beckwith 的英译在此以省略号带过，下接的四百对夫妻名只在第 19 章用一段方括号说明概括（[[ku:19#p7]]）。"
+ },
+ "718": {
+  "en": "",
+  "zh": "Loa‘a 为夫，Nakelea 为妻",
+  "note": "卡拉卡瓦刊本自此行起把谱系排成左右两栏：左栏夫名、右栏妻名，同一横行为一对。Beckwith 附录一原注：“原文此处不重复表示‘的’的 *o*。此行读作：‘Loa‘a 为夫（或男子），Nakelea 为妻’，以下类推。”只有第一对写出 *ke kane*（夫）、*ka wahine*（妻），以下各行只列两个名字。Beckwith 没有逐行英译这些谱系。"
+ },
+ "719": {
+  "en": "",
+  "zh": "Le 为夫，Kanu 为妻"
+ },
+ "720": {
+  "en": "",
+  "zh": "Kalawe 为夫，Kamau 为妻"
+ },
+ "721": {
+  "en": "",
+  "zh": "Kulou 为夫，Haliau 为妻"
+ },
+ "722": {
+  "en": "",
+  "zh": "Na‘u 为夫，Ka-le 为妻"
+ },
+ "723": {
+  "en": "",
+  "zh": "‘A‘a 为夫，Hehe 为妻"
+ },
+ "724": {
+  "en": "",
+  "zh": "Pulepule 为夫，Ma‘i 为妻"
+ },
+ "725": {
+  "en": "",
+  "zh": "Nahu 为夫，Luke 为妻"
+ },
+ "726": {
+  "en": "",
+  "zh": "Pono 为夫，Pono‘i 为妻"
+ },
+ "727": {
+  "en": "",
+  "zh": "Kalau 为夫，Ma-ina 为妻"
+ },
+ "728": {
+  "en": "",
+  "zh": "Kulewa 为夫，Kune 为妻"
+ },
+ "729": {
+  "en": "",
+  "zh": "Po‘u 为夫，Kala‘i 为妻"
+ },
+ "730": {
+  "en": "",
+  "zh": "Po‘ulua 为夫，Kukulukulu 为妻"
+ },
+ "731": {
+  "en": "",
+  "zh": "Pae 为夫，Ha‘a‘a 为妻"
+ },
+ "732": {
+  "en": "",
+  "zh": "Paeheunui 为夫，Ki‘eki‘e 为妻"
+ },
+ "733": {
+  "en": "",
+  "zh": "Hewa 为夫，Kulu 为妻"
+ },
+ "734": {
+  "en": "",
+  "zh": "Maku 为夫，Niau 为妻"
+ },
+ "735": {
+  "en": "",
+  "zh": "Wala 为夫，Kunewa 为妻"
+ },
+ "736": {
+  "en": "",
+  "zh": "Piha 为夫，Pihapiha 为妻"
+ },
+ "737": {
+  "en": "",
+  "zh": "Mu 为夫，Kuku 为妻"
+ },
+ "738": {
+  "en": "",
+  "zh": "Nawai 为夫，Hele 为妻"
+ },
+ "739": {
+  "en": "",
+  "zh": "Wawa 为夫，Hanehane 为妻"
+ },
+ "740": {
+  "en": "",
+  "zh": "Kua‘i 为夫，‘A‘anai 为妻"
+ },
+ "741": {
+  "en": "",
+  "zh": "Lu‘u 为夫，Lu‘ule‘a 为妻"
+ },
+ "742": {
+  "en": "",
+  "zh": "Mai 为夫，Mai‘a 为妻"
+ },
+ "743": {
+  "en": "",
+  "zh": "Mai‘a 为夫，Paua 为妻"
+ },
+ "744": {
+  "en": "",
+  "zh": "Lana 为夫，Kilo 为妻"
+ },
+ "745": {
+  "en": "",
+  "zh": "Lanalana 为夫，Paepae 为妻"
+ },
+ "746": {
+  "en": "",
+  "zh": "Pulu 为夫，Lepea 为妻"
+ },
+ "747": {
+  "en": "",
+  "zh": "Puluka 为夫，Lelepe 为妻"
+ },
+ "748": {
+  "en": "",
+  "zh": "Pulukene 为夫，Lelekau 为妻"
+ },
+ "749": {
+  "en": "",
+  "zh": "Pulumakau 为夫，Lelemau 为妻"
+ },
+ "750": {
+  "en": "",
+  "zh": "Pulukea 为夫，‘Umala 为妻"
+ },
+ "751": {
+  "en": "",
+  "zh": "Nekue 为夫，Mahili 为妻"
+ },
+ "752": {
+  "en": "",
+  "zh": "Nakai 为夫，Napo‘o 为妻"
+ },
+ "753": {
+  "en": "",
+  "zh": "Kuleha 为夫，Ma-ka 为妻"
+ },
+ "754": {
+  "en": "",
+  "zh": "‘Ike 为夫，‘Ao‘ao 为妻"
+ },
+ "755": {
+  "en": "",
+  "zh": "Mala 为夫，Hu‘i 为妻"
+ },
+ "756": {
+  "en": "",
+  "zh": "Malama 为夫，Puiki 为妻"
+ },
+ "757": {
+  "en": "",
+  "zh": "Eho 为夫，Pulama 为妻"
+ },
+ "758": {
+  "en": "",
+  "zh": "Ehoaka 为夫，Pulanaia 为妻"
+ },
+ "759": {
+  "en": "",
+  "zh": "Ehoku 为夫，Malaia 为妻"
+ },
+ "760": {
+  "en": "",
+  "zh": "Keoma 为夫，Haho‘oili 为妻"
+ },
+ "761": {
+  "en": "",
+  "zh": "Kinohi 为夫，Mu‘ala 为妻"
+ },
+ "762": {
+  "en": "",
+  "zh": "Ponia 为夫，Luka 为妻"
+ },
+ "763": {
+  "en": "",
+  "zh": "Meu‘a 为夫，Mamau 为妻"
+ },
+ "764": {
+  "en": "",
+  "zh": "Meu‘alua 为夫，Maukele 为妻"
+ },
+ "765": {
+  "en": "",
+  "zh": "Ho‘olana 为夫，Ho‘ohuli 为妻"
+ },
+ "766": {
+  "en": "",
+  "zh": "Ho‘omeha 为夫，Memeha 为妻"
+ },
+ "767": {
+  "en": "",
+  "zh": "Pula 为夫，Kua 为妻"
+ },
+ "768": {
+  "en": "",
+  "zh": "Kuamu 为夫，Kuawa 为妻",
+  "note": "刊本作 *Kuamuu*（附录二）。"
+ },
+ "769": {
+  "en": "",
+  "zh": "Ko‘u 为夫，Ko‘uko‘u 为妻"
+ },
+ "770": {
+  "en": "",
+  "zh": "Meia 为夫，Pekau 为妻"
+ },
+ "771": {
+  "en": "",
+  "zh": "Kawala 为夫，Mahuli 为妻"
+ },
+ "772": {
+  "en": "",
+  "zh": "Huli 为夫，‘Imi 为妻"
+ },
+ "773": {
+  "en": "",
+  "zh": "Loa‘a 为夫，‘Oli‘oli 为妻"
+ },
+ "774": {
+  "en": "",
+  "zh": "Huhu 为夫，Le‘awale 为妻"
+ },
+ "775": {
+  "en": "",
+  "zh": "Makuma 为夫，Manoa 为妻"
+ },
+ "776": {
+  "en": "",
+  "zh": "Manomano 为夫，Lauahi 为妻"
+ },
+ "777": {
+  "en": "",
+  "zh": "Kini 为夫，Mau 为妻"
+ },
+ "778": {
+  "en": "",
+  "zh": "Leha 为夫，Maua 为妻"
+ },
+ "779": {
+  "en": "",
+  "zh": "Pu‘a 为夫，‘Ena 为妻"
+ },
+ "780": {
+  "en": "",
+  "zh": "Pu‘a‘ena 为夫，‘Ena‘ena 为妻"
+ },
+ "781": {
+  "en": "",
+  "zh": "Wela 为夫，Ahi 为妻"
+ },
+ "782": {
+  "en": "",
+  "zh": "Maiko 为夫，Kulewa 为妻"
+ },
+ "783": {
+  "en": "",
+  "zh": "Maikokahi 为夫，Kuakahi 为妻"
+ },
+ "784": {
+  "en": "",
+  "zh": "Maikolua 为夫，Pahila 为妻"
+ },
+ "785": {
+  "en": "",
+  "zh": "Hilahila 为夫，Ho‘ohila 为妻"
+ },
+ "786": {
+  "en": "",
+  "zh": "Kelau 为夫，Lukau 为妻"
+ },
+ "787": {
+  "en": "",
+  "zh": "Paio 为夫，Haluku 为妻"
+ },
+ "788": {
+  "en": "",
+  "zh": "Paia 为夫，Kalaku 为妻"
+ },
+ "789": {
+  "en": "",
+  "zh": "Keala 为夫，Keala‘ula 为妻"
+ },
+ "790": {
+  "en": "",
+  "zh": "Pi‘ao 为夫，Nai‘a 为妻"
+ },
+ "791": {
+  "en": "",
+  "zh": "Niau 为夫，Kekumu 为妻"
+ },
+ "792": {
+  "en": "",
+  "zh": "Launie 为夫，Huluhe 为妻"
+ },
+ "793": {
+  "en": "",
+  "zh": "Mono 为夫，Pa‘a 为妻"
+ },
+ "794": {
+  "en": "",
+  "zh": "Hekau 为夫，Ka‘ili 为妻"
+ },
+ "795": {
+  "en": "",
+  "zh": "Ho‘opa‘a 为夫，Ha 为妻"
+ },
+ "796": {
+  "en": "",
+  "zh": "Kalama 为夫，Kapala 为妻"
+ },
+ "797": {
+  "en": "",
+  "zh": "Helu 为夫，Namu 为妻"
+ },
+ "798": {
+  "en": "",
+  "zh": "Paila 为夫，Opuopu 为妻"
+ },
+ "799": {
+  "en": "",
+  "zh": "Halale 为夫，Malu 为妻"
+ },
+ "800": {
+  "en": "",
+  "zh": "Malie 为夫，Kalino 为妻"
+ },
+ "801": {
+  "en": "",
+  "zh": "Ma‘oki 为夫，Hulahe 为妻"
+ },
+ "802": {
+  "en": "",
+  "zh": "Kaiwi 为夫，Iwi‘a 为妻"
+ },
+ "803": {
+  "en": "",
+  "zh": "Kulea 为夫，Kulia 为妻"
+ },
+ "804": {
+  "en": "",
+  "zh": "Makou 为夫，Koulu 为妻"
+ },
+ "805": {
+  "en": "",
+  "zh": "Ia‘u 为夫，Mahea 为妻"
+ },
+ "806": {
+  "en": "",
+  "zh": "Iaka 为夫，Meia 为妻"
+ },
+ "807": {
+  "en": "",
+  "zh": "Makili 为夫，Lulu 为妻"
+ },
+ "808": {
+  "en": "",
+  "zh": "Heamo 为夫，Lou 为妻"
+ },
+ "809": {
+  "en": "",
+  "zh": "Heamokau 为夫，Makea 为妻"
+ },
+ "810": {
+  "en": "",
+  "zh": "Pu‘ili 为夫，Apomai 为妻"
+ },
+ "811": {
+  "en": "",
+  "zh": "Pu‘ili‘ili 为夫，Li‘ili‘i 为妻"
+ },
+ "812": {
+  "en": "",
+  "zh": "Pu‘iliaku 为夫，Heleihea 为妻"
+ },
+ "813": {
+  "en": "",
+  "zh": "Mokukapewa 为夫，Na‘alo 为妻"
+ },
+ "814": {
+  "en": "",
+  "zh": "Mokukai‘a 为夫，Naele 为妻"
+ },
+ "815": {
+  "en": "",
+  "zh": "Pi‘ala 为夫，Heleua 为妻"
+ },
+ "816": {
+  "en": "",
+  "zh": "Kiamo 为夫，Komo 为妻"
+ },
+ "817": {
+  "en": "",
+  "zh": "Koikua 为夫，Keaho 为妻"
+ },
+ "818": {
+  "en": "",
+  "zh": "Koi‘ele 为夫，Kauhi 为妻"
+ },
+ "819": {
+  "en": "",
+  "zh": "Pa‘ele 为夫，Peleiomo 为妻"
+ },
+ "820": {
+  "en": "",
+  "zh": "Keomo 为夫，Omoomo 为妻"
+ },
+ "821": {
+  "en": "",
+  "zh": "Hulimakani 为夫，Nanailuna 为妻"
+ },
+ "822": {
+  "en": "",
+  "zh": "Nanaikala 为夫，Haipule 为妻"
+ },
+ "823": {
+  "en": "",
+  "zh": "Kalawela 为夫，Kalahuiwale 为妻"
+ },
+ "824": {
+  "en": "",
+  "zh": "Kealakau 为夫，Hoku 为妻"
+ },
+ "825": {
+  "en": "",
+  "zh": "Kamau 为夫，Meu 为妻"
+ },
+ "826": {
+  "en": "",
+  "zh": "‘Opala 为夫，Wene 为妻"
+ },
+ "827": {
+  "en": "",
+  "zh": "Hali 为夫，Halima 为妻"
+ },
+ "828": {
+  "en": "",
+  "zh": "Haliluna 为夫，Halilalo 为妻"
+ },
+ "829": {
+  "en": "",
+  "zh": "Halimau 为夫，Halelo 为妻"
+ },
+ "830": {
+  "en": "",
+  "zh": "Halipau 为夫，Muakau 为妻"
+ },
+ "831": {
+  "en": "",
+  "zh": "Nunua 为夫，Nene‘e 为妻"
+ },
+ "832": {
+  "en": "",
+  "zh": "Nananaka 为夫，Lele‘io 为妻"
+ },
+ "833": {
+  "en": "",
+  "zh": "Oamio 为夫，Ololi 为妻"
+ },
+ "834": {
+  "en": "",
+  "zh": "Omiomio 为夫，Wiwini 为妻"
+ },
+ "835": {
+  "en": "",
+  "zh": "Aila 为夫，Kukala 为妻"
+ },
+ "836": {
+  "en": "",
+  "zh": "Ailamua 为夫，Heia 为妻"
+ },
+ "837": {
+  "en": "",
+  "zh": "Ailakau 为夫，Hele 为妻"
+ },
+ "838": {
+  "en": "",
+  "zh": "Ailapau 为夫，Kaiwi 为妻"
+ },
+ "839": {
+  "en": "",
+  "zh": "Manu 为夫，Hele‘upa 为妻"
+ },
+ "840": {
+  "en": "",
+  "zh": "Lilio 为夫，Makini 为妻"
+ },
+ "841": {
+  "en": "",
+  "zh": "Leheluhe 为夫，‘Aina 为妻"
+ },
+ "842": {
+  "en": "",
+  "zh": "Kelemau 为夫，Hinapu 为妻"
+ },
+ "843": {
+  "en": "",
+  "zh": "Kaumau 为夫，Puoho 为妻"
+ },
+ "844": {
+  "en": "",
+  "zh": "Kaukahi 为夫，Ma‘ele 为妻"
+ },
+ "845": {
+  "en": "",
+  "zh": "Mauka 为夫，Kai 为妻"
+ },
+ "846": {
+  "en": "",
+  "zh": "Ohi 为夫，Laulau 为妻"
+ },
+ "847": {
+  "en": "",
+  "zh": "Ikamu 为夫，Namu 为妻"
+ },
+ "848": {
+  "en": "",
+  "zh": "Kalu 为夫，Moena 为妻"
+ },
+ "849": {
+  "en": "",
+  "zh": "Kalukalu 为夫，Hilipo 为妻"
+ },
+ "850": {
+  "en": "",
+  "zh": "Lipo 为夫，Na‘o 为妻"
+ },
+ "851": {
+  "en": "",
+  "zh": "Lipowao 为夫，Naele 为妻"
+ },
+ "852": {
+  "en": "",
+  "zh": "Pili 为夫，‘Aiku 为妻"
+ },
+ "853": {
+  "en": "",
+  "zh": "Pilimau 为夫，Maumaua 为妻"
+ },
+ "854": {
+  "en": "",
+  "zh": "Kahale 为夫，Mua 为妻"
+ },
+ "855": {
+  "en": "",
+  "zh": "Kahale‘ai 为夫，Nu‘u 为妻"
+ },
+ "856": {
+  "en": "",
+  "zh": "Lawai‘a 为夫，Ka‘i‘o 为妻"
+ },
+ "857": {
+  "en": "",
+  "zh": "Mauaka 为夫，Lehu 为妻"
+ },
+ "858": {
+  "en": "",
+  "zh": "Wana 为夫，Kala 为妻"
+ },
+ "859": {
+  "en": "",
+  "zh": "Wanawana 为夫，Wanakau 为妻"
+ },
+ "860": {
+  "en": "",
+  "zh": "Wanakaulani 为夫，Melu 为妻"
+ },
+ "861": {
+  "en": "",
+  "zh": "Wanamelu 为夫，Hulili 为妻"
+ },
+ "862": {
+  "en": "",
+  "zh": "Kaulua 为夫，Kaohi 为妻"
+ },
+ "863": {
+  "en": "",
+  "zh": "Wala‘au 为夫，Eiaau 为妻"
+ },
+ "864": {
+  "en": "",
+  "zh": "Hanehane 为夫，Hahane 为妻"
+ },
+ "865": {
+  "en": "",
+  "zh": "Hawane 为夫，Kuamu 为妻"
+ },
+ "866": {
+  "en": "",
+  "zh": "Heleau 为夫，Ma‘aku 为妻"
+ },
+ "867": {
+  "en": "",
+  "zh": "Hulimea 为夫，‘Aiko 为妻"
+ },
+ "868": {
+  "en": "",
+  "zh": "Hulimua 为夫，Newa 为妻"
+ },
+ "869": {
+  "en": "",
+  "zh": "‘Ewa 为夫，‘Ewa‘ewa 为妻"
+ },
+ "870": {
+  "en": "",
+  "zh": "Omali 为夫，Malimali 为妻"
+ },
+ "871": {
+  "en": "",
+  "zh": "Huelo 为夫，Kakai 为妻"
+ },
+ "872": {
+  "en": "",
+  "zh": "Niolo 为夫，Eiaku 为妻"
+ },
+ "873": {
+  "en": "",
+  "zh": "Pilimai 为夫，Kona 为妻"
+ },
+ "874": {
+  "en": "",
+  "zh": "Keanu 为夫，Peleau 为妻"
+ },
+ "875": {
+  "en": "",
+  "zh": "Ka‘io 为夫，Pueo 为妻"
+ },
+ "876": {
+  "en": "",
+  "zh": "Haluaka 为夫，Kaolo 为妻"
+ },
+ "877": {
+  "en": "",
+  "zh": "Kapuhi 为夫，Mula 为妻"
+ },
+ "878": {
+  "en": "",
+  "zh": "Ehio 为夫，Emio 为妻"
+ },
+ "879": {
+  "en": "",
+  "zh": "Kakai 为夫，Alakai 为妻"
+ },
+ "880": {
+  "en": "",
+  "zh": "Amo 为夫，Koikoi 为妻"
+ },
+ "881": {
+  "en": "",
+  "zh": "Amoaku 为夫，Kuwala 为妻"
+ },
+ "882": {
+  "en": "",
+  "zh": "Helemai 为夫，Heleaku 为妻"
+ },
+ "883": {
+  "en": "",
+  "zh": "Onaho 为夫，Keanali‘i 为妻"
+ },
+ "884": {
+  "en": "",
+  "zh": "Piliko‘a 为夫，Ukuli‘i 为妻"
+ },
+ "885": {
+  "en": "",
+  "zh": "Mahinahina 为夫，Halepo‘i 为妻"
+ },
+ "886": {
+  "en": "",
+  "zh": "Po‘opo‘o 为夫，Nawai 为妻"
+ },
+ "887": {
+  "en": "",
+  "zh": "Omana 为夫，Manamana 为妻"
+ },
+ "888": {
+  "en": "",
+  "zh": "Omana‘io 为夫，Huluheu 为妻"
+ },
+ "889": {
+  "en": "",
+  "zh": "Mana‘ina‘i 为夫，Malana‘i 为妻"
+ },
+ "890": {
+  "en": "",
+  "zh": "Huluemau 为夫，Ka‘alo 为妻"
+ },
+ "891": {
+  "en": "",
+  "zh": "Kaluli 为夫，Pau 为妻"
+ },
+ "892": {
+  "en": "",
+  "zh": "Nakino 为夫，Kinohi 为妻"
+ },
+ "893": {
+  "en": "",
+  "zh": "Nakinolua 为夫，Ewalu 为妻"
+ },
+ "894": {
+  "en": "",
+  "zh": "Ukiki 为夫，Eau 为妻"
+ },
+ "895": {
+  "en": "",
+  "zh": "Uli 为夫，Uliuli 为妻"
+ },
+ "896": {
+  "en": "",
+  "zh": "Mele 为夫，Melemele 为妻"
+ },
+ "897": {
+  "en": "",
+  "zh": "Lanai 为夫，Po‘i 为妻"
+ },
+ "898": {
+  "en": "",
+  "zh": "Ha‘o 为夫，Au 为妻"
+ },
+ "899": {
+  "en": "",
+  "zh": "Pakaikai 为夫，Puehu 为妻"
+ },
+ "900": {
+  "en": "",
+  "zh": "Moana 为夫，Hilo 为妻"
+ },
+ "901": {
+  "en": "",
+  "zh": "Hulu 为夫，Makali 为妻"
+ },
+ "902": {
+  "en": "",
+  "zh": "He 为夫，Ho‘eue 为妻"
+ },
+ "903": {
+  "en": "",
+  "zh": "Makilo 为夫，Moi 为妻"
+ },
+ "904": {
+  "en": "",
+  "zh": "Naua 为夫，‘Upa 为妻"
+ },
+ "905": {
+  "en": "",
+  "zh": "Ua 为夫，Hama 为妻"
+ },
+ "906": {
+  "en": "",
+  "zh": "Pele‘u 为夫，Hamahuna 为妻"
+ },
+ "907": {
+  "en": "",
+  "zh": "Mahina 为夫，Hina 为妻"
+ },
+ "908": {
+  "en": "",
+  "zh": "Mahinale 为夫，Ulukua 为妻"
+ },
+ "909": {
+  "en": "",
+  "zh": "Mahinale‘a 为夫，Palemo 为妻",
+  "note": "Beckwith 附录一在妻名 Palemo 下加注：“使酋长们倒下的海”（*Ke kai o Kahinali‘i*）。Kai-a-Kahinali‘i 是夏威夷传说中的大洪水之名，见 [[ch:22]]。另两处同类注见 [[line:1114]]、[[line:1317]]。"
+ },
+ "910": {
+  "en": "",
+  "zh": "Pipika 为夫，Kuhinu 为妻"
+ },
+ "911": {
+  "en": "",
+  "zh": "Mahele 为夫，Pu‘unaue 为妻"
+ },
+ "912": {
+  "en": "",
+  "zh": "Kaohi 为夫，Kaohiohi 为妻"
+ },
+ "913": {
+  "en": "",
+  "zh": "Kona 为夫，Konakona 为妻"
+ },
+ "914": {
+  "en": "",
+  "zh": "Iho 为夫，Pelu 为妻"
+ },
+ "915": {
+  "en": "",
+  "zh": "Kula‘a 为夫，Mailu 为妻"
+ },
+ "916": {
+  "en": "",
+  "zh": "Kuamau‘u 为夫，Holehole 为妻"
+ },
+ "917": {
+  "en": "",
+  "zh": "Pahili 为夫，Halulu 为妻"
+ },
+ "918": {
+  "en": "",
+  "zh": "Keia 为夫，Luluka 为妻"
+ },
+ "919": {
+  "en": "",
+  "zh": "Maki‘oi 为夫，Meihiolo 为妻"
+ },
+ "920": {
+  "en": "",
+  "zh": "Helehele 为夫，Pineha 为妻"
+ },
+ "921": {
+  "en": "",
+  "zh": "‘Aukai 为夫，Milo 为妻"
+ },
+ "922": {
+  "en": "",
+  "zh": "Moekau 为夫，Helemau 为妻"
+ },
+ "923": {
+  "en": "",
+  "zh": "Huluau 为夫，Pulama 为妻"
+ },
+ "924": {
+  "en": "",
+  "zh": "Melemele 为夫，Milokua 为妻"
+ },
+ "925": {
+  "en": "",
+  "zh": "Kumuniu 为夫，Pilia 为妻"
+ },
+ "926": {
+  "en": "",
+  "zh": "Amoi 为夫，Akua 为妻"
+ },
+ "927": {
+  "en": "",
+  "zh": "Kunewa 为夫，Hulema 为妻"
+ },
+ "928": {
+  "en": "",
+  "zh": "Pahilo 为夫，Pili‘aiku 为妻"
+ },
+ "929": {
+  "en": "",
+  "zh": "Napo‘i 为夫，Ka‘ale 为妻"
+ },
+ "930": {
+  "en": "",
+  "zh": "Kulana 为夫，Na-wa 为妻"
+ },
+ "931": {
+  "en": "",
+  "zh": "Kakau 为夫，Po‘ipo‘i 为妻"
+ },
+ "932": {
+  "en": "",
+  "zh": "Holeha 为夫，Hulupehu 为妻"
+ },
+ "933": {
+  "en": "",
+  "zh": "Pa‘ani 为夫，Malana‘opi 为妻"
+ },
+ "934": {
+  "en": "",
+  "zh": "Lewa 为夫，Kukelemio 为妻"
+ },
+ "935": {
+  "en": "",
+  "zh": "Pihaulu 为夫，Hoiha 为妻"
+ },
+ "936": {
+  "en": "",
+  "zh": "Kelewa‘a 为夫，Kinohili 为妻"
+ },
+ "937": {
+  "en": "",
+  "zh": "Kaki‘o 为夫，Hiliha 为妻"
+ },
+ "938": {
+  "en": "",
+  "zh": "Hulipena 为夫，Miko 为妻"
+ },
+ "939": {
+  "en": "",
+  "zh": "Mokiweo 为夫，Pakala 为妻"
+ },
+ "940": {
+  "en": "",
+  "zh": "Kapalama 为夫，Kepo‘oha 为妻"
+ },
+ "941": {
+  "en": "",
+  "zh": "Kapalamalama 为夫，Kepo‘olimaha 为妻"
+ },
+ "942": {
+  "en": "",
+  "zh": "Wikani 为夫，Kamakolu 为妻"
+ },
+ "943": {
+  "en": "",
+  "zh": "Kapehi 为夫，Kaluku‘u 为妻"
+ },
+ "944": {
+  "en": "",
+  "zh": "Hiwa 为夫，Kahiwahiwa 为妻"
+ },
+ "945": {
+  "en": "",
+  "zh": "Pano 为夫，Kekaliholiho 为妻"
+ },
+ "946": {
+  "en": "",
+  "zh": "Opelau 为夫，Maha 为妻"
+ },
+ "947": {
+  "en": "",
+  "zh": "Mahilu 为夫，Kaene 为妻"
+ },
+ "948": {
+  "en": "",
+  "zh": "Ho‘olewa 为夫，Waiau 为妻"
+ },
+ "949": {
+  "en": "",
+  "zh": "Kumau 为夫，Kahaka 为妻"
+ },
+ "950": {
+  "en": "",
+  "zh": "Papalele 为夫，Kukala 为妻"
+ },
+ "951": {
+  "en": "",
+  "zh": "Haole 为夫，Kuwahine 为妻"
+ },
+ "952": {
+  "en": "",
+  "zh": "Makua 为夫，Kaluakekane 为妻"
+ },
+ "953": {
+  "en": "",
+  "zh": "Leho 为夫，Holomau 为妻"
+ },
+ "954": {
+  "en": "",
+  "zh": "Opikana 为夫，Nahenahe 为妻"
+ },
+ "955": {
+  "en": "",
+  "zh": "Helemaka 为夫，Liko 为妻"
+ },
+ "956": {
+  "en": "",
+  "zh": "Kukuhale 为夫，Hinaulu 为妻"
+ },
+ "957": {
+  "en": "",
+  "zh": "Pohakukau 为夫，Hinamai 为妻"
+ },
+ "958": {
+  "en": "",
+  "zh": "Helua 为夫，Kalani 为妻"
+ },
+ "959": {
+  "en": "",
+  "zh": "Komokomo 为夫，Malie 为妻"
+ },
+ "960": {
+  "en": "",
+  "zh": "Po‘ele‘ele 为夫，Ho‘olua 为妻"
+ },
+ "961": {
+  "en": "",
+  "zh": "Nuku‘ele‘ele 为夫，Papakele 为妻"
+ },
+ "962": {
+  "en": "",
+  "zh": "Mama 为夫，Papakapa 为妻"
+ },
+ "963": {
+  "en": "",
+  "zh": "Hamama 为夫，Malele 为妻"
+ },
+ "964": {
+  "en": "",
+  "zh": "Kuemi 为夫，Kulua 为妻"
+ },
+ "965": {
+  "en": "",
+  "zh": "Opiliwale 为夫，Kapoulena 为妻"
+ },
+ "966": {
+  "en": "",
+  "zh": "Ahulimai 为夫，Mahinu‘ele 为妻"
+ },
+ "967": {
+  "en": "",
+  "zh": "Ma‘ikomo 为夫，Pelemau 为妻"
+ },
+ "968": {
+  "en": "",
+  "zh": "Hununu 为夫，Kamanu 为妻"
+ },
+ "969": {
+  "en": "",
+  "zh": "Ho‘olohe 为夫，Nawaikaua 为妻"
+ },
+ "970": {
+  "en": "",
+  "zh": "Kumaua 为夫，Kulukaua 为妻"
+ },
+ "971": {
+  "en": "",
+  "zh": "Koikoi 为夫，Hau 为妻"
+ },
+ "972": {
+  "en": "",
+  "zh": "Mau‘awa 为夫，Kolokolo 为妻"
+ },
+ "973": {
+  "en": "",
+  "zh": "Kelelua 为夫，‘A‘a 为妻"
+ },
+ "974": {
+  "en": "",
+  "zh": "Mukana 为夫，Mahi‘opu 为妻"
+ },
+ "975": {
+  "en": "",
+  "zh": "Mahili 为夫，Wili 为妻"
+ },
+ "976": {
+  "en": "",
+  "zh": "Kukona 为夫，Naka 为妻"
+ },
+ "977": {
+  "en": "",
+  "zh": "Kanawai 为夫，Hapele 为妻"
+ },
+ "978": {
+  "en": "",
+  "zh": "Lohilohi 为夫，Hapeleau 为妻"
+ },
+ "979": {
+  "en": "",
+  "zh": "Apikili 为夫，Nohilo 为妻"
+ },
+ "980": {
+  "en": "",
+  "zh": "Ho‘omaku 为夫，Nohalau 为妻"
+ },
+ "981": {
+  "en": "",
+  "zh": "Olepe 为夫，Makau 为妻"
+ },
+ "982": {
+  "en": "",
+  "zh": "Kala 为夫，Heleana 为妻",
+  "note": "妻名刊本作 *Heleaua*（附录二）。"
+ },
+ "983": {
+  "en": "",
+  "zh": "Hulipau 为夫，Hulimakeau 为妻"
+ },
+ "984": {
+  "en": "",
+  "zh": "Makohi 为夫，Hulimakele 为妻"
+ },
+ "985": {
+  "en": "",
+  "zh": "‘O‘opuola 为夫，Nahalau 为妻"
+ },
+ "986": {
+  "en": "",
+  "zh": "Niuhuli 为夫，Nakuli‘i 为妻"
+ },
+ "987": {
+  "en": "",
+  "zh": "Ohao 为夫，Nakumau 为妻"
+ },
+ "988": {
+  "en": "",
+  "zh": "Nu‘u 为夫，Helemai 为妻"
+ },
+ "989": {
+  "en": "",
+  "zh": "Lena 为夫，Palemo 为妻"
+ },
+ "990": {
+  "en": "",
+  "zh": "Ahiahi 为夫，Opihi 为妻"
+ },
+ "991": {
+  "en": "",
+  "zh": "Ahiahihia 为夫，Ounauna 为妻"
+ },
+ "992": {
+  "en": "",
+  "zh": "Ahiakane 为夫，Wanaku 为妻"
+ },
+ "993": {
+  "en": "",
+  "zh": "Ahiakapoloa 为夫，Kikala 为妻"
+ },
+ "994": {
+  "en": "",
+  "zh": "Ahiakapokau 为夫，Hapu‘u 为妻",
+  "note": "刊本加连字符作 *Ahia-ka-po-kau*（附录二）。"
+ },
+ "995": {
+  "en": "",
+  "zh": "Ahiakulumau 为夫，Makani 为妻"
+ },
+ "996": {
+  "en": "",
+  "zh": "Ahiakamake 为夫，Kilau 为妻"
+ },
+ "997": {
+  "en": "",
+  "zh": "Ahiaka‘olu 为夫，Honika 为妻"
+ },
+ "998": {
+  "en": "",
+  "zh": "Pohinakau 为夫，Hilahea 为妻"
+ },
+ "999": {
+  "en": "",
+  "zh": "Moulikaina 为夫，Ho‘omaka 为妻"
+ },
+ "1000": {
+  "en": "",
+  "zh": "Ho‘oku 为夫，Nanana 为妻"
+ },
+ "1001": {
+  "en": "",
+  "zh": "Manaweulani 为夫，Laukunu 为妻"
+ },
+ "1002": {
+  "en": "",
+  "zh": "Ho‘omailu 为夫，Puluea 为妻"
+ },
+ "1003": {
+  "en": "",
+  "zh": "Mailu 为夫，Lehuane 为妻"
+ },
+ "1004": {
+  "en": "",
+  "zh": "Polehua 为夫，Keahu 为妻"
+ },
+ "1005": {
+  "en": "",
+  "zh": "Pu‘ulele 为夫，Noelo 为妻"
+ },
+ "1006": {
+  "en": "",
+  "zh": "Hamohulu 为夫，Noe‘ula 为妻"
+ },
+ "1007": {
+  "en": "",
+  "zh": "I‘amama 为夫，Noenoe 为妻"
+ },
+ "1008": {
+  "en": "",
+  "zh": "Kuinewa 为夫，Pilimau‘u 为妻"
+ },
+ "1009": {
+  "en": "",
+  "zh": "Holopulau 为夫，Hinakona 为妻"
+ },
+ "1010": {
+  "en": "",
+  "zh": "Makanewanewa 为夫，Helepuau 为妻"
+ },
+ "1011": {
+  "en": "",
+  "zh": "Melia 为夫，Melemele 为妻"
+ },
+ "1012": {
+  "en": "",
+  "zh": "Humuhumu 为夫，Palamau 为妻"
+ },
+ "1013": {
+  "en": "",
+  "zh": "Ukianu 为夫，Nenue 为妻"
+ },
+ "1014": {
+  "en": "",
+  "zh": "Ukinala 为夫，Ilimaka 为妻"
+ },
+ "1015": {
+  "en": "",
+  "zh": "Ukikamau 为夫，Keohoko 为妻"
+ },
+ "1016": {
+  "en": "",
+  "zh": "Ukilelewa 为夫，Laumeki 为妻"
+ },
+ "1017": {
+  "en": "",
+  "zh": "Ukinahina 为夫，Nilea 为妻"
+ },
+ "1018": {
+  "en": "",
+  "zh": "Ho‘opulu 为夫，‘Olo‘olohu 为妻"
+ },
+ "1019": {
+  "en": "",
+  "zh": "Nahiole 为夫，Kealapi‘i 为妻"
+ },
+ "1020": {
+  "en": "",
+  "zh": "Mukiki 为夫，Makino 为妻"
+ },
+ "1021": {
+  "en": "",
+  "zh": "Kiola 为夫，I‘ai‘a 为妻",
+  "note": "妻名刊本作 *Ia-a*（附录二）。"
+ },
+ "1022": {
+  "en": "",
+  "zh": "Mulemulea 为夫，Helelu 为妻"
+ },
+ "1023": {
+  "en": "",
+  "zh": "Kukawa 为夫，Maika‘iwa 为妻"
+ },
+ "1024": {
+  "en": "",
+  "zh": "Kamio 为夫，Molemole 为妻"
+ },
+ "1025": {
+  "en": "",
+  "zh": "Ho‘omu 为夫，Unauna 为妻"
+ },
+ "1026": {
+  "en": "",
+  "zh": "Hailau 为夫，Pamakani 为妻"
+ },
+ "1027": {
+  "en": "",
+  "zh": "Ho‘omauke‘a 为夫，Muli 为妻"
+ },
+ "1028": {
+  "en": "",
+  "zh": "Pulune 为夫，Kahe 为妻"
+ },
+ "1029": {
+  "en": "",
+  "zh": "Kuaua 为夫，Wailuhi 为妻"
+ },
+ "1030": {
+  "en": "",
+  "zh": "Moeiho 为夫，‘Imihia 为妻"
+ },
+ "1031": {
+  "en": "",
+  "zh": "Manu‘ala 为夫，Kawele 为妻"
+ },
+ "1032": {
+  "en": "",
+  "zh": "Kolealea 为夫，Kauwewe 为妻"
+ },
+ "1033": {
+  "en": "",
+  "zh": "Hilohilo 为夫，Hokelona 为妻"
+ },
+ "1034": {
+  "en": "",
+  "zh": "Maluipo 为夫，Hoki‘i 为妻"
+ },
+ "1035": {
+  "en": "",
+  "zh": "‘Awaia 为夫，Milo 为妻"
+ },
+ "1036": {
+  "en": "",
+  "zh": "Ho‘ohinu 为夫，Ohouma 为妻"
+ },
+ "1037": {
+  "en": "",
+  "zh": "Eapu 为夫，Uluoha 为妻"
+ },
+ "1038": {
+  "en": "",
+  "zh": "lalo 为夫，Makalewa 为妻"
+ },
+ "1039": {
+  "en": "",
+  "zh": "Heiau 为夫，Pi‘ioha 为妻"
+ },
+ "1040": {
+  "en": "",
+  "zh": "Hei‘aumana 为夫，Ho‘ohiwa 为妻"
+ },
+ "1041": {
+  "en": "",
+  "zh": "Pulemo 为夫，Maluolua 为妻"
+ },
+ "1042": {
+  "en": "",
+  "zh": "Kaukeoa 为夫，Hi‘ileia 为妻"
+ },
+ "1043": {
+  "en": "",
+  "zh": "Helemua 为夫，Puainea 为妻"
+ },
+ "1044": {
+  "en": "",
+  "zh": "Kalele 为夫，Wamakona 为妻"
+ },
+ "1045": {
+  "en": "",
+  "zh": "Paepae 为夫，Lima‘auki 为妻"
+ },
+ "1046": {
+  "en": "",
+  "zh": "Keoa 为夫，Puameli 为妻"
+ },
+ "1047": {
+  "en": "",
+  "zh": "Kapouhina 为夫，Kuamaulu 为妻"
+ },
+ "1048": {
+  "en": "",
+  "zh": "Kapouhinaha 为夫，Hoku‘a‘ala 为妻"
+ },
+ "1049": {
+  "en": "",
+  "zh": "Ho‘opi‘opi‘o 为夫，Pi‘onu‘u 为妻"
+ },
+ "1050": {
+  "en": "",
+  "zh": "Ho‘opi‘oaka 为夫，Pi‘oanuenue 为妻"
+ },
+ "1051": {
+  "en": "",
+  "zh": "Ho‘olahalaha 为夫，Pulau 为妻"
+ },
+ "1052": {
+  "en": "",
+  "zh": "Ho‘omahilu 为夫，Makua 为妻"
+ },
+ "1053": {
+  "en": "",
+  "zh": "Nanewa 为夫，Peleuwao 为妻"
+ },
+ "1054": {
+  "en": "",
+  "zh": "Nanawa‘a 为夫，Oma 为妻"
+ },
+ "1055": {
+  "en": "",
+  "zh": "Ho‘okilo 为夫，Pilikamau 为妻"
+ },
+ "1056": {
+  "en": "",
+  "zh": "Kumeheu 为夫，Leleawa 为妻"
+ },
+ "1057": {
+  "en": "",
+  "zh": "Leleiluna 为夫，Mainahu 为妻"
+ },
+ "1058": {
+  "en": "",
+  "zh": "Halekumu 为夫，Kimonaue 为妻"
+ },
+ "1059": {
+  "en": "",
+  "zh": "Halepaio 为夫，Holio 为妻"
+ },
+ "1060": {
+  "en": "",
+  "zh": "Halemoeanu 为夫，Ke‘oke‘o 为妻"
+ },
+ "1061": {
+  "en": "",
+  "zh": "Haleluakini 为夫，Mali‘i 为妻"
+ },
+ "1062": {
+  "en": "",
+  "zh": "Halekuamu 为夫，Noio 为妻"
+ },
+ "1063": {
+  "en": "",
+  "zh": "Ha‘iola 为夫，Laulaha 为妻"
+ },
+ "1064": {
+  "en": "",
+  "zh": "Kalelemauliaka 为夫，Miloha 为妻"
+ },
+ "1065": {
+  "en": "",
+  "zh": "Ko‘iniho 为夫，Naku 为妻"
+ },
+ "1066": {
+  "en": "",
+  "zh": "Po‘oku 为夫，Paleamakau 为妻"
+ },
+ "1067": {
+  "en": "",
+  "zh": "Hale‘imiloea 为夫，Hilohilo 为妻"
+ },
+ "1068": {
+  "en": "",
+  "zh": "Pani‘oni‘o 为夫，Liho 为妻"
+ },
+ "1069": {
+  "en": "",
+  "zh": "Kealakike‘e 为夫，Maiau 为妻"
+ },
+ "1070": {
+  "en": "",
+  "zh": "Oiaku 为夫，Kaniho 为妻"
+ },
+ "1071": {
+  "en": "",
+  "zh": "Huini 为夫，Naihu 为妻"
+ },
+ "1072": {
+  "en": "",
+  "zh": "Pa 为夫，‘Ai‘ano 为妻",
+  "note": "从这里起，夫名中出现成组递进的名字：Pa、Pana、Pana-kahi、Pa‘ike-ka-lua、Pu‘u-kolu-kolu、Napu‘u-eha、Pali-ma-kahana（参看 Beckwith 对第 1094–1102 行的说明），其中嵌有夏威夷语数词 *kahi*（一）、*lua*（二）、*kolu*（三）、*hā*（四）、*lima*（五）。同一套序列在第 1083–1093、1094–1102、1104–1112 行又各配上一个后缀重复一遍。"
+ },
+ "1073": {
+  "en": "",
+  "zh": "Pana 为夫，Koliau 为妻"
+ },
+ "1074": {
+  "en": "",
+  "zh": "Panakahi 为夫，Alia‘oe 为妻"
+ },
+ "1075": {
+  "en": "",
+  "zh": "Pa‘ikekalua 为夫，Piliwale 为妻"
+ },
+ "1076": {
+  "en": "",
+  "zh": "Pu‘ukolukolu 为夫，Hele‘iamai 为妻"
+ },
+ "1077": {
+  "en": "",
+  "zh": "Napu‘ueha 为夫，Ho‘okonokono 为妻"
+ },
+ "1078": {
+  "en": "",
+  "zh": "Palimakahana 为夫，Helemaia 为妻"
+ },
+ "1079": {
+  "en": "",
+  "zh": "Waiakea 为夫，Hepahuno 为妻"
+ },
+ "1080": {
+  "en": "",
+  "zh": "Kaeamauli 为夫，‘Eleiku 为妻"
+ },
+ "1081": {
+  "en": "",
+  "zh": "Kokoi‘ele 为夫，Maumau 为妻"
+ },
+ "1082": {
+  "en": "",
+  "zh": "Kaholookalwa 为夫，Heoioi 为妻",
+  "note": "附录二：第 1082–1101 行的妻名与手稿（MS）不一致。"
+ },
+ "1083": {
+  "en": "",
+  "zh": "Kalelenohinalea 为夫，Aluaku 为妻"
+ },
+ "1084": {
+  "en": "",
+  "zh": "Pana‘akahiahinalea 为夫，Helule 为妻"
+ },
+ "1085": {
+  "en": "",
+  "zh": "Panaikaluakahinalea 为夫，Painaina 为妻"
+ },
+ "1086": {
+  "en": "",
+  "zh": "Pu‘ukoluakukahinalea 为夫，Noakawalu 为妻"
+ },
+ "1087": {
+  "en": "",
+  "zh": "Napu‘uikahakahinalea 为夫，Piliamoa 为妻"
+ },
+ "1088": {
+  "en": "",
+  "zh": "Palimawaleahinalea 为夫，Manu 为妻"
+ },
+ "1089": {
+  "en": "",
+  "zh": "Akahiakaea‘akilolo 为夫，Lekeamo 为妻"
+ },
+ "1090": {
+  "en": "",
+  "zh": "Paluaakaea‘akilolo 为夫，Kelekeau 为妻"
+ },
+ "1091": {
+  "en": "",
+  "zh": "Pu‘ukoluakaea‘akilolo 为夫，‘Umikaua 为妻"
+ },
+ "1092": {
+  "en": "",
+  "zh": "Pu‘uhakahaa‘akilolo 为夫，Mailo 为妻"
+ },
+ "1093": {
+  "en": "",
+  "zh": "Pu‘ulimakaeaaka‘akilolo 为夫，Nihohoe 为妻"
+ },
+ "1094": {
+  "en": "",
+  "zh": "Akahikeewe 为夫，Paliiuka 为妻",
+  "note": "附录二：刊本把第 1094–1102 行的名字分写成两个大写的词，如 *Akahi Keawe*（“第一 Keawe”）等。这一组夫名依次嵌着数词“一、二、三、四、五”（akahi、lua、kolu、hā、lima）。"
+ },
+ "1095": {
+  "en": "",
+  "zh": "Paluakeewe 为夫，Paliikai 为妻"
+ },
+ "1096": {
+  "en": "",
+  "zh": "Paukolu 为夫，Makaimoimo 为妻"
+ },
+ "1097": {
+  "en": "",
+  "zh": "Pu‘uhakeewe 为夫，Lauohokena 为妻"
+ },
+ "1098": {
+  "en": "",
+  "zh": "Pulimakaewe 为夫，Piu 为妻"
+ },
+ "1099": {
+  "en": "",
+  "zh": "Waiakaeakaewe 为夫，Nahinahi 为妻"
+ },
+ "1100": {
+  "en": "",
+  "zh": "Kamauliakaewe 为夫，Kamehai 为妻"
+ },
+ "1101": {
+  "en": "",
+  "zh": "Koieleakaewe 为夫，Ulupo 为妻"
+ },
+ "1102": {
+  "en": "",
+  "zh": "Kuaiwaakaewe 为夫，Newaiku 为妻"
+ },
+ "1103": {
+  "en": "",
+  "zh": "Henahuno 为夫，Puhemo 为妻"
+ },
+ "1104": {
+  "en": "",
+  "zh": "Panakahikenahu 为夫，Lahilahi 为妻"
+ },
+ "1105": {
+  "en": "",
+  "zh": "Panaluakenahu 为夫，Kaukeahu 为妻"
+ },
+ "1106": {
+  "en": "",
+  "zh": "Panakolukenahu 为夫，‘Ulalena 为妻"
+ },
+ "1107": {
+  "en": "",
+  "zh": "Panahakenahu 为夫，Eiawale 为妻"
+ },
+ "1108": {
+  "en": "",
+  "zh": "Lewelimakenahu 为夫，Konukonu 为妻"
+ },
+ "1109": {
+  "en": "",
+  "zh": "Paakaeakenahu 为夫，Uli 为妻"
+ },
+ "1110": {
+  "en": "",
+  "zh": "Omaulikenahu 为夫，Na‘ina‘i 为妻"
+ },
+ "1111": {
+  "en": "",
+  "zh": "Ko‘ielehakenahu 为夫，Pilomoku 为妻"
+ },
+ "1112": {
+  "en": "",
+  "zh": "Kuaiwakelekenahu 为夫，Nahae 为妻"
+ },
+ "1113": {
+  "en": "",
+  "zh": "Hekaunano 为夫，Welawela 为妻"
+ },
+ "1114": {
+  "en": "",
+  "zh": "Papio 为夫，Lo‘ilo‘i 为妻",
+  "note": "Beckwith 附录一在妻名 Lo‘ilo‘i 下加注：“使酋长们倒下的第二次海”（*Ka lua o ke kai o Kahinali‘i*）。参看 [[line:909]]。"
+ },
+ "1115": {
+  "en": "",
+  "zh": "Manu‘akele 为夫，Kealo 为妻"
+ },
+ "1116": {
+  "en": "",
+  "zh": "Kaunuka 为夫，Kukamaka 为妻"
+ },
+ "1117": {
+  "en": "",
+  "zh": "Maki‘i 为夫，Auhe‘e 为妻",
+  "note": "到此为止，第十一 wā 正好列出四百对夫妻（第 718–1117 行）。Beckwith 认为第十一 wā 有意分成约各四百对的两半，是按“四百”计数的记忆手段（[[ku:24#p10]]）。"
+ },
+ "1118": {
+  "en": "",
+  "zh": "Kupololi‘ili 为夫，Ha‘ihae 为妻",
+  "note": "Beckwith 附录一在夫名 Kupololi‘ili 下注：“见第 619 行。”第 619 行是“长寿之人” Ku-polo-li‘ili-ali‘i-mua-o-lo‘i-po（[[line:619]]）。从这里起，夫名依次以这个名字的音节为词头：Kupolo（第 1118–1172 行）、Polo（1173–1244）、Li‘ili/Li‘i（1245–1317）、Ali‘i（1318–1381）、Mua（1382–1453）、Lo‘i（1454–1529），最后以 Lo‘ipo 与 Pola‘a 收尾。Beckwith 认为这“本质上是一种记忆手段，很难不是人为的”（[[ku:24#p9]]）。"
+ },
+ "1119": {
+  "en": "",
+  "zh": "Kupoka 为夫，Milio 为妻"
+ },
+ "1120": {
+  "en": "",
+  "zh": "Kupokanaha 为夫，Hamunu 为妻"
+ },
+ "1121": {
+  "en": "",
+  "zh": "Kupone‘e 为夫，Naia 为妻"
+ },
+ "1122": {
+  "en": "",
+  "zh": "Kupohaha 为夫，Pakau 为妻"
+ },
+ "1123": {
+  "en": "",
+  "zh": "Kupoko 为夫，Hemolua 为妻"
+ },
+ "1124": {
+  "en": "",
+  "zh": "Kupo-e 为夫，Naio 为妻"
+ },
+ "1125": {
+  "en": "",
+  "zh": "Kupou 为夫，Kelekele 为妻"
+ },
+ "1126": {
+  "en": "",
+  "zh": "Kupolele 为夫，Hapulu 为妻"
+ },
+ "1127": {
+  "en": "",
+  "zh": "Kupololo 为夫，Napulu 为妻"
+ },
+ "1128": {
+  "en": "",
+  "zh": "Kupolili 为夫，Kuamo‘o 为妻"
+ },
+ "1129": {
+  "en": "",
+  "zh": "Kuponakanaka 为夫，Mu‘umu‘u 为妻"
+ },
+ "1130": {
+  "en": "",
+  "zh": "Kupohilili 为夫，Mo‘onawe 为妻"
+ },
+ "1131": {
+  "en": "",
+  "zh": "Kupohalalu 为夫，Helua 为妻"
+ },
+ "1132": {
+  "en": "",
+  "zh": "Kupohelemai 为夫，Poiwa 为妻"
+ },
+ "1133": {
+  "en": "",
+  "zh": "Kupokalalau 为夫，Nana 为妻"
+ },
+ "1134": {
+  "en": "",
+  "zh": "Kupolahauma 为夫，Nakulu 为妻"
+ },
+ "1135": {
+  "en": "",
+  "zh": "Kupoli‘ili‘i 为夫，Eiamae 为妻"
+ },
+ "1136": {
+  "en": "",
+  "zh": "Kupolona‘ana‘a 为夫，Lelehewa 为妻"
+ },
+ "1137": {
+  "en": "",
+  "zh": "Kupolomaikau 为夫，Kimopu 为妻"
+ },
+ "1138": {
+  "en": "",
+  "zh": "Kupolohelele 为夫，Holi 为妻"
+ },
+ "1139": {
+  "en": "",
+  "zh": "Kupolopa‘iuma 为夫，Kupolupa‘iuma 为妻"
+ },
+ "1140": {
+  "en": "",
+  "zh": "Kupoloha‘iha‘i 为夫，Luli 为妻"
+ },
+ "1141": {
+  "en": "",
+  "zh": "Kupolokeleau 为夫，Makeamo 为妻"
+ },
+ "1142": {
+  "en": "",
+  "zh": "Kupolonaunau 为夫，‘Imo 为妻"
+ },
+ "1143": {
+  "en": "",
+  "zh": "Kupoloahilo 为夫，Lua 为妻"
+ },
+ "1144": {
+  "en": "",
+  "zh": "Kupolomakanui 为夫，Hulili 为妻",
+  "note": "刊本作 *Kupa*……（附录二）。"
+ },
+ "1145": {
+  "en": "",
+  "zh": "Kupolomaiana 为夫，Manu 为妻"
+ },
+ "1146": {
+  "en": "",
+  "zh": "Kupolokahuli 为夫，Hulu 为妻"
+ },
+ "1147": {
+  "en": "",
+  "zh": "Kupololili 为夫，Namaka 为妻"
+ },
+ "1148": {
+  "en": "",
+  "zh": "Kupololililili 为夫，Pulupuli 为妻"
+ },
+ "1149": {
+  "en": "",
+  "zh": "Kupololalala 为夫，Naku 为妻"
+ },
+ "1150": {
+  "en": "",
+  "zh": "Kupolohalala 为夫，Ahi 为妻"
+ },
+ "1151": {
+  "en": "",
+  "zh": "Kupololuana 为夫，Hoaka 为妻"
+ },
+ "1152": {
+  "en": "",
+  "zh": "Kupolola‘ila‘i 为夫，Lelea 为妻"
+ },
+ "1153": {
+  "en": "",
+  "zh": "Kupolola‘iolo 为夫，Hanau 为妻"
+ },
+ "1154": {
+  "en": "",
+  "zh": "Kupolola‘imai 为夫，Ilimai 为妻"
+ },
+ "1155": {
+  "en": "",
+  "zh": "Kupolola‘iaku 为夫，Ho‘oilo 为妻"
+ },
+ "1156": {
+  "en": "",
+  "zh": "Kupolohilihili 为夫，Makanalau 为妻"
+ },
+ "1157": {
+  "en": "",
+  "zh": "Kupolomalimali 为夫，Hulipumai 为妻"
+ },
+ "1158": {
+  "en": "",
+  "zh": "Kupolo‘ale 为夫，Leleiluna 为妻"
+ },
+ "1159": {
+  "en": "",
+  "zh": "Kupolo‘imo 为夫，Holo‘oko‘a 为妻"
+ },
+ "1160": {
+  "en": "",
+  "zh": "Kupolokalili 为夫，Uliuli 为妻"
+ },
+ "1161": {
+  "en": "",
+  "zh": "Kupolomene 为夫，Hiwauli 为妻"
+ },
+ "1162": {
+  "en": "",
+  "zh": "Kupolohulu 为夫，Kinopu 为妻"
+ },
+ "1163": {
+  "en": "",
+  "zh": "Kupolohulilau 为夫，Makiao 为妻"
+ },
+ "1164": {
+  "en": "",
+  "zh": "Kupolohulimai 为夫，Makiaoea 为妻"
+ },
+ "1165": {
+  "en": "",
+  "zh": "Kupolokamana‘o 为夫，‘Ewa 为妻"
+ },
+ "1166": {
+  "en": "",
+  "zh": "Kupolokeweka 为夫，Lukona 为妻"
+ },
+ "1167": {
+  "en": "",
+  "zh": "Kupolokulu 为夫，Eapa‘ipa‘i 为妻"
+ },
+ "1168": {
+  "en": "",
+  "zh": "Kupolonehea 为夫，Hulihele 为妻"
+ },
+ "1169": {
+  "en": "",
+  "zh": "Kupolohaliu 为夫，Maliu 为妻"
+ },
+ "1170": {
+  "en": "",
+  "zh": "Kupolonakunaku 为夫，Uliau 为妻"
+ },
+ "1171": {
+  "en": "",
+  "zh": "Kupolo‘ololo 为夫，Kio‘io 为妻"
+ },
+ "1172": {
+  "en": "",
+  "zh": "Kupolo‘ololi 为夫，Holeaku 为妻"
+ },
+ "1173": {
+  "en": "",
+  "zh": "O Polo 为夫，Nolu 为妻",
+  "note": "*O* 是加在名字前的强调词。Polo 一组由此开始。"
+ },
+ "1174": {
+  "en": "",
+  "zh": "Polohili 为夫，Kau 为妻"
+ },
+ "1175": {
+  "en": "",
+  "zh": "Polokau 为夫，Uli 为妻"
+ },
+ "1176": {
+  "en": "",
+  "zh": "Polouli 为夫，Polo 为妻"
+ },
+ "1177": {
+  "en": "",
+  "zh": "Polopolo 为夫，Hamu 为妻"
+ },
+ "1178": {
+  "en": "",
+  "zh": "Polohamu 为夫，Nini 为妻"
+ },
+ "1179": {
+  "en": "",
+  "zh": "Polonini 为夫，Ha‘iha‘i 为妻"
+ },
+ "1180": {
+  "en": "",
+  "zh": "Poloha‘iha‘i 为夫，Hei 为妻"
+ },
+ "1181": {
+  "en": "",
+  "zh": "Poloheihei 为夫，Hanu‘ai 为妻"
+ },
+ "1182": {
+  "en": "",
+  "zh": "Polohanu‘ai 为夫，‘Ewa 为妻",
+  "note": "刊本在名前多一个 *Ku*（附录二）。"
+ },
+ "1183": {
+  "en": "",
+  "zh": "Polomahimahi 为夫，Kolo 为妻"
+ },
+ "1184": {
+  "en": "",
+  "zh": "Poloaku 为夫，Malu‘ape 为妻"
+ },
+ "1185": {
+  "en": "",
+  "zh": "Polomai 为夫，Pelepele 为妻"
+ },
+ "1186": {
+  "en": "",
+  "zh": "Eliakapolo 为夫，Pua‘a 为妻"
+ },
+ "1187": {
+  "en": "",
+  "zh": "Ekukukapolo 为夫，Pua‘akame 为妻"
+ },
+ "1188": {
+  "en": "",
+  "zh": "Halimaikapolo 为夫，Uluea 为妻"
+ },
+ "1189": {
+  "en": "",
+  "zh": "Ho‘opoloiho 为夫，Hiamanu 为妻"
+ },
+ "1190": {
+  "en": "",
+  "zh": "Poloku 为夫，Paka 为妻"
+ },
+ "1191": {
+  "en": "",
+  "zh": "Polokane 为夫，Leleamia 为妻"
+ },
+ "1192": {
+  "en": "",
+  "zh": "Polohiwa 为夫，Halu 为妻"
+ },
+ "1193": {
+  "en": "",
+  "zh": "Polomua 为夫，Menea 为妻"
+ },
+ "1194": {
+  "en": "",
+  "zh": "Popolomea 为夫，Miomio 为妻"
+ },
+ "1195": {
+  "en": "",
+  "zh": "Popolohuamea 为夫，Omo 为妻"
+ },
+ "1196": {
+  "en": "",
+  "zh": "Popolokai‘a 为夫，Lanaki 为妻"
+ },
+ "1197": {
+  "en": "",
+  "zh": "Polonananana 为夫，Manahulu 为妻"
+ },
+ "1198": {
+  "en": "",
+  "zh": "Polomakiawa 为夫，La‘ohe 为妻"
+ },
+ "1199": {
+  "en": "",
+  "zh": "Poloanewa 为夫，Peleaku 为妻"
+ },
+ "1200": {
+  "en": "",
+  "zh": "Polohauhau 为夫，Nanale 为妻"
+ },
+ "1201": {
+  "en": "",
+  "zh": "Polohehewa 为夫，Huamua 为妻"
+ },
+ "1202": {
+  "en": "",
+  "zh": "Polomehewa 为夫，Hewa 为妻"
+ },
+ "1203": {
+  "en": "",
+  "zh": "Poloula‘a 为夫，Makolu 为妻"
+ },
+ "1204": {
+  "en": "",
+  "zh": "Poloahiwa 为夫，Hiwa 为妻"
+ },
+ "1205": {
+  "en": "",
+  "zh": "Polo‘ula 为夫，‘Ula 为妻"
+ },
+ "1206": {
+  "en": "",
+  "zh": "Polowena 为夫，We-na 为妻"
+ },
+ "1207": {
+  "en": "",
+  "zh": "Poloimu 为夫，Mohalu 为妻"
+ },
+ "1208": {
+  "en": "",
+  "zh": "Polokakahia 为夫，Kanakau 为妻"
+ },
+ "1209": {
+  "en": "",
+  "zh": "Polo‘i 为夫，‘I‘i 为妻"
+ },
+ "1210": {
+  "en": "",
+  "zh": "Polo‘i‘i 为夫，Hipa 为妻"
+ },
+ "1211": {
+  "en": "",
+  "zh": "Polohi-pa 为夫，Pe-pa 为妻"
+ },
+ "1212": {
+  "en": "",
+  "zh": "Polohi-pakeke 为夫，Meao 为妻"
+ },
+ "1213": {
+  "en": "",
+  "zh": "Polohi-pakaka 为夫，Lahiki 为妻"
+ },
+ "1214": {
+  "en": "",
+  "zh": "Polohi-helehele-lahiki 为夫，Kahiki 为妻"
+ },
+ "1215": {
+  "en": "",
+  "zh": "Polohi-paukahiki 为夫，Ka‘ahiki 为妻"
+ },
+ "1216": {
+  "en": "",
+  "zh": "Polohilele 为夫，Haumea 为妻"
+ },
+ "1217": {
+  "en": "",
+  "zh": "Poloahaumea 为夫，Ahiluna 为妻"
+ },
+ "1218": {
+  "en": "",
+  "zh": "Poloahiluna 为夫，Kaumai 为妻"
+ },
+ "1219": {
+  "en": "",
+  "zh": "Polokaumai 为夫，Kaulani 为妻"
+ },
+ "1220": {
+  "en": "",
+  "zh": "Polokaulani 为夫，Kamakani 为妻"
+ },
+ "1221": {
+  "en": "",
+  "zh": "Poloikamakani 为夫，Ikai 为妻"
+ },
+ "1222": {
+  "en": "",
+  "zh": "Poloikai 为夫，Kamehani 为妻"
+ },
+ "1223": {
+  "en": "",
+  "zh": "Poloikamehani 为夫，Maumau 为妻",
+  "note": "刊本作 *Kamehana*（附录二）。"
+ },
+ "1224": {
+  "en": "",
+  "zh": "Poloimaumau 为夫，Mauna 为妻"
+ },
+ "1225": {
+  "en": "",
+  "zh": "Poloimauna 为夫，La‘au 为妻"
+ },
+ "1226": {
+  "en": "",
+  "zh": "Poloila‘au 为夫，Kanahele 为妻"
+ },
+ "1227": {
+  "en": "",
+  "zh": "Poloikanahele 为夫，Kukulu 为妻"
+ },
+ "1228": {
+  "en": "",
+  "zh": "Poloikukulu 为夫，Ho‘omoe 为妻"
+ },
+ "1229": {
+  "en": "",
+  "zh": "Poloiho‘omoe 为夫，Hanahana 为妻"
+ },
+ "1230": {
+  "en": "",
+  "zh": "Poloihanahana 为夫，Ka-haiau 为妻"
+ },
+ "1231": {
+  "en": "",
+  "zh": "Polokahiau 为夫，Luahiko 为妻",
+  "note": "刊本在名前加强调的 *O*（附录二）。"
+ },
+ "1232": {
+  "en": "",
+  "zh": "Poloikalua 为夫，Hiko 为妻"
+ },
+ "1233": {
+  "en": "",
+  "zh": "Poloahiko 为夫，Kahá 为妻"
+ },
+ "1234": {
+  "en": "",
+  "zh": "Poloikaha 为夫，Lima 为妻"
+ },
+ "1235": {
+  "en": "",
+  "zh": "Poloihilima 为夫，Waiku 为妻"
+ },
+ "1236": {
+  "en": "",
+  "zh": "Poloioaiku 为夫，Mauli 为妻"
+ },
+ "1237": {
+  "en": "",
+  "zh": "Polomauli 为夫，Koiele 为妻"
+ },
+ "1238": {
+  "en": "",
+  "zh": "Polokokoiele 为夫，‘I‘iwa 为妻"
+ },
+ "1239": {
+  "en": "",
+  "zh": "Polokuaiwa 为夫，Hemo 为妻"
+ },
+ "1240": {
+  "en": "",
+  "zh": "Polohemo 为夫，Nahunahu 为妻"
+ },
+ "1241": {
+  "en": "",
+  "zh": "Polokina‘u 为夫，Oli‘iloa 为妻"
+ },
+ "1242": {
+  "en": "",
+  "zh": "Poloki‘i 为夫，Mano 为妻"
+ },
+ "1243": {
+  "en": "",
+  "zh": "Pololi‘i 为夫，Halula 为妻"
+ },
+ "1244": {
+  "en": "",
+  "zh": "Polowaikaua 为夫，Pomea 为妻"
+ },
+ "1245": {
+  "en": "",
+  "zh": "Li‘ili 为夫，Auau 为妻",
+  "note": "Li‘ili 一组由此开始。"
+ },
+ "1246": {
+  "en": "",
+  "zh": "Li‘iliauau 为夫，Kamau 为妻"
+ },
+ "1247": {
+  "en": "",
+  "zh": "Li‘ilikamau 为夫，Holiholi 为妻"
+ },
+ "1248": {
+  "en": "",
+  "zh": "Li‘ilili‘ili 为夫，Nanaahu 为妻"
+ },
+ "1249": {
+  "en": "",
+  "zh": "Li‘ilihalula 为夫，Hole 为妻"
+ },
+ "1250": {
+  "en": "",
+  "zh": "Li‘ilimama 为夫，Holehole 为妻"
+ },
+ "1251": {
+  "en": "",
+  "zh": "Li‘ilimanua 为夫，Pilimau 为妻"
+ },
+ "1252": {
+  "en": "",
+  "zh": "Li‘ilihakahaka 为夫，Ho‘ohene 为妻"
+ },
+ "1253": {
+  "en": "",
+  "zh": "Li‘iliha 为夫，Iwiaku 为妻"
+ },
+ "1254": {
+  "en": "",
+  "zh": "Li‘ilihemoaku 为夫，Lanikama 为妻"
+ },
+ "1255": {
+  "en": "",
+  "zh": "Li‘ilikaumai 为夫，‘lliuli 为妻"
+ },
+ "1256": {
+  "en": "",
+  "zh": "Li‘iliaolo 为夫，‘Olo‘olo 为妻"
+ },
+ "1257": {
+  "en": "",
+  "zh": "Li‘ilipihapiha 为夫，Nu‘unu‘u 为妻"
+ },
+ "1258": {
+  "en": "",
+  "zh": "Li‘ilinu‘unu‘u 为夫，Helelima 为妻",
+  "note": "妻名刊本作 *Helelinaa*（附录二）。"
+ },
+ "1259": {
+  "en": "",
+  "zh": "Li‘ilihelelima 为夫，Auli 为妻"
+ },
+ "1260": {
+  "en": "",
+  "zh": "Li‘iliau 为夫，Nolunolu 为妻"
+ },
+ "1261": {
+  "en": "",
+  "zh": "Li‘ilimiha 为夫，Haleakeaka 为妻"
+ },
+ "1262": {
+  "en": "",
+  "zh": "Li‘ilinania 为夫，Puluka 为妻"
+ },
+ "1263": {
+  "en": "",
+  "zh": "Li‘ilipelu‘a 为夫，Maluli 为妻"
+ },
+ "1264": {
+  "en": "",
+  "zh": "Li‘ilimahimahi 为夫，Makauma 为妻"
+ },
+ "1265": {
+  "en": "",
+  "zh": "Li‘ilikaliaka 为夫，Nahili 为妻"
+ },
+ "1266": {
+  "en": "",
+  "zh": "Li‘ilimeleau 为夫，Poloa 为妻"
+ },
+ "1267": {
+  "en": "",
+  "zh": "Li‘ilileoleo 为夫，Popoko 为妻"
+ },
+ "1268": {
+  "en": "",
+  "zh": "Li‘ililimanu 为夫，Po‘imo‘imo 为妻"
+ },
+ "1269": {
+  "en": "",
+  "zh": "Li‘ilikapili 为夫，Poiauwale 为妻"
+ },
+ "1270": {
+  "en": "",
+  "zh": "Li‘iliholowa‘a 为夫，Poilumai 为妻"
+ },
+ "1271": {
+  "en": "",
+  "zh": "Li‘iliholomau 为夫，Poinanaia 为妻"
+ },
+ "1272": {
+  "en": "",
+  "zh": "Li‘ilikalele 为夫，Nanana 为妻",
+  "note": "妻名刊本作 *Onanana*（附录二）。"
+ },
+ "1273": {
+  "en": "",
+  "zh": "Li‘ilikaili 为夫，Nanaue 为妻"
+ },
+ "1274": {
+  "en": "",
+  "zh": "Li‘ilipoipo 为夫，Nahuila 为妻"
+ },
+ "1275": {
+  "en": "",
+  "zh": "Li‘iliwalewale 为夫，Meia 为妻"
+ },
+ "1276": {
+  "en": "",
+  "zh": "Li‘ilihanahana 为夫，Kulaimoku 为妻"
+ },
+ "1277": {
+  "en": "",
+  "zh": "Li‘ilihuliana 为夫，Pihi 为妻"
+ },
+ "1278": {
+  "en": "",
+  "zh": "Li‘iliwahipali 为夫，Pililau 为妻"
+ },
+ "1279": {
+  "en": "",
+  "zh": "Li‘ilinohopali 为夫，Ma‘ele‘ele 为妻"
+ },
+ "1280": {
+  "en": "",
+  "zh": "Li‘ilinohoana 为夫，Kauhale 为妻"
+ },
+ "1281": {
+  "en": "",
+  "zh": "Li‘ilikauhale 为夫，Palia 为妻"
+ },
+ "1282": {
+  "en": "",
+  "zh": "Li‘ilipulepule 为夫，Pule 为妻"
+ },
+ "1283": {
+  "en": "",
+  "zh": "Li‘ili-la 为夫，Halawai 为妻"
+ },
+ "1284": {
+  "en": "",
+  "zh": "Li‘ili-hou 为夫，Leleipaoa 为妻"
+ },
+ "1285": {
+  "en": "",
+  "zh": "Li‘ili-kaki‘i 为夫，Miliamau 为妻"
+ },
+ "1286": {
+  "en": "",
+  "zh": "Li‘lli-kahuli 为夫，Kulana 为妻"
+ },
+ "1287": {
+  "en": "",
+  "zh": "Li‘ili-homole 为夫，‘Iwa‘iwa 为妻"
+ },
+ "1288": {
+  "en": "",
+  "zh": "Li‘ili-pukaua 为夫，Luna 为妻"
+ },
+ "1289": {
+  "en": "",
+  "zh": "Li‘ilililolilo 为夫，Kaua 为妻"
+ },
+ "1290": {
+  "en": "",
+  "zh": "Li‘ililanalana 为夫，Lilo 为妻"
+ },
+ "1291": {
+  "en": "",
+  "zh": "Li‘ililanakila 为夫，Kila 为妻"
+ },
+ "1292": {
+  "en": "",
+  "zh": "Li‘ililana-au 为夫，Kilaua 为妻"
+ },
+ "1293": {
+  "en": "",
+  "zh": "Li‘ilimalana 为夫，Mana 为妻"
+ },
+ "1294": {
+  "en": "",
+  "zh": "Li‘iliahula 为夫，Lana 为妻"
+ },
+ "1295": {
+  "en": "",
+  "zh": "Li‘ilipukiu 为夫，Piko 为妻"
+ },
+ "1296": {
+  "en": "",
+  "zh": "Li‘ilipaluku 为夫，Hulikau 为妻"
+ },
+ "1297": {
+  "en": "",
+  "zh": "Li‘ilima‘ema‘e 为夫，Pakapaka 为妻"
+ },
+ "1298": {
+  "en": "",
+  "zh": "Li‘i‘oki‘oki 为夫，Li‘ili‘i 为妻"
+ },
+ "1299": {
+  "en": "",
+  "zh": "Li‘iali‘ili‘i 为夫，Lilioma 为妻"
+ },
+ "1300": {
+  "en": "",
+  "zh": "Li‘iakauli‘ili‘i 为夫，Manukele 为妻"
+ },
+ "1301": {
+  "en": "",
+  "zh": "Li‘iakamama 为夫，Mama 为妻"
+ },
+ "1302": {
+  "en": "",
+  "zh": "Li‘iamama 为夫，Paepae 为妻"
+ },
+ "1303": {
+  "en": "",
+  "zh": "Li‘ipaepae 为夫，Umu 为妻"
+ },
+ "1304": {
+  "en": "",
+  "zh": "Li‘iumu 为夫，Ki‘i 为妻"
+ },
+ "1305": {
+  "en": "",
+  "zh": "Li‘iluaki‘i 为夫，Kini 为妻"
+ },
+ "1306": {
+  "en": "",
+  "zh": "Li‘iluakini 为夫，Lohi 为妻"
+ },
+ "1307": {
+  "en": "",
+  "zh": "Li‘imolohi 为夫，Nahele 为妻"
+ },
+ "1308": {
+  "en": "",
+  "zh": "Li‘ikau‘unahele 为夫，Upa 为妻"
+ },
+ "1309": {
+  "en": "",
+  "zh": "Li‘ia‘upa 为夫，Li‘awa 为妻"
+ },
+ "1310": {
+  "en": "",
+  "zh": "Li‘imuli‘awa 为夫，Newaku 为妻"
+ },
+ "1311": {
+  "en": "",
+  "zh": "Li‘inewaku 为夫，Mali 为妻"
+ },
+ "1312": {
+  "en": "",
+  "zh": "Li‘ihomali 为夫，Pulama 为妻"
+ },
+ "1313": {
+  "en": "",
+  "zh": "Li‘ipulama 为夫，Palama 为妻"
+ },
+ "1314": {
+  "en": "",
+  "zh": "Li‘ipalama 为夫，‘Ohinu 为妻",
+  "note": "刊本作 *Lupalama*（附录二）。"
+ },
+ "1315": {
+  "en": "",
+  "zh": "Li‘i‘ohinu 为夫，‘Omaka 为妻"
+ },
+ "1316": {
+  "en": "",
+  "zh": "Li‘i‘omaka 为夫，‘Olua 为妻"
+ },
+ "1317": {
+  "en": "",
+  "zh": "Li‘ipau 为夫，Kaneiwa 为妻",
+  "note": "Beckwith 附录一在妻名 Kaneiwa 下加注：“使酋长们倒下的第三次海”（*Ke kolu o ke kai o Kahinali‘i*）。参看 [[line:909]]、[[line:1114]]。"
+ },
+ "1318": {
+  "en": "",
+  "zh": "O ‘A 为夫，O Li‘i 为妻",
+  "note": "夫名 *O ‘A*、妻名 *O Li‘i* 前的 *O* 是强调词。Ali‘i 一组由此开始（‘A 当是 Ali‘i 的头一个音节）。"
+ },
+ "1319": {
+  "en": "",
+  "zh": "Ali‘i 为夫，La‘a 为妻"
+ },
+ "1320": {
+  "en": "",
+  "zh": "Ali‘ila‘a 为夫，Aka 为妻"
+ },
+ "1321": {
+  "en": "",
+  "zh": "Ali‘iaka 为夫，Mau 为妻"
+ },
+ "1322": {
+  "en": "",
+  "zh": "Ali‘imau 为夫，Ali‘i 为妻"
+ },
+ "1323": {
+  "en": "",
+  "zh": "Ali‘iali‘i 为夫，Pohea 为妻"
+ },
+ "1324": {
+  "en": "",
+  "zh": "Ali‘ipo‘i 为夫，Mi‘i 为妻"
+ },
+ "1325": {
+  "en": "",
+  "zh": "Ali‘ikono 为夫，Pahu 为妻"
+ },
+ "1326": {
+  "en": "",
+  "zh": "Ali‘ipahu 为夫，‘Ume 为妻"
+ },
+ "1327": {
+  "en": "",
+  "zh": "Ali‘i‘ume 为夫，Hala 为妻"
+ },
+ "1328": {
+  "en": "",
+  "zh": "Ali‘ihala 为夫，Poniponi 为妻"
+ },
+ "1329": {
+  "en": "",
+  "zh": "Ali‘iponi 为夫，Kelenanahu 为妻"
+ },
+ "1330": {
+  "en": "",
+  "zh": "Ali‘ilanahu 为夫，Ka‘eka‘ea 为妻"
+ },
+ "1331": {
+  "en": "",
+  "zh": "Ali‘ikaea 为夫，Hohonupu‘u 为妻"
+ },
+ "1332": {
+  "en": "",
+  "zh": "Ali‘ihonupu‘u 为夫，Kaeahonu 为妻",
+  "note": "Beckwith 第 19 章：谱系到第 1332–1333 行出现一对兄弟，兄 Ali‘ihonupu‘u、弟 Opu‘upu‘u，似乎共有一个妻子 Ka-ea-honu，这个名字把她和出产贵重玳瑁的那种海龟联系起来（[[ku:19#p7]]）。刊本中两兄弟的名字用大括号并在一起，右栏只有一个妻名。从此长支沿 Ali‘ihonupu‘u 继续到 Pola‘a（[[line:1530]]），幼支 Opu‘upu‘u 的后代见第十二 wā（[[line:1546]]）。自第 1118 行至此共 215 对；Beckwith 指出，加上第十二 wā 幼支的 188 对，恰好约为四百（[[ku:24#p10]]）。"
+ },
+ "1333": {
+  "en": "",
+  "zh": "Opu‘upu‘u 为夫，Kaeahonu 为妻（与兄共一妻）",
+  "note": "参看 [[line:1332]] 的行注。"
+ },
+ "1334": {
+  "en": "",
+  "zh": "Ali‘ilehelehe 为夫，Lehelehe 为妻"
+ },
+ "1335": {
+  "en": "",
+  "zh": "Ali‘imakolu 为夫，Hinakolu 为妻"
+ },
+ "1336": {
+  "en": "",
+  "zh": "Ali‘inohouka 为夫，Mauka 为妻"
+ },
+ "1337": {
+  "en": "",
+  "zh": "Ali‘ihimuhani 为夫，Haui 为妻"
+ },
+ "1338": {
+  "en": "",
+  "zh": "Ali‘ileleiona 为夫，Lopiana 为妻"
+ },
+ "1339": {
+  "en": "",
+  "zh": "Ali‘iwala‘au 为夫，Kukeleau 为妻"
+ },
+ "1340": {
+  "en": "",
+  "zh": "Ali‘ikuwala 为夫，Mana‘a‘ala 为妻"
+ },
+ "1341": {
+  "en": "",
+  "zh": "Ali‘ikomokomo 为夫，Lupuhi 为妻"
+ },
+ "1342": {
+  "en": "",
+  "zh": "Ali‘iaku 为夫，Ikuwa 为妻"
+ },
+ "1343": {
+  "en": "",
+  "zh": "Ali‘inewa 为夫，Mania 为妻"
+ },
+ "1344": {
+  "en": "",
+  "zh": "Ali‘ikuhikuhi 为夫，Lahulahu 为妻"
+ },
+ "1345": {
+  "en": "",
+  "zh": "Ali‘ikilo 为夫，Loa 为妻"
+ },
+ "1346": {
+  "en": "",
+  "zh": "Ali‘ikiloloa 为夫，Pokopoko 为妻"
+ },
+ "1347": {
+  "en": "",
+  "zh": "Ali‘ikilopoko 为夫，Anana 为妻"
+ },
+ "1348": {
+  "en": "",
+  "zh": "Ali‘iemi 为夫，‘Ami‘ami 为妻",
+  "note": "刊本在名前加强调的 *O*（附录二）。"
+ },
+ "1349": {
+  "en": "",
+  "zh": "Ali‘ikolo 为夫，Lepau 为妻"
+ },
+ "1350": {
+  "en": "",
+  "zh": "Ali‘ihelu 为夫，Lepeake 为妻"
+ },
+ "1351": {
+  "en": "",
+  "zh": "Ali‘iheluone 为夫，Malamu 为妻"
+ },
+ "1352": {
+  "en": "",
+  "zh": "Ali‘ipu‘uone 为夫，Nahakea 为妻"
+ },
+ "1353": {
+  "en": "",
+  "zh": "Ali‘ikamanomano 为夫，Ho‘ouli 为妻"
+ },
+ "1354": {
+  "en": "",
+  "zh": "Ali‘ihukeakea 为夫，Pololani 为妻"
+ },
+ "1355": {
+  "en": "",
+  "zh": "Ali‘ipauku 为夫，Kalakala 为妻"
+ },
+ "1356": {
+  "en": "",
+  "zh": "Ali‘inana 为夫，Huli 为妻"
+ },
+ "1357": {
+  "en": "",
+  "zh": "Ali‘ikilokilo 为夫，Kelea 为妻"
+ },
+ "1358": {
+  "en": "",
+  "zh": "Ali‘ikuloluna 为夫，Halululu 为妻"
+ },
+ "1359": {
+  "en": "",
+  "zh": "Ali‘ikilolono 为夫，Kalahai 为妻"
+ },
+ "1360": {
+  "en": "",
+  "zh": "Ali‘ikiloau 为夫，Kanamu 为妻"
+ },
+ "1361": {
+  "en": "",
+  "zh": "Ali‘ikilohonua 为夫，Heanaipu 为妻"
+ },
+ "1362": {
+  "en": "",
+  "zh": "Ali‘ikilouli 为夫，Ho‘owili 为妻"
+ },
+ "1363": {
+  "en": "",
+  "zh": "Ali‘ikilokai 为夫，‘Ume 为妻"
+ },
+ "1364": {
+  "en": "",
+  "zh": "Ali‘ikilonalu 为夫，‘Ohi 为妻"
+ },
+ "1365": {
+  "en": "",
+  "zh": "Ali‘ikilohulu 为夫，Pelapela 为妻"
+ },
+ "1366": {
+  "en": "",
+  "zh": "Ali‘ikiloahu 为夫，Oheohe 为妻"
+ },
+ "1367": {
+  "en": "",
+  "zh": "Ali‘ikilomakani 为夫，Malumalu 为妻"
+ },
+ "1368": {
+  "en": "",
+  "zh": "Ali‘ikilola 为夫，Lipoa 为妻"
+ },
+ "1369": {
+  "en": "",
+  "zh": "Ali‘ikilohoku 为夫，Kanulau 为妻"
+ },
+ "1370": {
+  "en": "",
+  "zh": "Ali‘ikilomalama 为夫，Nahele 为妻"
+ },
+ "1371": {
+  "en": "",
+  "zh": "Ali‘ikilomakali‘i 为夫，Ho‘opulu 为妻"
+ },
+ "1372": {
+  "en": "",
+  "zh": "Ali‘ikilokau 为夫，Kakeli‘i 为妻"
+ },
+ "1373": {
+  "en": "",
+  "zh": "Ali‘ikiloho‘oilo 为夫，Hulu 为妻"
+ },
+ "1374": {
+  "en": "",
+  "zh": "Ali‘ika‘ana‘au 为夫，Lono 为妻"
+ },
+ "1375": {
+  "en": "",
+  "zh": "Ali‘ika‘anamalama 为夫，Kea 为妻"
+ },
+ "1376": {
+  "en": "",
+  "zh": "Ali‘ika‘anaua 为夫，Papahuli 为妻"
+ },
+ "1377": {
+  "en": "",
+  "zh": "Ali‘ikilomo‘o 为夫，Mo‘olio 为妻"
+ },
+ "1378": {
+  "en": "",
+  "zh": "Ali‘ikilokua 为夫，Kilohi 为妻"
+ },
+ "1379": {
+  "en": "",
+  "zh": "Ali‘ikiloalo 为夫，Anapu 为妻"
+ },
+ "1380": {
+  "en": "",
+  "zh": "Ali‘ikilohope 为夫，A-aa 为妻"
+ },
+ "1381": {
+  "en": "",
+  "zh": "Ali‘ikilomua 为夫，Pehe 为妻"
+ },
+ "1382": {
+  "en": "",
+  "zh": "Mua 为夫，Wanaku 为妻",
+  "note": "Mua 一组由此开始。"
+ },
+ "1383": {
+  "en": "",
+  "zh": "Muapo 为夫，Haina 为妻"
+ },
+ "1384": {
+  "en": "",
+  "zh": "Muahaka 为夫，Kulamau 为妻"
+ },
+ "1385": {
+  "en": "",
+  "zh": "Mualele 为夫，Hilipo 为妻"
+ },
+ "1386": {
+  "en": "",
+  "zh": "Muakaukeha 为夫，Keanukapu 为妻"
+ },
+ "1387": {
+  "en": "",
+  "zh": "Muahale 为夫，La‘apilo 为妻"
+ },
+ "1388": {
+  "en": "",
+  "zh": "Muahalekapu 为夫，Ho‘ohali 为妻"
+ },
+ "1389": {
+  "en": "",
+  "zh": "Muaanoano 为夫，Nauia 为妻"
+ },
+ "1390": {
+  "en": "",
+  "zh": "Muakekele 为夫，Ipu 为妻"
+ },
+ "1391": {
+  "en": "",
+  "zh": "Muahaipu 为夫，Kahiko 为妻"
+ },
+ "1392": {
+  "en": "",
+  "zh": "Muakahiko 为夫，Wa‘awa‘a 为妻"
+ },
+ "1393": {
+  "en": "",
+  "zh": "Muawa‘a 为夫，Po‘i 为妻"
+ },
+ "1394": {
+  "en": "",
+  "zh": "Muapo‘ipo‘i 为夫，Helenaku 为妻"
+ },
+ "1395": {
+  "en": "",
+  "zh": "Muakamalulu 为夫，Kaukahi 为妻"
+ },
+ "1396": {
+  "en": "",
+  "zh": "Muahele‘i 为夫，Lulu 为妻"
+ },
+ "1397": {
+  "en": "",
+  "zh": "Muakohukohu 为夫，Mo‘olelo 为妻"
+ },
+ "1398": {
+  "en": "",
+  "zh": "Muakahukahu 为夫，Kapili 为妻"
+ },
+ "1399": {
+  "en": "",
+  "zh": "Muaoma 为夫，Kahu 为妻"
+ },
+ "1400": {
+  "en": "",
+  "zh": "Muanalu 为夫，Anoano 为妻"
+ },
+ "1401": {
+  "en": "",
+  "zh": "Muanaluhaki 为夫，Nalu 为妻"
+ },
+ "1402": {
+  "en": "",
+  "zh": "Muanalupopo‘i 为夫，Poki‘i 为妻"
+ },
+ "1403": {
+  "en": "",
+  "zh": "Muanalukalohe 为夫，Nanaku 为妻"
+ },
+ "1404": {
+  "en": "",
+  "zh": "Muanaluha‘ikakala 为夫，Moku 为妻"
+ },
+ "1405": {
+  "en": "",
+  "zh": "Mualala 为夫，Ho‘onahu 为妻"
+ },
+ "1406": {
+  "en": "",
+  "zh": "Muahaipu 为夫，‘Api‘api 为妻"
+ },
+ "1407": {
+  "en": "",
+  "zh": "Muapule 为夫，Mahoa 为妻"
+ },
+ "1408": {
+  "en": "",
+  "zh": "Muahanu‘ala 为夫，Ahia 为妻"
+ },
+ "1409": {
+  "en": "",
+  "zh": "Muaikekele 为夫，Mulemule 为妻"
+ },
+ "1410": {
+  "en": "",
+  "zh": "Muaipoipo 为夫，‘Akia 为妻"
+ },
+ "1411": {
+  "en": "",
+  "zh": "Muakalaiki‘i 为夫，Lena 为妻"
+ },
+ "1412": {
+  "en": "",
+  "zh": "Muakawa‘a 为夫，‘Auhuhu 为妻"
+ },
+ "1413": {
+  "en": "",
+  "zh": "Muaiopele 为夫，La‘aumele 为妻"
+ },
+ "1414": {
+  "en": "",
+  "zh": "Muaiopola 为夫，La‘ala‘au 为妻"
+ },
+ "1415": {
+  "en": "",
+  "zh": "Muapali 为夫，Wahine 为妻"
+ },
+ "1416": {
+  "en": "",
+  "zh": "Muaho‘opo 为夫，Kikana 为妻"
+ },
+ "1417": {
+  "en": "",
+  "zh": "Muaunu 为夫，Ui-a 为妻"
+ },
+ "1418": {
+  "en": "",
+  "zh": "Muaha‘i 为夫，Kahuli 为妻"
+ },
+ "1419": {
+  "en": "",
+  "zh": "Mualupe 为夫，‘Eli‘eli 为妻"
+ },
+ "1420": {
+  "en": "",
+  "zh": "Muakala 为夫，Mo‘omo‘o 为妻"
+ },
+ "1421": {
+  "en": "",
+  "zh": "Muawekea 为夫，Kapu 为妻"
+ },
+ "1422": {
+  "en": "",
+  "zh": "Muahilo 为夫，Lau 为妻"
+ },
+ "1423": {
+  "en": "",
+  "zh": "Muakahu 为夫，Eiwa 为妻"
+ },
+ "1424": {
+  "en": "",
+  "zh": "Muakahukahu 为夫，Hiliahu 为妻"
+ },
+ "1425": {
+  "en": "",
+  "zh": "Mua‘ama‘ama 为夫，Kaomi 为妻"
+ },
+ "1426": {
+  "en": "",
+  "zh": "Muaahilo 为夫，Auwe 为妻"
+ },
+ "1427": {
+  "en": "",
+  "zh": "Muaanoa 为夫，Olopule 为妻"
+ },
+ "1428": {
+  "en": "",
+  "zh": "Muaale‘ale‘a 为夫，Ka‘imai 为妻"
+ },
+ "1429": {
+  "en": "",
+  "zh": "Muainakalo 为夫，Kinika 为妻"
+ },
+ "1430": {
+  "en": "",
+  "zh": "Muaohupu 为夫，Niniha 为妻"
+ },
+ "1431": {
+  "en": "",
+  "zh": "Muaikauka 为夫，Niniahu 为妻"
+ },
+ "1432": {
+  "en": "",
+  "zh": "Muaikumuka 为夫，Moemole 为妻"
+ },
+ "1433": {
+  "en": "",
+  "zh": "Muaikaunukukanaka 为夫，Mokukaha 为妻"
+ },
+ "1434": {
+  "en": "",
+  "zh": "Muaokalele 为夫，Opilopilo 为妻"
+ },
+ "1435": {
+  "en": "",
+  "zh": "Muaokahaiku 为夫，Meheia 为妻"
+ },
+ "1436": {
+  "en": "",
+  "zh": "Muaokahanu‘u 为夫，Kamanuha‘aha‘a 为妻"
+ },
+ "1437": {
+  "en": "",
+  "zh": "Muaokalani 为夫，Lele‘amio 为妻"
+ },
+ "1438": {
+  "en": "",
+  "zh": "Muamamao 为夫，Aumalani 为妻"
+ },
+ "1439": {
+  "en": "",
+  "zh": "Muanu‘unu‘u 为夫，Kahakaua 为妻"
+ },
+ "1440": {
+  "en": "",
+  "zh": "Muaokamoi 为夫，Holi 为妻"
+ },
+ "1441": {
+  "en": "",
+  "zh": "Muaokaha‘i 为夫，Haehae 为妻"
+ },
+ "1442": {
+  "en": "",
+  "zh": "Muaokeoma 为夫，Mano 为妻"
+ },
+ "1443": {
+  "en": "",
+  "zh": "Muaokekahai 为夫，Opelele 为妻"
+ },
+ "1444": {
+  "en": "",
+  "zh": "Muaoka‘oliko 为夫，Ehu 为妻"
+ },
+ "1445": {
+  "en": "",
+  "zh": "Muaokapahu 为夫，Kapilipili 为妻"
+ },
+ "1446": {
+  "en": "",
+  "zh": "Muaokahana 为夫，Hapoe 为妻"
+ },
+ "1447": {
+  "en": "",
+  "zh": "Muaokahanai 为夫，Hunu 为妻"
+ },
+ "1448": {
+  "en": "",
+  "zh": "Muaokaipu 为夫，Ohekele 为妻"
+ },
+ "1449": {
+  "en": "",
+  "zh": "Mua‘ume‘umeke 为夫，Pukapu 为妻"
+ },
+ "1450": {
+  "en": "",
+  "zh": "Muapo‘i 为夫，Ponouli 为妻"
+ },
+ "1451": {
+  "en": "",
+  "zh": "Muaahuliau 为夫，Lehiwa 为妻"
+ },
+ "1452": {
+  "en": "",
+  "zh": "Muaipapio 为夫，Keleauma 为妻"
+ },
+ "1453": {
+  "en": "",
+  "zh": "Muailoiloi 为夫，Pohopoho 为妻"
+ },
+ "1454": {
+  "en": "",
+  "zh": "Lo‘imua 为夫，Nanio 为妻",
+  "note": "Lo‘i 一组由此开始。"
+ },
+ "1455": {
+  "en": "",
+  "zh": "Lo‘ikahi 为夫，Pae 为妻",
+  "note": "妻名刊本作 *Pa-e*（附录二）。"
+ },
+ "1456": {
+  "en": "",
+  "zh": "Lo‘ilua 为夫，Pililauhea 为妻"
+ },
+ "1457": {
+  "en": "",
+  "zh": "Lo‘ilo‘i 为夫，Manukoha 为妻"
+ },
+ "1458": {
+  "en": "",
+  "zh": "Lo‘ikalakala 为夫，Kanaia 为妻"
+ },
+ "1459": {
+  "en": "",
+  "zh": "Lo‘iloloi 为夫，Naio 为妻"
+ },
+ "1460": {
+  "en": "",
+  "zh": "Lo‘ilolohi 为夫，Puhimaka 为妻"
+ },
+ "1461": {
+  "en": "",
+  "zh": "Lo‘inuilo‘i 为夫，Kalino 为妻"
+ },
+ "1462": {
+  "en": "",
+  "zh": "Lo‘ilo‘ikaka 为夫，Kalaniahu 为妻"
+ },
+ "1463": {
+  "en": "",
+  "zh": "Lo‘iakama 为夫，Poepoe 为妻"
+ },
+ "1464": {
+  "en": "",
+  "zh": "Lo‘iiopoe 为夫，Hiloauama 为妻"
+ },
+ "1465": {
+  "en": "",
+  "zh": "Lo‘ilo‘inui 为夫，Uhuau 为妻"
+ },
+ "1466": {
+  "en": "",
+  "zh": "Lo‘ipouli 为夫，Moku 为妻"
+ },
+ "1467": {
+  "en": "",
+  "zh": "Lo‘imia 为夫，Leleiona 为妻"
+ },
+ "1468": {
+  "en": "",
+  "zh": "Lo‘iapele 为夫，Haikala 为妻"
+ },
+ "1469": {
+  "en": "",
+  "zh": "Lo‘iahemahema 为夫，Nakulu 为妻"
+ },
+ "1470": {
+  "en": "",
+  "zh": "Lo‘iakio 为夫，Kukala 为妻"
+ },
+ "1471": {
+  "en": "",
+  "zh": "Lo‘ialuluka 为夫，Hi‘ipoi 为妻"
+ },
+ "1472": {
+  "en": "",
+  "zh": "Lo‘iahamahamau 为夫，Olo 为妻"
+ },
+ "1473": {
+  "en": "",
+  "zh": "Lo‘i‘olo‘olo 为夫，Papa‘a 为妻"
+ },
+ "1474": {
+  "en": "",
+  "zh": "Lo‘ikolohonua 为夫，Hano 为妻"
+ },
+ "1475": {
+  "en": "",
+  "zh": "Lo‘iipulau 为夫，Mahoe 为妻"
+ },
+ "1476": {
+  "en": "",
+  "zh": "Lo‘ianomeha 为夫，Kaloa 为妻"
+ },
+ "1477": {
+  "en": "",
+  "zh": "Lo‘ikinikini 为夫，Pokipoki 为妻"
+ },
+ "1478": {
+  "en": "",
+  "zh": "Lo‘imanomano 为夫，Kinikahi 为妻"
+ },
+ "1479": {
+  "en": "",
+  "zh": "Lo‘ilo‘imai 为夫，Holiolio 为妻"
+ },
+ "1480": {
+  "en": "",
+  "zh": "Lo‘ilo‘ikapu 为夫，Alohi 为妻"
+ },
+ "1481": {
+  "en": "",
+  "zh": "Lo‘ilo‘ikala 为夫，Aheaka 为妻"
+ },
+ "1482": {
+  "en": "",
+  "zh": "Lo‘ilo‘inahu 为夫，Niao 为妻"
+ },
+ "1483": {
+  "en": "",
+  "zh": "Lo‘ilo‘ipili 为夫，Wali 为妻"
+ },
+ "1484": {
+  "en": "",
+  "zh": "Lo‘iahuahu 为夫，Waleho‘oke 为妻"
+ },
+ "1485": {
+  "en": "",
+  "zh": "Lo‘ikulukulu 为夫，Nohopali 为妻"
+ },
+ "1486": {
+  "en": "",
+  "zh": "Lo‘ipilipa 为夫，Nohinohi 为妻"
+ },
+ "1487": {
+  "en": "",
+  "zh": "Lo‘ipilipili 为夫，Mahealani 为妻"
+ },
+ "1488": {
+  "en": "",
+  "zh": "Lo‘ihalalu 为夫，Palimu 为妻"
+ },
+ "1489": {
+  "en": "",
+  "zh": "Lo‘ihalululu 为夫，Kahiona 为妻"
+ },
+ "1490": {
+  "en": "",
+  "zh": "Lo‘ilo‘ilele 为夫，Lukama 为妻"
+ },
+ "1491": {
+  "en": "",
+  "zh": "Lo‘ilo‘ipa 为夫，Kahikahi 为妻"
+ },
+ "1492": {
+  "en": "",
+  "zh": "Lo‘ipakeke 为夫，Waikeha 为妻"
+ },
+ "1493": {
+  "en": "",
+  "zh": "Lo‘iloipo 为夫，Manini 为妻"
+ },
+ "1494": {
+  "en": "",
+  "zh": "Lo‘ilo‘ipololo 为夫，Hinalo 为妻"
+ },
+ "1495": {
+  "en": "",
+  "zh": "Lo‘iipololo 为夫，Oamaamaku 为妻"
+ },
+ "1496": {
+  "en": "",
+  "zh": "Lo‘ikamakele 为夫，Lahi 为妻"
+ },
+ "1497": {
+  "en": "",
+  "zh": "Lo‘ihi‘aloa 为夫，Keleakaku 为妻"
+ },
+ "1498": {
+  "en": "",
+  "zh": "Lo‘imanuwa 为夫，Lahipoko 为妻"
+ },
+ "1499": {
+  "en": "",
+  "zh": "Lo‘ikalokalo 为夫，Pauha 为妻"
+ },
+ "1500": {
+  "en": "",
+  "zh": "Lo‘i‘ihi‘ihi 为夫，Kaheka 为妻"
+ },
+ "1501": {
+  "en": "",
+  "zh": "Lo‘ihilimau 为夫，Pi‘opi‘o 为妻"
+ },
+ "1502": {
+  "en": "",
+  "zh": "Lo‘imoemoe 为夫，Ho‘okaukau 为妻"
+ },
+ "1503": {
+  "en": "",
+  "zh": "Lo‘ipilopilo 为夫，Ho‘oiloli 为妻"
+ },
+ "1504": {
+  "en": "",
+  "zh": "Lo‘iko‘iko‘i 为夫，Puapua 为妻"
+ },
+ "1505": {
+  "en": "",
+  "zh": "Lo‘iko‘i‘i‘i 为夫，Mahiapo 为妻"
+ },
+ "1506": {
+  "en": "",
+  "zh": "Lo‘iloloilo 为夫，Kulukau 为妻"
+ },
+ "1507": {
+  "en": "",
+  "zh": "Lo‘iloloilo[?] 为夫，Kupe‘e 为妻",
+  "note": "方括号中的问号为 Beckwith 所加，表示此名存疑。"
+ },
+ "1508": {
+  "en": "",
+  "zh": "Lo‘iloloikapu 为夫，Kealanu‘u 为妻"
+ },
+ "1509": {
+  "en": "",
+  "zh": "Lo‘ilalolo 为夫，Kinana 为妻"
+ },
+ "1510": {
+  "en": "",
+  "zh": "Lo‘ilo‘inaka 为夫，Pulelehu 为妻"
+ },
+ "1511": {
+  "en": "",
+  "zh": "Lo‘ilo‘ila 为夫，Milimili 为妻"
+ },
+ "1512": {
+  "en": "",
+  "zh": "Lo‘ilo‘ikopea 为夫，Apoapoahi 为妻"
+ },
+ "1513": {
+  "en": "",
+  "zh": "Lo‘iimauamaua 为夫，Pola 为妻"
+ },
+ "1514": {
+  "en": "",
+  "zh": "Lo‘iikuki‘i 为夫，Houpo 为妻"
+ },
+ "1515": {
+  "en": "",
+  "zh": "Lo‘iimanini 为夫，Kakiwi 为妻"
+ },
+ "1516": {
+  "en": "",
+  "zh": "Lo‘iipukapuka 为夫，Polinahe 为妻"
+ },
+ "1517": {
+  "en": "",
+  "zh": "Lo‘iomilu 为夫，Ipulau 为妻"
+ },
+ "1518": {
+  "en": "",
+  "zh": "Lo‘iomiliapo 为夫，Nahawiliea 为妻"
+ },
+ "1519": {
+  "en": "",
+  "zh": "Lo‘iomakana 为夫，Ho‘olaumiki 为妻"
+ },
+ "1520": {
+  "en": "",
+  "zh": "Lo‘iokanaloa 为夫，Palahalaha 为妻"
+ },
+ "1521": {
+  "en": "",
+  "zh": "Lo‘ioki‘iki‘i 为夫，Hulikahikeoma 为妻"
+ },
+ "1522": {
+  "en": "",
+  "zh": "Lo‘iihi‘ikua 为夫，Kahiliapoapo 为妻"
+ },
+ "1523": {
+  "en": "",
+  "zh": "Lo‘iihi‘ialo 为夫，Kaheihei 为妻"
+ },
+ "1524": {
+  "en": "",
+  "zh": "Lo‘iokanaha 为夫，Hilipalahalaha 为妻"
+ },
+ "1525": {
+  "en": "",
+  "zh": "Lo‘iikeluea 为夫，Apuwaiolika 为妻"
+ },
+ "1526": {
+  "en": "",
+  "zh": "Lo‘iopilihala 为夫，Ohiohikahanu 为妻"
+ },
+ "1527": {
+  "en": "",
+  "zh": "Lo‘iomalelewa‘a 为夫，Palakeaka 为妻"
+ },
+ "1528": {
+  "en": "",
+  "zh": "Lo‘ii‘ele‘ele 为夫，Mimika 为妻"
+ },
+ "1529": {
+  "en": "",
+  "zh": "Lo‘ipo 为夫，Kilika 为妻，生了——",
+  "note": "右栏妻名之后接写 *hanau o*（生了），下一行即所生之子 Pola‘a。"
+ },
+ "1530": {
+  "en": "Born was Pola'a",
+  "zh": "Pola‘a——",
+  "note": "承上行“生了”。Beckwith 释其名为 Po-la‘a，“神圣之夜”；长寿之人的谱系到此断绝（[[ku:19#p3]]）。"
+ },
+ "1531": {
+  "en": "Born was rough weather, born the current",
+  "zh": "生了风暴，生了海流",
+  "note": "第 1531–1545 行表面上写洪水漫过陆地。Beckwith 的报道人 Ho‘olapa 一语道破：“整段的意思是基伊与她同寝。”*Kaui-ka-wa*、*Lele ka ihe*、*Kaui-ka-hoe* 等是交合姿势的称呼，所以刊本大写（[[ku:19#p2]]）。Beckwith 承认有几行因双关难以兼顾洪水的意象而未译（[[ku:19#p4]]）。附录二：刊本第 1531–1535 行把 *mauna、ino、au、pahupahu、pohaha、haluku、naueue、kuaahale* 大写。"
+ },
+ "1532": {
+  "en": "Born the booming of the sea, the breaking of foam",
+  "zh": "生了大海的轰鸣，浪花的迸碎"
+ },
+ "1533": {
+  "en": "Born the roaring, advancing, and receding of waves, the rumbling sound, the earthquake",
+  "zh": "生了涛声的奔腾、浪的进退、隆隆的回响，大地震颤",
+  "note": "附录二所记刊本异文 *Kanakulu* 当指此行的 *ka nakulu*（Beckwith 误标为第 1553 行）。"
+ },
+ "1534": {
+  "en": "The sea rages, rises over the beach",
+  "zh": "海水翻腾，漫向高处",
+  "note": "*pi‘i ka mauna* 字面是“涨上山”，Beckwith 译作“漫过海滩”。刊本作 *Hoi loli*（附录二）。Beckwith 的英译在这一段的行号比原文提前了一行：她标作 1534 的 “Rises silently…” 实为第 1535 行。"
+ },
+ "1535": {
+  "en": "Rises silently to the inhabited places",
+  "zh": "水无声地聚涌，漫上屋后，漫到人家",
+  "note": "Beckwith：*kua* 是一户人家中妇女的屋子（[[ku:19#p4]]）。"
+ },
+ "1536": {
+  "en": "Rises gradually up over the land . . .",
+  "zh": "涨起，情切如火；涨上 Kanikawá 的屋柱",
+  "note": "Beckwith 只译出“渐渐漫过陆地……”。她说 *konikoni* 与 *hi‘a* 都指“炽烈的欲望”，*hi‘a* 又指钻木取火，是人所熟知的性象征（[[ku:19#p4]]）。刊本把 *Piikonikonihia* 连写，*Kani ka wa* 分作三词（附录二）。"
+ },
+ "1537": {
+  "en": "",
+  "zh": "Kauikahó 的投枪飞起",
+  "note": "Beckwith 未译此行。*Lele ka ihe*（投枪飞起）与 *Kaui-ka-hoe* 都是她所说的交合姿势之称（[[ku:19#p2]]）。"
+ },
+ "1538": {
+  "en": "",
+  "zh": "Apu‘epu‘e（义待考）于卡纳洛亚，Kanikahoe",
+  "note": "Beckwith 未译此行；*apu‘epu‘e* 的意思待考，暂不强译。Beckwith 第 19 章举出的 *Kaui-ka-wa*、*Kaui-ka-hoe* 等交合姿势之称，与本行的 Kanikahoe、第 1536 行的 Kanikawá、第 1537 行的 Kauikahó 写法相近（[[ku:19#p2]]）。"
+ },
+ "1539": {
+  "en": "Born is Po-elua [Second-night] on the lineage of Wakea",
+  "zh": "生了 Poelua，在瓦凯亚的面前",
+  "note": "Beckwith 释 Po-elua 为“第二夜”。*i ke alo o Wakea* 字面“在瓦凯亚的面前”，Beckwith 意译为“在瓦凯亚的世系上”；与第 1542 行的 *i ke kua o Wakea*（在瓦凯亚的背上）前后相对。"
+ },
+ "1540": {
+  "en": "Born is the stormy night",
+  "zh": "生了风暴之夜",
+  "note": "*po‘ino* 平常的意思是“灾祸、不幸”，Beckwith 拆作 pō（夜）+ ‘ino（风暴）。下行 *pomaika‘i* 平常义为“福气、幸运”，她同样读作“夜”+“美好”。刊本分写作 *po ino*、连写作 *pomaikai*（附录二）。"
+ },
+ "1541": {
+  "en": "Born the night of plenty",
+  "zh": "生了丰足之夜"
+ },
+ "1542": {
+  "en": "Born is the cock on the back of Wakea",
+  "zh": "生了雄鸡，在瓦凯亚的背上",
+  "note": "*moa*（雄鸡）指从外系生入家族、日后反成正支的大酋长（[[ku:19#p3]]）。瓦凯亚与希娜生出雄鸡、雄鸡飞上屋脊的故事见第十四 wā [[line:1914-1929]] 与 [[ku:21#p12]]、[[ku:21#p13]]。刊本把 *moa* 与 *kua* 大写（附录二）。"
+ },
+ "1543": {
+  "en": "Ended is [the line of] the first chief of the dim past dwelling in cold uplands",
+  "zh": "Kupolo-li‘ili-ali‘i-mua-o-lo‘ipo 死了",
+  "note": "这就是第 619 行的“长寿之人”（[[line:619]]），Beckwith 照其名义译作“住在寒冷高地的远古第一位酋长”。他的名字的各个音节正是第 1118–1529 行夫名的词头（见 [[line:1118]] 行注）。刊本不用连字符（附录二）。"
+ },
+ "1544": {
+  "en": "Dead is the current sweeping in from the navel of the earth: that was a warrior wave",
+  "zh": "从大地之脐涌来的潮流死了：那是一道勇士之浪",
+  "note": "刊本大写作 *Aukaha Opikokahonua*，*Oia pu kaua* 分写；手稿不大写，但作 *Oiapu*（附录二）。"
+ },
+ "1545": {
+  "en": "Many who came vanished, lost in the passing night",
+  "zh": "来者千千万万都消失了，消失在逝去的夜里",
+  "note": "旧的一支（“住在寒冷高地的第一位酋长”的后裔）从此不再见于谱系，“消失在逝去的夜里”（[[ku:19#p3]]）。第十一 wā 到此结束。"
+ },
+ "1546": {
+  "en": "",
+  "zh": "Opu‘upu‘u 为夫，La‘aniha 为妻",
+  "note": "第十二 wā 从这里开始：Beckwith 说它接续第 1333 行幼弟 Opu‘upu‘u 的一支（[[line:1332]]；[[ku:20#p1]]）。本 wā 到瓦凯亚为止共 188 对（第 1546–1733 行）。附录二：这一 wā 和上一 wā 的谱系在 Kamokuiki 抄本（Kms）中大体相同；但从第 1624 行起，通向瓦凯亚的谱系在 Kms 中不同，说明那里走的是另一条世系。"
+ },
+ "1547": {
+  "en": "",
+  "zh": "Opu‘upe 为夫，Pepe 为妻"
+ },
+ "1548": {
+  "en": "",
+  "zh": "Opu‘umauna 为夫，Kapu‘u 为妻"
+ },
+ "1549": {
+  "en": "",
+  "zh": "Opu‘uhaha 为夫，Leleiao 为妻"
+ },
+ "1550": {
+  "en": "",
+  "zh": "Opu‘ukalaua 为夫，Mauka-o 为妻"
+ },
+ "1551": {
+  "en": "",
+  "zh": "Opu‘uhanahana 为夫，Kilokau 为妻"
+ },
+ "1552": {
+  "en": "",
+  "zh": "Opu‘uhamahamau 为夫，Halalai 为妻"
+ },
+ "1553": {
+  "en": "",
+  "zh": "Opu‘ukalauli 为夫，Makele 为妻"
+ },
+ "1554": {
+  "en": "",
+  "zh": "Opu‘ukalakea 为夫，Opu‘u‘ele 为妻",
+  "note": "妻名刊本作 *Opuele*（附录二）。"
+ },
+ "1555": {
+  "en": "",
+  "zh": "Opu‘ukalahiwa 为夫，Opu‘umakaua 为妻",
+  "note": "妻名刊本作 *Opumakaua*（附录二）。"
+ },
+ "1556": {
+  "en": "",
+  "zh": "Opu‘ukalalele 为夫，Lelepau 为妻"
+ },
+ "1557": {
+  "en": "",
+  "zh": "Maunanui 为夫，Makelewa‘a 为妻"
+ },
+ "1558": {
+  "en": "",
+  "zh": "Maunane‘e 为夫，Hulipu 为妻"
+ },
+ "1559": {
+  "en": "",
+  "zh": "Maunapapapa 为夫，Kanaua 为妻"
+ },
+ "1560": {
+  "en": "",
+  "zh": "Maunaha‘aha‘a 为夫，Ha‘alepo 为妻"
+ },
+ "1561": {
+  "en": "",
+  "zh": "Maunahiolo 为夫，Hane‘ene‘e 为妻"
+ },
+ "1562": {
+  "en": "",
+  "zh": "Pu‘ukahonua 为夫，Lalohana 为妻"
+ },
+ "1563": {
+  "en": "",
+  "zh": "Ha‘akuku 为夫，Wa‘awa‘a 为妻"
+ },
+ "1564": {
+  "en": "",
+  "zh": "Ha‘apipili 为夫，Ha‘amomoe 为妻"
+ },
+ "1565": {
+  "en": "",
+  "zh": "Kanioi 为夫，Ha‘akauwila 为妻"
+ },
+ "1566": {
+  "en": "",
+  "zh": "Puanue 为夫，Lalomai 为妻"
+ },
+ "1567": {
+  "en": "",
+  "zh": "Kepo‘o 为夫，Kau-a-wana 为妻"
+ },
+ "1568": {
+  "en": "",
+  "zh": "A-‘a‘a 为夫，Ho‘oanu 为妻"
+ },
+ "1569": {
+  "en": "",
+  "zh": "Piowai 为夫，‘A‘amoa 为妻"
+ },
+ "1570": {
+  "en": "",
+  "zh": "Nauanu‘u 为夫，Makohilani 为妻"
+ },
+ "1571": {
+  "en": "",
+  "zh": "Ha‘ulanuiiakea 为夫，Huku 为妻"
+ },
+ "1572": {
+  "en": "",
+  "zh": "Mahikoha 为夫，Hinaho‘oka‘ea 为妻"
+ },
+ "1573": {
+  "en": "",
+  "zh": "‘O‘opukoha 为夫，Kumananaiea 为妻"
+ },
+ "1574": {
+  "en": "",
+  "zh": "Hawai‘i 为夫，Ulunui 为妻"
+ },
+ "1575": {
+  "en": "",
+  "zh": "Kekihe-i 为夫，Kekila‘au 为妻"
+ },
+ "1576": {
+  "en": "",
+  "zh": "Makuaikawaokapu 为夫，Ikawaoelilo 为妻"
+ },
+ "1577": {
+  "en": "",
+  "zh": "Makaukau 为夫，Hahalua 为妻"
+ },
+ "1578": {
+  "en": "",
+  "zh": "Kalolomauna 为夫，Kaloloamoana 为妻"
+ },
+ "1579": {
+  "en": "",
+  "zh": "Kalolopiko 为夫，Kalolo‘a‘a 为妻"
+ },
+ "1580": {
+  "en": "",
+  "zh": "‘A‘a 为夫，Waka‘au 为妻"
+ },
+ "1581": {
+  "en": "",
+  "zh": "Kauwila 为夫，Uhiuhi 为妻"
+ },
+ "1582": {
+  "en": "",
+  "zh": "Palipali 为夫，Palimoe 为妻"
+ },
+ "1583": {
+  "en": "",
+  "zh": "Punalauka 为夫，Punalakai 为妻"
+ },
+ "1584": {
+  "en": "",
+  "zh": "Pihe‘eluna 为夫，Pihe‘elalo 为妻"
+ },
+ "1585": {
+  "en": "",
+  "zh": "Malana‘opi‘opi 为夫，Hika‘ulunui 为妻"
+ },
+ "1586": {
+  "en": "",
+  "zh": "Malanaopiha-e 为夫，Pihaehae 为妻；生了 Kihala‘aupoe，是构树；生了 ‘Ulu，是面包树；生了他们的幼子——",
+  "note": "刊本在这一对之后横跨两栏插入三行，Beckwith 没有给它们单独编号：*Hanau Kihala‘aupoe he Wauke / Hanau o ‘Ulu he ‘Ulu / Hanau ko laua muli o*。*wauke* 即构树（*Broussonetia papyrifera*），树皮用来打制树皮布；*‘ulu* 即面包树。第三行“生了他们的幼子”接下一行的 Kepo‘o。"
+ },
+ "1587": {
+  "en": "",
+  "zh": "Kepo‘o 为夫，Halulu 为妻",
+  "note": "Kepo‘o 承上行，即那一对的幼子。附录二：Kms 第 23 页对妻名 Halulu 有一条注，译文为：“这位 Halulu 是个女子，Halulu 鸟由她而来，其骨如今存放在政府大楼里［原文如此］。在 Kahikinuiauaimoku 的颂歌中，她被说成是从 Kohala 的 Upolo 启航的 Kahikiwaieke 的第一个妻子。”"
+ },
+ "1588": {
+  "en": "",
+  "zh": "Oliua 为夫，Kauikau 为妻"
+ },
+ "1589": {
+  "en": "",
+  "zh": "Kikona 为夫，Ka‘imai 为妻"
+ },
+ "1590": {
+  "en": "",
+  "zh": "Ho‘opulupulu 为夫，Auna 为妻"
+ },
+ "1591": {
+  "en": "",
+  "zh": "Ho‘olehu 为夫，Lapa‘i 为妻"
+ },
+ "1592": {
+  "en": "",
+  "zh": "Ka‘ulunokalani 为夫，Kahele 为妻"
+ },
+ "1593": {
+  "en": "",
+  "zh": "Ho‘ouka 为夫，‘Aluka 为妻"
+ },
+ "1594": {
+  "en": "",
+  "zh": "Kanalu 为夫，Hakihua 为妻"
+ },
+ "1595": {
+  "en": "",
+  "zh": "Po‘i 为夫，Lenawale 为妻"
+ },
+ "1596": {
+  "en": "",
+  "zh": "Paepaemalama 为夫，Kaumai 为妻"
+ },
+ "1597": {
+  "en": "",
+  "zh": "Kaulana 为夫，Kaulalo 为妻"
+ },
+ "1598": {
+  "en": "",
+  "zh": "Pala‘au 为夫，Paweo 为妻"
+ },
+ "1599": {
+  "en": "",
+  "zh": "Nuku‘ono 为夫，Hopulani 为妻"
+ },
+ "1600": {
+  "en": "",
+  "zh": "Pouhana 为夫，Hanaku 为妻"
+ },
+ "1601": {
+  "en": "",
+  "zh": "Kaiwiloko 为夫，Kamaka 为妻"
+ },
+ "1602": {
+  "en": "",
+  "zh": "Leua 为夫，Ka‘oiwi 为妻"
+ },
+ "1603": {
+  "en": "",
+  "zh": "Ho‘okahua 为夫，Ho‘omalae 为妻"
+ },
+ "1604": {
+  "en": "",
+  "zh": "Kuiau 为夫，Ku‘iaeonaka 为妻"
+ },
+ "1605": {
+  "en": "",
+  "zh": "Kapawaolani 为夫，Kaini‘o 为妻"
+ },
+ "1606": {
+  "en": "",
+  "zh": "Manamanaokalea 为夫，Kaukaha 为妻"
+ },
+ "1607": {
+  "en": "",
+  "zh": "‘Auku‘u 为夫，Koha 为妻"
+ },
+ "1608": {
+  "en": "",
+  "zh": "Kakahiaka 为夫，Ku‘ua 为妻"
+ },
+ "1609": {
+  "en": "",
+  "zh": "Kapoli 为夫，Ho‘opumehana 为妻"
+ },
+ "1610": {
+  "en": "",
+  "zh": "Kimana 为夫，Kalimalimalimalau 为妻"
+ },
+ "1611": {
+  "en": "",
+  "zh": "Polohilani 为夫，Kalanimakuaka‘apu 为妻"
+ },
+ "1612": {
+  "en": "",
+  "zh": "Kahilinaokalani 为夫，Hemua 为妻"
+ },
+ "1613": {
+  "en": "",
+  "zh": "Kapaia 为夫，Ho‘olawakua 为妻"
+ },
+ "1614": {
+  "en": "",
+  "zh": "Kakai 为夫，Manawahua 为妻"
+ },
+ "1615": {
+  "en": "",
+  "zh": "‘O‘ili 为夫，Mohala 为妻"
+ },
+ "1616": {
+  "en": "",
+  "zh": "Kapaeniho 为夫，‘Oke‘a 为妻"
+ },
+ "1617": {
+  "en": "",
+  "zh": "Kaupeku 为夫，Kapua 为妻"
+ },
+ "1618": {
+  "en": "",
+  "zh": "Ka‘ope‘ope 为夫，Kuka‘ailani 为妻"
+ },
+ "1619": {
+  "en": "",
+  "zh": "Nakia 为夫，Ho‘omaua 为妻"
+ },
+ "1620": {
+  "en": "",
+  "zh": "Ko‘ele 为夫，Lohelau 为妻"
+ },
+ "1621": {
+  "en": "",
+  "zh": "Huakalani 为夫，Kaunu‘u‘ula 为妻"
+ },
+ "1622": {
+  "en": "",
+  "zh": "Nu‘uko‘i‘ula 为夫，Meheaka 为妻"
+ },
+ "1623": {
+  "en": "",
+  "zh": "Kaioia 为夫，Meheau 为妻"
+ },
+ "1624": {
+  "en": "",
+  "zh": "Kalalomaiao 为夫，Ho‘oliu 为妻",
+  "note": "附录二：从此行起，Kms 中通向瓦凯亚的谱系与本文不同。"
+ },
+ "1625": {
+  "en": "",
+  "zh": "Hakalaoa 为夫，Kulukau 为妻"
+ },
+ "1626": {
+  "en": "",
+  "zh": "Kekoha 为夫，Mahikona 为妻"
+ },
+ "1627": {
+  "en": "",
+  "zh": "Pipili 为夫，Ulukau‘u 为妻"
+ },
+ "1628": {
+  "en": "",
+  "zh": "Ka‘ulamaokoke 为夫，Kapiko 为妻"
+ },
+ "1629": {
+  "en": "",
+  "zh": "Ka‘ulakelemoana 为夫，Ho‘omau 为妻"
+ },
+ "1630": {
+  "en": "",
+  "zh": "Hi‘ikalaulau 为夫，Hamaku 为妻"
+ },
+ "1631": {
+  "en": "",
+  "zh": "Hainu‘awa 为夫，‘Ulahuanu 为妻"
+ },
+ "1632": {
+  "en": "",
+  "zh": "Laukohakohai 为夫，Ho‘olilihia 为妻"
+ },
+ "1633": {
+  "en": "",
+  "zh": "Opa‘iakalani 为夫，Kumukanikeka‘a 为妻"
+ },
+ "1634": {
+  "en": "",
+  "zh": "Opa‘ikumulani 为夫，Kauikaiakea 为妻"
+ },
+ "1635": {
+  "en": "",
+  "zh": "Liahu 为夫，Kapohele-i 为妻"
+ },
+ "1636": {
+  "en": "",
+  "zh": "Kanikumuhele 为夫，Ho‘omauolani 为妻"
+ },
+ "1637": {
+  "en": "",
+  "zh": "Ho‘opililani 为夫，Nawihio‘ililani 为妻"
+ },
+ "1638": {
+  "en": "",
+  "zh": "Ohemokukalani 为夫，Kauhoaka 为妻"
+ },
+ "1639": {
+  "en": "",
+  "zh": "Pilihona 为夫，Mahinakea 为妻"
+ },
+ "1640": {
+  "en": "",
+  "zh": "Ho‘omahinukala 为夫，Paliho‘omoe 为妻"
+ },
+ "1641": {
+  "en": "",
+  "zh": "La‘iohopawa 为夫，Kuaiwalono 为妻"
+ },
+ "1642": {
+  "en": "",
+  "zh": "Kuliaimua 为夫，Ho‘opi‘alu 为妻"
+ },
+ "1643": {
+  "en": "",
+  "zh": "La‘aumenea 为夫，Mahiliaka 为妻"
+ },
+ "1644": {
+  "en": "",
+  "zh": "Ho‘opiliha‘i 为夫，Holiliakea 为妻"
+ },
+ "1645": {
+  "en": "",
+  "zh": "Kiamanu 为夫，Pu‘unaueakea 为妻"
+ },
+ "1646": {
+  "en": "",
+  "zh": "Ho‘opa‘ilimua 为夫，Ho‘opi‘imoana 为妻"
+ },
+ "1647": {
+  "en": "",
+  "zh": "Nakukalani 为夫，Kaukealani 为妻"
+ },
+ "1648": {
+  "en": "",
+  "zh": "Naholokauihiku 为夫，‘Apo‘apoakea 为妻"
+ },
+ "1649": {
+  "en": "",
+  "zh": "Pepepekaua 为夫，Puhiliakea 为妻"
+ },
+ "1650": {
+  "en": "",
+  "zh": "Ho‘omaopulani 为夫，Ahuahuakea 为妻"
+ },
+ "1651": {
+  "en": "",
+  "zh": "Kukulani 为夫，Awekeau 为妻"
+ },
+ "1652": {
+  "en": "",
+  "zh": "Kukauhalela‘a 为夫，Waka‘aumai 为妻"
+ },
+ "1653": {
+  "en": "",
+  "zh": "Kukaimukanaka 为夫，Hiliapale 为妻"
+ },
+ "1654": {
+  "en": "",
+  "zh": "Kukamokia 为夫，Hauli 为妻"
+ },
+ "1655": {
+  "en": "",
+  "zh": "Kukahauli 为夫，Lele‘imo‘imo 为妻"
+ },
+ "1656": {
+  "en": "",
+  "zh": "Kukamoi 为夫，Ho‘oahu 为妻",
+  "note": "刊本作 *Kuku Moi*（附录二）。"
+ },
+ "1657": {
+  "en": "",
+  "zh": "Kukaluakini 为夫，Pu‘epu‘e 为妻"
+ },
+ "1658": {
+  "en": "",
+  "zh": "Ho‘opilimoena 为夫，Kahiolo 为妻"
+ },
+ "1659": {
+  "en": "",
+  "zh": "Ho‘opailani 为夫，Mahikona 为妻"
+ },
+ "1660": {
+  "en": "",
+  "zh": "Lohalohai 为夫，Lauhohola 为妻"
+ },
+ "1661": {
+  "en": "",
+  "zh": "Kelekauikaui 为夫，Mokumokalani 为妻"
+ },
+ "1662": {
+  "en": "",
+  "zh": "Kanikania‘ula 为夫，Meimeikalani 为妻"
+ },
+ "1663": {
+  "en": "",
+  "zh": "Keleikanu‘ulani 为夫，Palimaka 为妻"
+ },
+ "1664": {
+  "en": "",
+  "zh": "Keleikanu‘upia 为夫，Pihana 为妻"
+ },
+ "1665": {
+  "en": "",
+  "zh": "Keleikapouli 为夫，Opi‘opuaka 为妻",
+  "note": "刊本误印作 *Kellikapuli*（附录二）。"
+ },
+ "1666": {
+  "en": "",
+  "zh": "Kelemalamahiku 为夫，Ku‘uku‘u 为妻"
+ },
+ "1667": {
+  "en": "",
+  "zh": "Ho‘ohiolokalani 为夫，Ho‘opalaha 为妻"
+ },
+ "1668": {
+  "en": "",
+  "zh": "Ho‘opihapiha 为夫，Ho‘onu‘anu‘a 为妻"
+ },
+ "1669": {
+  "en": "",
+  "zh": "Ho‘opalipali 为夫，Kuka‘alani 为妻"
+ },
+ "1670": {
+  "en": "",
+  "zh": "Mihikulani 为夫，Poupehiwa 为妻"
+ },
+ "1671": {
+  "en": "",
+  "zh": "Maunaku 为夫，Kalelewa‘a 为妻"
+ },
+ "1672": {
+  "en": "",
+  "zh": "Ho‘oholihae 为夫，Hinapahilani 为妻"
+ },
+ "1673": {
+  "en": "",
+  "zh": "Pi‘ipi‘iwa‘a 为夫，Naukelemauna 为妻"
+ },
+ "1674": {
+  "en": "",
+  "zh": "Kakelekaipu 为夫，Laulaulani 为妻"
+ },
+ "1675": {
+  "en": "",
+  "zh": "Nakiau‘a‘awa 为夫，Po‘iao 为妻"
+ },
+ "1676": {
+  "en": "",
+  "zh": "Nanue 为夫，Kuhimakani 为妻"
+ },
+ "1677": {
+  "en": "",
+  "zh": "Napolohi 为夫，Lonoaakaikai 为妻"
+ },
+ "1678": {
+  "en": "",
+  "zh": "Ho‘ohewahewa 为夫，Ho‘opalepale 为妻"
+ },
+ "1679": {
+  "en": "",
+  "zh": "Milimilipo 为夫，Miliho‘opo 为妻"
+ },
+ "1680": {
+  "en": "",
+  "zh": "Ku‘emakaokalani 为夫，‘Ohuku 为妻"
+ },
+ "1681": {
+  "en": "",
+  "zh": "Po‘opo‘olani 为夫，Heanalani 为妻"
+ },
+ "1682": {
+  "en": "",
+  "zh": "Ka‘iliokalani 为夫，Kiloahipe‘a 为妻"
+ },
+ "1683": {
+  "en": "",
+  "zh": "Ho‘oipomalama 为夫，Kaikainakea 为妻"
+ },
+ "1684": {
+  "en": "",
+  "zh": "Kunikunihia 为夫，Mali‘iluna 为妻"
+ },
+ "1685": {
+  "en": "",
+  "zh": "Paniokaukea 为夫，Pokaukahi 为妻"
+ },
+ "1686": {
+  "en": "",
+  "zh": "Polomailani 为夫，Nakao 为妻"
+ },
+ "1687": {
+  "en": "",
+  "zh": "Polohiua 为夫，Heiheiao 为妻"
+ },
+ "1688": {
+  "en": "",
+  "zh": "Kukukalani 为夫，Pani‘oni‘o 为妻"
+ },
+ "1689": {
+  "en": "",
+  "zh": "Ho‘olepau 为夫，Holoalani 为妻"
+ },
+ "1690": {
+  "en": "",
+  "zh": "Nu‘ualani 为夫，Pahiolo 为妻"
+ },
+ "1691": {
+  "en": "",
+  "zh": "Lanipahiolo 为夫，Mukumulani 为妻"
+ },
+ "1692": {
+  "en": "",
+  "zh": "Ho‘omukulani 为夫，Newa‘a 为妻"
+ },
+ "1693": {
+  "en": "",
+  "zh": "Ho‘onewa 为夫，Kua‘a‘ala 为妻"
+ },
+ "1694": {
+  "en": "",
+  "zh": "Lanuku‘a‘a‘ala 为夫，Pilimeha-e 为妻"
+ },
+ "1695": {
+  "en": "",
+  "zh": "Ho‘opilimeha-e 为夫，Niniaulani 为妻"
+ },
+ "1696": {
+  "en": "",
+  "zh": "Maninikalani 为夫，Kalaniku 为妻"
+ },
+ "1697": {
+  "en": "",
+  "zh": "Ho‘onakuku 为夫，Nahunahupuakea 为妻"
+ },
+ "1698": {
+  "en": "",
+  "zh": "Lanipuke 为夫，Kalolo 为妻"
+ },
+ "1699": {
+  "en": "",
+  "zh": "Ahukele 为夫，‘O‘ilialolo 为妻"
+ },
+ "1700": {
+  "en": "",
+  "zh": "Pi‘oalani 为夫，Pi‘oalewa 为妻"
+ },
+ "1701": {
+  "en": "",
+  "zh": "Miahulu 为夫，Pahulu 为妻"
+ },
+ "1702": {
+  "en": "",
+  "zh": "Minialani 为夫，Ki‘ihalani 为妻"
+ },
+ "1703": {
+  "en": "",
+  "zh": "Kumakumalani 为夫，Ho‘ouna 为妻"
+ },
+ "1704": {
+  "en": "",
+  "zh": "Ho‘opilipilikane 为夫，Pilikana 为妻"
+ },
+ "1705": {
+  "en": "",
+  "zh": "Nu‘akeapaka 为夫，Holiakea 为妻"
+ },
+ "1706": {
+  "en": "",
+  "zh": "Palela‘a 为夫，Palikomokomo 为妻"
+ },
+ "1707": {
+  "en": "",
+  "zh": "Palimoe 为夫，Palialiku 为妻"
+ },
+ "1708": {
+  "en": "",
+  "zh": "Paliho‘olapa 为夫，Palimau‘ua 为妻"
+ },
+ "1709": {
+  "en": "",
+  "zh": "Palipalihia 为夫，Paliomahilo 为妻"
+ },
+ "1710": {
+  "en": "",
+  "zh": "生了 Paliku；生了 Ololo，Ololonu‘u 为妻",
+  "note": "刊本此处以 *Hanau*（生了）领起，横跨左栏占两行，共用第 1710 行号：Paliku 无妻名，Ololo 与右栏 Ololonu‘u 相配。Beckwith：第 1710 行生了 Paliku 和他的弟弟 ‘Ololo（“脑”）；本 wā 从 ‘Ololo 一支延续到瓦凯亚，第十三 wā 则从兄长 Paliku 一支另起（[[ku:20#p1]]、[[ku:20#p8]]；[[line:1735]]）。"
+ },
+ "1711": {
+  "en": "",
+  "zh": "生了 Ololohonua，Olalohana 为妻"
+ },
+ "1712": {
+  "en": "",
+  "zh": "生了 Kumuhonua，Haloiho 为妻",
+  "note": "Kumuhonua（库穆霍努阿）也是另一套创世谱系中第一个男人的名字（[[ch:21]]）。Beckwith 还把这里的 Kumuhonua 与莫伊凯哈（Mo‘ikeha）传说中 Maweke 家族的长子 Kumuhonua 相比（[[ku:24#p2]]）。"
+ },
+ "1713": {
+  "en": "",
+  "zh": "卡内，",
+  "note": "第 1713–1715 行三人用大括号并列，*he mau mahoe* 即“是一对孪生子”。Beckwith 指出这一组三男与第八 wā 天光初开时的卡内、卡纳洛亚、基伊三人相应，只是第三人换成了“最小的” Ahuka‘i（[[ku:24#p2]]；参看 [[line:613-615]]）。她推测这或与 Mo‘ikeha、Olopana 兄弟从南方来到夏威夷、被当作卡内与卡纳洛亚的传说有关，自己也说只是假设（[[ku:24#p5]]、[[ku:24#p6]]）。卡内名后的 [k] 是 Beckwith 本原有的方括号。附录二：Kukahi 刊本（Ku）以 Kamiele 为妻。"
+ },
+ "1714": {
+  "en": "",
+  "zh": "卡纳洛亚，这两位是孪生子"
+ },
+ "1715": {
+  "en": "",
+  "zh": "Ahukai，最小的一个，Holehana 为妻",
+  "note": "*ka muli loa*（最小的）在 Beckwith 本中加了方括号。Beckwith 指出 Ahuka‘i 之名也见于 ‘Ulu–Puna 世系，是 La‘a-mai-kahiki 的祖父辈；按习俗酋长常取先祖之名（[[ku:24#p2]]）。"
+ },
+ "1716": {
+  "en": "",
+  "zh": "Kapili 为夫，Kealona‘ina‘i 为妻",
+  "note": "附录二：第 1716–1726 行参看 Kms 第 35 页、Ku 第 60 页，以及 Fornander《波利尼西亚种族》第一卷第 181 页。"
+ },
+ "1717": {
+  "en": "",
+  "zh": "Kawakupua 为夫，Helea‘eìluna 为妻"
+ },
+ "1718": {
+  "en": "",
+  "zh": "Kawakahiko 为夫，Kaha‘ulaia 为妻"
+ },
+ "1719": {
+  "en": "",
+  "zh": "Kahikolupa 为夫，Lukaua 为妻"
+ },
+ "1720": {
+  "en": "",
+  "zh": "Kahikoleikau 为夫，Kupomaka‘ika‘eleue 为妻"
+ },
+ "1721": {
+  "en": "",
+  "zh": "Kahikoleiulu 为夫，Kanemakaika‘eleue 为妻"
+ },
+ "1722": {
+  "en": "",
+  "zh": "Kahikoleihonua 为夫，Ha‘ako‘ako‘aikeaukahonua 为妻"
+ },
+ "1723": {
+  "en": "",
+  "zh": "Ha‘ako‘ako‘alauleia 为夫，Kaneiako‘akahonua 为妻"
+ },
+ "1724": {
+  "en": "",
+  "zh": "Kupo 为夫，Lanikupo 为妻"
+ },
+ "1725": {
+  "en": "",
+  "zh": "Nahaeikekaua 为夫，Hane‘eiluna 为妻"
+ },
+ "1726": {
+  "en": "",
+  "zh": "Keakenui 为夫，Laheamanu 为妻"
+ },
+ "1727": {
+  "en": "",
+  "zh": "Kahianaki‘iakea 为夫，Luaanahinaki‘ipapa 为妻"
+ },
+ "1728": {
+  "en": "",
+  "zh": "Koluanahinaki‘iakea 为夫，Ha‘anahinaki‘ipapa 为妻"
+ },
+ "1729": {
+  "en": "",
+  "zh": "Limaanahinaki‘iakea 为夫，Onoanahinaki‘ipapa 为妻"
+ },
+ "1730": {
+  "en": "",
+  "zh": "Hikuanahinaki‘iakea 为夫，Waluanahinaki‘ipapa 为妻"
+ },
+ "1731": {
+  "en": "",
+  "zh": "Iwaanahinaki‘iakea 为夫，Lohanahanahinaki‘ipapa 为妻"
+ },
+ "1732": {
+  "en": "",
+  "zh": "Welaahilaninui 为夫，Owe 为妻",
+  "note": "刊本误印作 *-lauinui*（附录二）。Beckwith 认为 Wela-ahi-lani 就是马洛所说的那位“打开”天界、下到大地与美丽的拉伊拉伊相会的 W(ela-)ahi-lani；妻名 Owe 是 Owehewehe（“打开”）的缩略。两人都可能是瓦凯亚与帕帕在家族中的特殊称号（[[ku:24#p14]]）。"
+ },
+ "1733": {
+  "en": "",
+  "zh": "Kahikoluamea 为夫，Kupulanakehau 为妻",
+  "note": "瓦凯亚的父母：在其他夏威夷谱系中也是 Kahiko（又称 Kahikoluamea）与 Kupulanakehau（又作 Kapulanakehau），参看 [[ch:21]]。"
+ },
+ "1734": {
+  "en": "Wakea lived (noho) with Haumea, with Papa, with Haohokakalani [commonly written Ho'ohokukalani], Haloa was born",
+  "zh": "瓦凯亚与豪梅亚、与帕帕、与 Haohokakalani 同居，生了哈洛阿。正是哈洛阿——",
+  "note": "英译取自 Beckwith 第 21 章的引文（[[ku:21#p6]]）。Haohokakalani 通常写作 Ho‘ohokukalani（霍奥霍库卡拉尼，附录二），传说中是瓦凯亚与帕帕的女儿。刊本此行之后另起一行 *O Haloa--no*，句式与“*Po--no*”（依然是夜）相同，未单独编号。Beckwith 指出：在通行传统中，瓦凯亚与帕帕经哈洛阿成为夏威夷人的始祖，但在《库穆利波》里两人只在各 wā 的末尾出现，地位并不重要；本支谱系就以哈洛阿的诞生收尾（[[ku:21#p6]]）。瓦凯亚欺瞒帕帕、立禁忌、哈洛阿诞生的故事见第十三 wā 末尾 [[line:1792-1813]]，参看 [[ch:20]]。"
+ }
+}
