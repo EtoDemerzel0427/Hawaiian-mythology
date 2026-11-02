@@ -1,0 +1,9 @@
+{
+  "huikala": {"term": "huikala", "modern": "huikala", "zh": "洁净礼（赦免）", "def": "彻底洁净、赦免。古时指神庙祭司为接触过尸体等污秽者举行的洁净仪式：以盛着海水、limu kala 海藻与姜黄的碗洒水、念祷。基督教传入后也用来指“赦罪”。", "see": ["g:kapu", "g:noa"]},
+  "kilokilo": {"term": "kilokilo", "modern": "kilokilo", "zh": "观兆、占验", "def": "kilo“细看”的重叠：观察天象、云、彩虹、鸟兽等以卜吉凶的技艺。kilokilo ‘uhane 指自称看见他人幽魂以预言其死的“看魂术”，Malo 斥之为勒索的骗术。", "see": ["g:kilo-hoku", "g:kahoaka"]},
+  "kahoaka": {"term": "kahoaka", "modern": "kahoaka", "zh": "生魂幽影", "def": "活人的灵魂离体后显现的形影（英语 wraith），被看见常被视为死亡将至的预兆。", "see": ["g:uhane", "g:kilokilo"]},
+  "makaula": {"term": "makaula", "modern": "makāula", "zh": "先知（见灵者）", "def": "据称能看见、捕捉乃至捏死灵魂，并能预言的人；与 kaula 相近。有人把这个词解释为 maka（眼）+ ‘ula（红）。", "see": ["g:kaula"]},
+  "wanana": {"term": "wanana", "modern": "wānana", "zh": "预言", "def": "先知（kaula）所说的预言，多关乎国王之死、政权兴亡等大事，如 Kapihe 的“在上的将被降下，在下的将被举起”。", "see": ["g:kaula"]},
+  "lele": {"term": "lele", "modern": "lele", "zh": "高架祭台", "def": "神庙或神祠中用木杆搭成的高架祭台；放在上面的祭品归神所有，任其腐烂，凡人不得取食。", "see": ["g:heiau"]},
+  "haumia": {"term": "haumia", "modern": "haumia", "zh": "污秽（仪式性不洁）", "def": "因接触尸体等而处于仪式性不洁的状态；处于 haumia 的人不得进入他人的屋子、吃他人的食物或碰触他人，须经洁净礼（huikala）才能解除。", "see": ["g:kapu", "g:huikala"]}
+}

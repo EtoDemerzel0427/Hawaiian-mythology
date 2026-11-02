@@ -1,0 +1,49 @@
+{
+  "hale-mana": {
+    "term": "hale mana",
+    "modern": "hale mana",
+    "zh": "圣屋",
+    "def": "luakini 神庙中最大的房屋，门朝供台；祭司在其中通宵祈祷，主神像之外的若干神像也立在屋内。",
+    "see": [
+      "g:luakini"
+    ]
+  },
+  "haku-ohia": {
+    "term": "haku ohia",
+    "modern": "haku ‘ōhi‘a",
+    "zh": "欧希亚之主",
+    "def": "luakini 中用一棵完好的欧希亚树新刻的主神像；伐树和入柱坑时都要献人祭，系上缠腰布后得名 Moi。",
+    "see": [
+      "g:luakini",
+      "g:ohia-lehua"
+    ]
+  },
+  "kuhikuhipuuone": {
+    "term": "kahuna kuhikuhi puuone",
+    "modern": "kahuna kuhikuhi pu‘uone",
+    "zh": "沙盘祭司",
+    "def": "字面义“指点沙堆的专家”：精通历代神庙布局的祭司，用沙子在地上堆出模型，为国王设计神庙。",
+    "see": [
+      "g:heiau"
+    ]
+  },
+  "oloa": {
+    "term": "oloa",
+    "modern": "olo‘a",
+    "zh": "白树皮布",
+    "def": "一种细白的树皮布，用作神像的缠腰布和神庙的装饰。",
+    "see": [
+      "g:kapa"
+    ]
+  },
+  "mapele": {
+    "term": "mapele",
+    "modern": "māpele",
+    "zh": "祈丰神庙",
+    "def": "按洛诺祭仪修建、苫顶的神庙，用猪献祭、不献人祭，用来祈求丰收；国王之下的酋长也可以修建。",
+    "see": [
+      "g:heiau",
+      "g:luakini"
+    ]
+  }
+}

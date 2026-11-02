@@ -48,7 +48,7 @@ status: draft
 !!! story "乌米的神庙"
     乌米（‘Umi-a-Līloa）是利洛阿（Liloa）之子，出身卑微而终于统一夏威夷岛的著名酋长，Malo 在全书最后一章 [[ma:67]] 讲他的故事。“乌米修庙十年才得到 aha”是一句流传的说法，用来说明 luakini 的禁期可以拖得多长；本章注 38 收录的祷词里也有“为乌米，利洛阿之子”的句子。
 
-¶8 如果国王按洛诺的祭仪敬拜，他所建的神庙就是一座 *mapele*；另一种是 *unu o Lono*。这种情况下，建屋、建院子围栏以及建神谕塔所用的木料是 lama 木，屋顶用朱蕉（ki，*Cordyline terminalis*）叶苫盖。庙里也有神像。禁忌持续三天，此后这里就解禁——前提是找到了 aha。如果找不到 aha，就按 luakini 的办法处理。
+¶8 如果国王按洛诺的祭仪敬拜，他所建的神庙就是一座 [[g:mapele|mapele]]；另一种是 *unu o Lono*。这种情况下，建屋、建院子围栏以及建神谕塔所用的木料是 lama 木，屋顶用朱蕉（ki，*Cordyline terminalis*）叶苫盖。庙里也有神像。禁忌持续三天，此后这里就解禁——前提是找到了 aha。如果找不到 aha，就按 luakini 的办法处理。
 
 ¶9 mapele 是一种苫顶的神庙，在其中祈求神赐福于庄稼。[^4]这种神庙里不献人祭，只用猪作祭品。国王之下任何等级的酋长都可以随意修建 mapele 神庙、*unu o Lono*、*kukoae* 或 *aka*，但不能修建 luakini。修建 luakini 的权利只属于国王。不过，mapele 是酋长们和国王本人最常在其中祈祷的那种神庙。
 
@@ -75,9 +75,9 @@ status: draft
 
 ¶13 首先，国王就修建 luakini 一事询问他的大祭司：他是否认为旧的 luakini 只要更新房屋和栅栏就够用；旧的石墙是否可以保留；旧的神像是否还可以继续使用。
 
-如果国王的提议获得同意，第一件事就是对神庙举行洁净仪式——*huikala*——使它解禁（*noa*），即开放，好让工匠能够进去，给它装上新的栅栏，并用 loulu 棕榈叶或 uki 草重新苫盖屋顶。
+如果国王的提议获得同意，第一件事就是对神庙举行[[g:huikala|洁净仪式]]——*huikala*——使它解禁（*noa*），即开放，好让工匠能够进去，给它装上新的栅栏，并用 loulu 棕榈叶或 uki 草重新苫盖屋顶。
 
-¶14 如果国王、祭司等人一致认为最好新建一座 luakini，就去请 *kahuna kuhi-kuhi-puu-one*[^5]来。他的职责是向国王展示神庙的规划图；因为这一类人在有关神庙的一切事情上都受过彻底的训练。他们熟悉从最古老的时代起、从夏威夷岛到考艾岛所建的所有神庙，其中有些已经成了废墟。这些 *kuhi-kuhi-puu-one* 对这些古庙了如指掌，因为他们曾实地考察过，见过它们的遗址，知道它们全部的布局。
+¶14 如果国王、祭司等人一致认为最好新建一座 luakini，就去请 *kahuna kuhi-kuhi-puu-one*[^5]（[[g:kuhikuhipuuone|沙盘祭司]]）来。他的职责是向国王展示神庙的规划图；因为这一类人在有关神庙的一切事情上都受过彻底的训练。他们熟悉从最古老的时代起、从夏威夷岛到考艾岛所建的所有神庙，其中有些已经成了废墟。这些 *kuhi-kuhi-puu-one* 对这些古庙了如指掌，因为他们曾实地考察过，见过它们的遗址，知道它们全部的布局。
 
 ¶15 他们知道某位古代国王修建的那座神庙，因为修了它，那位国王战胜了另一位国王。*kuhi-kuhi-puu-one* 向国王讲解的正是这座神庙的规划；如果国王满意，他就先在地上做出一种神庙的平面图，展示给国王，解释它的各个部分，让国王看清栅栏要从哪里经过，房屋立在哪里，神谕塔和神像的位置又在哪里。
 
@@ -90,9 +90,9 @@ status: draft
 
 ¶17 luakini 的布局是这样的：如果它的正面朝西或朝东，神谕塔就位于北端；如果神庙朝北或朝南，神谕塔就位于东端；这样，会众就在 luakini 的南部或西部。
 
-¶18 神谕塔里面有一个坑，叫作 *lua-kini*[^6]或 *lua-pa'u*。神谕塔前面立着神像，神像前面是铺石地（*kipapa*）和放置祭品的供台（*lele*）。
+¶18 神谕塔里面有一个坑，叫作 *lua-kini*[^6]或 *lua-pa'u*。神谕塔前面立着神像，神像前面是铺石地（*kipapa*）和放置祭品的[[g:lele|供台]]（*lele*）。
 
-¶19 供台前面是一片卵石铺地，或者说一个架子，祭品在献上（*hai*）之前先放在那里，献祭时再摆到供台上。供台前面有一座房子，叫作 *hale-pahu*（鼓屋），门朝向供台，鼓就在里面敲。鼓屋的后面是一座更大更长的房子，叫作 *mana*，门也朝向供台。鼓屋后面再往后，还有一座房子，立在神庙的入口处。在鼓屋（*hale pahu*）后面的狭窄通道里、名为 Mana 的房子的一端（*kala*），有一座叫作 Waiea 的小屋，aha 绳就拉在那里。
+¶19 供台前面是一片卵石铺地，或者说一个架子，祭品在献上（*hai*）之前先放在那里，献祭时再摆到供台上。供台前面有一座房子，叫作 *hale-pahu*（鼓屋），门朝向供台，鼓就在里面敲。鼓屋的后面是一座更大更长的房子，叫作 *mana*（[[g:hale-mana|圣屋]]），门也朝向供台。鼓屋后面再往后，还有一座房子，立在神庙的入口处。在鼓屋（*hale pahu*）后面的狭窄通道里、名为 Mana 的房子的一端（*kala*），有一座叫作 Waiea 的小屋，aha 绳就拉在那里。
 
 ¶20 Mana 的另一端（*kala*）有一座房子，叫作 *hale-umu*（灶屋），神庙的火就在里面生。围墙（*pa*）以内的空间是神庙的庭院，即 *kahua*。围墙以外，北面是一片平整的铺石地，即 *papahola*；南面围墙以外立着帕帕之屋（house of Papa）。[^8]在 papahola 的外缘，地上插着十字架，标出神庙的界限。
 
@@ -239,7 +239,7 @@ status: draft
 
 ¶34 当天夜里（Hoaka），又有一位祭司主持了名为 Malu-koi 的仪式，[^17]在其中祝圣将要用来砍伐新神像木料的斧头，把它们放在（小屋 Mana 里）过夜。烤了一只鸡给祭司用，一只给国王，第三只给神；然后他们就睡下过夜。
 
-¶35 第二天早上（Ku-kahi），国王、酋长、民众和祭司们，包括主持 Malu-koi 仪式的那位祭司，动身上山。用斧头主持 Malu-koi 仪式的祭司称为 *kahuna haku ohia*（欧希亚之主的祭司），因为 *Haku ohia* 是他们将要雕刻的神像的名称。这尊神像的另一个名称是 Mo-i。当天，这位 *kahuna haku ohia* 开始一次为期六天的斋戒。
+¶35 第二天早上（Ku-kahi），国王、酋长、民众和祭司们，包括主持 Malu-koi 仪式的那位祭司，动身上山。用斧头主持 Malu-koi 仪式的祭司称为 *kahuna haku ohia*（[[g:haku-ohia|欧希亚之主]]的祭司），因为 *Haku ohia* 是他们将要雕刻的神像的名称。这尊神像的另一个名称是 Mo-i。当天，这位 *kahuna haku ohia* 开始一次为期六天的斋戒。
 
 ¶36 上山时，他们带着猪、香蕉、椰子、一条红鱼——*kumu*——还有一个犯了罪的人，作为献给神的祭品。
 
@@ -338,7 +338,7 @@ status: draft
 
 ¶62 然后祭司念完了一长段 *Pule kai*（海水祷），它的全名是 Kai-o-po-kea；但由于它长得令人厌倦，人们给它起了个绰号叫 *Unuhi kai o pokea*；他们的祷告念完后，大家就坐下了。
 
-¶63 之后，一位洛诺系的祭司站了出来；他被称为 *kahuna kuhi-alaea*——涂红土的祭司。他手执一根缠着白布的木杖，这种白布叫作 *olo-a*，他念诵了一段祷告。
+¶63 之后，一位洛诺系的祭司站了出来；他被称为 *kahuna kuhi-alaea*——涂红土的祭司。他手执一根缠着白布的木杖，这种白布叫作 *olo-a*（[[g:oloa|白树皮布]]），他念诵了一段祷告。
 
 ¶64 这也是一段冗长的仪式，名为 *Kai o Kauakahi*，即 Kaua-kahi 的咸水。临近祷告结束时，祭司说出这几个字：哦库！解除我们的困扰吧！——*E Ku ka'ika'i na hihia!*[^28]
 
@@ -541,9 +541,9 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^1]: （第 4 节）*Lana-nuu-mamao*，一种塔状的框架，用结实的木料搭成，外面覆以 *aho*，即细杆，但不苫顶。它有三层平台，即 *kahuas*，最低的一层叫 *lana*，第二层叫 *nu'u*，最高的一层叫 *mamao*。最低的 *lana* 用来安放祭品。第二层 *nu'u* 更为神圣；大祭司和他的助手有时站在那里主持宗教仪式。第三层 *mamao* 是最神圣的地方。只有大祭司和国王才允许登上这一层。在 *lana-nu'u-mamao* 进行敬拜时，所有的民众都俯伏在地。*lana-nu'u-mamao* 很可能曾被当作一种神谕所来使用。
 
 [^2]: （第 5 节）*Hoo-mahana-hana*，禁忌严苛程度的放松，一段休整期，祭司和工匠在其间可以松快一些，不拘一些礼数。它类似于大斋期中的“提神主日”（Refreshment Sunday）。下面这段祷词，据告诉我的人说，是用来祈求诸神准许一段 *hoomahanahana* 宽免期的。
-
+    
     *Pule Hoomahanahana（休整之祷）*
-
+    
     > E Ku i ka lana mai nuu,
     > E Ku i ka ohia lele,
     > E Ku i ka ohia-lehua,
@@ -581,9 +581,9 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^3]: （第 5 节）*Aha*，常用来指祷告、咒语、仪式，或仪式的成功举行——它的稳妥与美好；在本处则指一种绳或垫，用一种海草编成，这种海草长在远离海岸的深海里。编这种 aha 时，要把椰子纤维和海草掺在一起。这种海草也许更常被称为 *ahaaha*。这种 aha 用来装饰库的神龛。能不能找到编 aha 用的海草，当然多少要凭运气。因此禁期的长短无法确定。
 
 [^4]: （第 9 节）*Hoouluulu ai*，为庄稼祈福。下面是在这种场合使用的一段祷词的样本。
-
+    
     *Pule Hoouluulu ai（使食物生长之祷），又名 Pule Hoomau*
-
+    
     > E Lono, alana mai Kahiki,
     > He pule ku keia ia oe e Lono.
     > E Lono lau ai nui.
@@ -629,7 +629,7 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^11]: （第 23 节）*Hale-puu-one*：之所以这样叫，是因为它的形状就像沙子在一处均匀堆起时的样子，即圆锥形，像南北战争初年波托马克军团用过的那种老式西布利帐篷。
 
 [^12]: （第 23 节）*Hawai*：一种有山墙的长屋，帕帕一系的女祭司在其中与国王和祭司们聚集，举行洁净仪式——*Pule huikala*——之后他们便分开，严格地彼此隔离，直到 luakini 解禁。在这种场合所用的祷词，大概属于 *Moo-Lono*，即洛诺的祭仪，如下：
-
+    
     > E Lono i ka oualii,
     > E Lono uli moe,
     > E Lono uli lani,
@@ -683,7 +683,7 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^13]: （第 26 节）尼赫乌（Niheu）：把头发和红土（*alaea*）揉在一起，在头顶上用签子别住。据说有时还在自己的头发上添上别人的头发。
 
 [^14]: （第 27 节）*Pule huikala no ka aina*，洁净土地的祷词。
-
+    
     > E Lono ma ka uli lani,
     > Eia ka ai, eia ka ia,
     > He alana, he mohai,
@@ -719,7 +719,7 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^16]: （第 32 节）*Ia*：夏威夷的权威人士对这个词的真正含义提供不了任何线索，也几乎无从推测。它显然是某位神的名字或称号，或代表某位神。形式上与之相应的唯一神名，是希伯来语的 JAH（《诗篇》68:4）。
 
 [^17]: （第 34 节）*Malu koi*：祷告之后，把斧头放在 Mana 门的门楣里面，献上三只鸡作祭品。下面是一段 *Pule malu koi*：
-
+    
     > E Kane uakea
     > Eia ka alana,
     > He moa ualehu,
@@ -779,11 +779,11 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^20]: （第 42 节）Kua-mu、Kua-wa 和 Kua-wao 是林中的神。Kua-mu 伐树时悄无声息；Kua-wa 伐树时喧哗呼喊；Kua-wao（这段祷词中没有提到）随心所欲，在任何地方伐树。这场下山时喧腾欢乐的狂奔，是向这些林中神祇告别。
 
 [^21]: （第 52 节）下面是一段称为
-
+    
     *PULE O KAI-A-POKEA（白骨之海的祷词）*
     
     的祷词：
-
+    
     > E Kane, e Lono i ke kai uli,
     > Ke kai kea, ke kai haloiloi,
     > Ke kai nalu-poi,
@@ -839,3 +839,368 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
     
     又：读者会注意到，我把第 10 行分成了两行。这是翻译上的需要。
 
+[^22]: （第 53 节）*Hopu*，抓住，主祭的祭司发出的口令，意思是“拿起神像”，就像军令中的“扛枪”一样。
+
+[^23]: （第 55 节）*Mau hoe e, ihe a Luakapu* 等句。不用说，这一段的难处，因词源的不准确和标点的荒谬而加倍。语言极富比喻色彩，理解它的钥匙，在于其中对人身之神卡霍阿利伊裸体的隐晦暗示。*Ihe*（矛）是卡霍阿利伊阳具的委婉说法。*Luakapu* 是卡霍阿利伊的别名。*Lukaluka* 是一种树皮布的褶层，祭司等人把它围在腰胯间，方式与女人穿的 *pau*（女裙）相似。*Hookama* 是收养为子。*Haalauele* 意为房屋，是一个古词。
+
+[^24]: （第 56 节）*A mio i ka lani omamalu (ia Kahiko)*。括号里的几个字 Malo 没有引出，不过据告诉我的人说，它们属于这一句。
+
+[^25]: （第 58 节）*Kuku'i Kahiko i ka lani* 等句。照字面看，原文完全不知所云。原文如下：“*Kukui, kahiko, i ke lani au, wai la make o manalu.*”卡希科（Kahiko）是古代夏威夷岛的一位国王。传说他起初是一位好国王。有一个头颅在天上显现，从中传出一个声音，问道：“地上有谁为人公正、行事正直？”——（*Owai ke kanaka olalo i pono ka noho ana?*）人们回答：“卡希科。”到他在位的后期，他走上了邪路，那个头颅又出现了，问道：“地上有谁行为邪恶？”人们又回答：“卡希科。”那声音问：“他有什么过错？”“他杀人；他抢夺人民的头发；他生活腐败，如今还教人民向他祈祷，说一切力量都属于他。”据说 Manalu 是卡希科的大祭司。他被描述为一个非常自私的人，别的祭司主持仪式时，他总要插手、无礼地搅扰，做鬼脸、做侮辱人的手势，不肯罢休。他的祭司同僚们终于惊天动地地闹起来，恳求国王把他处死。
+    
+    关于这件事，有人告诉了我下面这段祷词（*pule*）：
+    
+    > Make Kane ia hii,
+    > Hii luna i ka lani o Kane,
+    > Hii ka honua ia Kane,
+    > Hii ke ao opulepule,
+    > Pule ola i o Kane e.
+    > O Kane ke akua ola.
+    > Amama Kahiko ia Kane.
+    > E ola o Kane.
+    > Amama. Ua noa.
+    > *应答（？）。* Noa o Kane, ke akua o ke kupulau,
+    > Io welo Kahiko o Kane,
+    > O Kane i o Manaele.
+    > Maeleele ka lani,
+    > Ka lani, ka honua, ua kapu no Kane.
+    > Amama. Ua noa.
+    
+    > 卡内为操劳而倦极，
+    > 操劳于他自己天国的治理，
+    > 大地由卡内治理，
+    > 卡内照管斑驳的卷云。
+    > 向卡内祈求生命。
+    > 卡内是生命之神。
+    > 卡希科向卡内说了 amama。
+    > 万岁，卡内！
+    > Amama。已经解禁。
+    > *应答——* 卡内的解禁，萌芽之草的神。
+    > 借卡希科，卡内的继承者，
+    > 天空暗了下来。
+    > 卡内把它传给了 Manaele。
+    > 天、地都属卡内，是神圣的。
+    > Amama。已经解禁。
+
+[^26]: （第 61 节）*Hana, mai a mana ke kahuna* 这句话，我译作“一位祭司批准了它”，它在原文中写得极不合语法，要费些心思才能读出一点意思来。这几个字的笔迹与原文其余部分不同。有人告诉我，当土地转让给某人时，习惯上要由一位祭司以某种向上天的祈求来批准这项交割。
+
+[^27]: （第 61 节）这个人的回答使人想起那句经文：“地和其中所充满的，都属耶和华。”
+
+[^28]: （第 64 节）*Hihia* 的字面意思是纠缠、乱结。在本处也许译作“重负”更好。*ka'i* 一词，或它的重叠形式 *kaikai*（如本处），字面意思是背负、携带。
+
+[^29]: （第 66 节）*kau na auau* 这个说法，据说非常古老。
+    
+    有人告诉我下面这段古语用法的例子：
+    
+    > Aulana auau ka aho!
+    > Hoa kupukupu ka uki wailana!
+    > Lanalana, hauhoa ka aha,
+    > I ke kua o ke oa o ka hale o Lono!
+    > E Lono, eia ko hale la, o Mauliola,
+    > He hale ka-uki
+    > E hoano, hoano e Kane!
+    > Hoano i ko hale!
+    > He luakini kapu,
+    > He ana nau e Kane.
+    > E ola! e ola! e ola Kane!
+    > Hoano! Ua noa!
+    
+    > 细杆浮在地面之上，
+    > 用紧扣把 uki 叶绑在这根细杆上！
+    > 把绳子绑牢扎紧
+    > 系在洛诺之屋的椽背上！
+    > 哦洛诺，这是给你的屋，Mauliola 之屋！
+    > 一座用 uki 叶苫成的屋。
+    > 祝圣吧！祝圣吧，哦卡内！
+    > 祝圣这座屋！
+    > 一座神圣的神庙，
+    > 一座献给你的洞穴神庙，哦卡内！
+    > 生命！生命！借卡内得生命！
+    > 已祝圣！工程完成了！
+
+[^30]: （第 70 节）*Makaiwa*，珠眼的，形容这些神像的说法。
+
+[^31]: （第 72 节）说为这次献祭选用的是罪人，这一点不可信。为了配得上这一职能，祭品必须完美无瑕。婴儿、老人、女人或任何身有残缺的人，都不合格。
+
+[^32]: （第 78 节）下面这段，据告诉我的人说，是一段
+    
+    *PULE HULAHULA（hulahula 之祷）*
+    
+    > Kai-ku ka lani, kakaa ka honua, alaneo ke kula.(a)
+    > Ua moe ka ia, ua alaneo ka lani,
+    > Hoomamalu ka lani Ia,
+    > E Ku! e Kane! e Lono!
+    > E Lono i ka po lailai,
+    > Kuu'a mai ka alaneo!
+    > Eia la he mohai,
+    > He puaa no ka aha maka,(b)
+    > He aha hula no ke alii,
+    > No ka hale o ke akua.
+    > Ea ka lani, ea ka honua,
+    > Ea ia Kane ka waiola,
+    > E ola i ke kini o ke akua!
+    > Hoano! hoano! ua ola! ola!
+    > Ola ke alii, ola na akua.
+    > Eia ka mohai la, he puaa.
+    > A make ka puaa, nau e ke akua.
+    > A noa! Ua ola!
+    
+    > 诸天辉煌，大地晶莹，地面如镜，
+    > 银河向西倾斜，诸天光耀。
+    > 诸天由银河守护。
+    > 哦库！哦卡内，哦洛诺！
+    > 晴夜的洛诺啊，
+    > 保持诸天的光明不受遮蔽！
+    > 这里有一份祭品，
+    > 一头为这场公开的仪式献上的猪，(b)
+    > 一场草裙舞的庆典，为国王而跳的草裙舞；
+    > 为神的屋而跳。
+    > 国王出来了，民众聚集了，
+    > 卡内带着生命之水而来，
+    > 借众神得生命！
+    > 神圣！神圣！生命！生命！
+    > 借国王得生命！借众神得生命！
+    > 看哪，祭品，一头猪！
+    > 猪已献祭，它是你的，哦神！
+    > 完成了！我们得救了！
+    
+    （a）天空晴朗无云，是好兆头。
+    
+    （b）这场仪式称为 *aha maka*，“给眼睛看的仪式”（*maka*，眼睛）。此前的各场仪式都是秘密进行的，属于预演。
+
+[^33]: （第 85 节）*Akua maoli*：雕刻一尊神像，并不能造出一位真正的神（*akua maoli*）。要做到这一点，需要献祭、敬拜、祈祷，即 *hoomana*（使之有灵力）。这是一件需要时间、耐心和信心的事。
+
+[^34]: （第 87 节）*Aha linalina*：据说应当是 *aha limalima*，因垂在上面的手指般的穗子或尖角而得名。它是一种装饰用的网状绳结，边缘缀着穗子（*limalima*）。它挂在屋脊上。据说当时念的祷词如下，称为
+    
+    *PULE KUWA（Kuwa 之祷）*
+    
+    > E Ku i ka lani,
+    > Ke aha o makuu-halala,(\*)
+    > E Ku i kaupaku o Hanalei, makuu oloa,
+    > E pu, e hikii, e paa ia oloa,
+    > O oloa hulihia ka mana,
+    > He mana puki no ka aha oloa,
+    > E mana i ke akua.
+    > E oki i ka piko o Mana.
+    > Ua mana, mana ka aha linalina
+    > I ka hale o ke akua o Kane.
+    > Oki'a ka piko!
+    > A noa! ua noa!
+    
+    > 哦天上的库！
+    > 看哪，绳已结成包罗一切的结！
+    > 哦 Hanalei 神秘奇妙的屋脊上的库！
+    > 用打结的 oloa 绑起、系紧！
+    > 是 oloa 将要推翻那力量。
+    > 力量包裹在 oloa 绳里。
+    > 让力量去到神像那里！
+    > 现在剪断 Mana 屋的脐带！
+    > 灵力，灵力就在打结的 oloa 绳里，
+    > 它装饰着卡内神的屋。
+    > 现在剪断脐带！
+    > 完成了！已经完成了！
+    
+    （\*）*Ke aha o makuu halala*。S. Percy Smith 先生认为这里指的是毛利人的一句古老谚语：“*Here ki te here o Matuku-tako-tako, te taea te wewete*”，“用 Matuku-tako-tako 的捆法来捆，那是解不开的。”这背后有一个很长的故事。
+
+[^35]: （第 89 节）*Kuili*：有人告诉我，这个词的意思是人人同时说话，或同时祈祷。在本处，据说指的是所有人同时念诵祷词这件事。这究竟只指祭司，还是也包括民众，我无法断定。
+    
+    *PULE KUILI（Kuili 之祷）*
+    
+    > Kuili ka pule lani o Ku,
+    > E Kane, e Lono i ka ouli lani,
+    > Lani kuwa, e Kane,
+    > Kane ke akua mana,
+    > Mana e hehi ka aha hulahula.
+    > Kuili ia ka leo paa,
+    > Ka leo wi, ka leo ohe, ka leo ohia,
+    > Haku-ohia o uka e!
+    > Kuili ia i paa,
+    > E paa i ka lani,
+    > A mana i ka lani
+    > A ulu i ka lani,
+    > A lu i ka lani, lani ku.
+    > Oili ka pule,
+    > Kuili! kuhano!
+    > He lani pakaua kukahi.
+    > Ua noa!—E hui ka pule!
+    
+    > 现在齐声念诵国王献给库的祷告！
+    > 哦卡内，哦显示征兆的天上的洛诺，
+    > 被举起的诸天，哦卡内，
+    > 卡内，大能的神，
+    > 有力量在舞者的集会中踏步。
+    > 现在抑住声音，压下它，
+    > 饥饿的声音，竹子的声音，欧希亚树的声音，
+    > 山林中的欧希亚之神。
+    > 举起你们的祷告，让它们蒙悦纳！
+    > 在天上蒙悦纳！
+    > 在天上有力量！
+    > 在天上兴旺！
+    > 从天上、从上天散下福佑！
+    > 祷告自己展开。
+    > 祷告已经说出；卡内统治万有。
+    > 一片如城垒的天。
+    > 祷告完毕。——大家都来祈祷！
+
+[^36]: （第 95 节）在这个仪式中，一条用椰子纤维搓成的长长的椰棕绳挂在 Mana 屋的内侧四周，上面垂挂着许多条称为 *mahuna* 的树皮布条。*hoowili-moo* 这个说法的字面意思是“扭绞蛇或蜥蜴”。不过，象征性的说法若是离开它的原始出发点，远得像亚洲的蛇之国度与无蛇的夏威夷之间那样，一般就几乎不剩什么原来的字面意思了。下面这段，据告诉我的人说，是一段
+    
+    *PULE HOOWILIMOO（Hoowilimoo 之祷）*
+    
+    > Hauli lani ka aha ka apipi o Kane,
+    > O Kane ulu lani, hakoikoi ka lani,
+    > Lani ku, ka alana o aha ula Hoowilimoo,
+    > Moo lani, moo lani aukuku ka honua.
+    > Ua wela ka hoku Kaelo ia Makalii,
+    > Ka auhuhu paina,
+    > O Hoowilimoo ka aha nani,
+    > Nani Kukulu o Kahiki,
+    > Ua nani ka aha,
+    > Ua moe kaoo ka leo kanaka.
+    > E kai ka aha no ke alii,
+    > He aha noa, he aha lele,
+    > He aha kapu, he aha ku,
+    > Kulia ka aha no ke alii,
+    > A make ka hoa paio.
+    > Kulia ka aha, ola no ke alii.
+    > A lu, a ola, ola ka aina
+    > Ia oe Kane, ke akua ola.
+    > E ola ia'u, ia (Mahoe) ke alii.
+    > Ua noa! Ua ka'i ka aha!
+    
+    > aha 从天上落到卡内眷顾之处，
+    > 卡内拱起诸天，用云把整片天空染得斑驳。
+    > 上天 Hoowilimoo 神圣红色 aha 的赐予。
+    > 天上的征兆！天上的征兆！使大地充满福佑。
+    > Kaelo 星在 Makalii 季节灼灼燃烧，
+    > 苦涩的 *auhuhu* 被烤得焦脆，
+    > Hoowilimoo 是美好的仪式。
+    > 卡希基（塔希提）是美丽的，
+    > 征兆对仪式有利。
+    > 众人的声音已经安息。
+    > 现在我们必须为国王举行仪式。
+    > 一场蒙悦纳的仪式，一场到达终点的仪式，
+    > 一场不会失败的神圣仪式。
+    > 会众站在国王面前。
+    > 他的敌人将在他面前消融。
+    > 倾下丰饶吧！生命！生命给这片土地，
+    > 借着你，卡内，生命之神！
+    > 生命给我，给（Mahoe）国王！
+    > 蒙悦纳了！仪式完成了！
+    
+    （36½）第 97 节。*Ka-papa-ulua*：这一奇特的习俗，像是远古南洋食人之风的遗迹，也许是它残存的回声。它之所以叫这个名字，是因为出海时，坐在独木舟前部的桨手习惯用力敲打（*ka*）独木舟的船舷（*papa*），而拿着钩和线的人坐在船尾。*ka-papa-ulua* 这个名称也用来称呼钩取“人形 ulua”的祭司。在村里穿行时，祭司用和在海上相同的办法，把人这种猎物惊醒、引出来。他用桨敲打房屋的门，同时喊出某句含混的话，比如“*haha ulua, haha mano*”，意思是那一类鱼大丰收；屋里的人若是不谙世事，就会跑出来看热闹，于是给了这凶残的祭司下手的机会。一个嘴里插着鱼钩的死人——不能是女人——就很可以充当一条 ulua。事实上，祭司们更想要的正是人，只不过委婉地用同一个名字来称呼罢了。
+
+[^37]: （第 110 节）运下 koa 树的场合，与从山上取回“欧希亚之主”神像时一样，是一场喧闹狂欢的场面，就像酒神的合唱队游行，或是秋收时的欢呼。下面这段，据告诉我的人说，是群众在这种场合呼喊的狂野歌谣与合唱的一个样本：
+    
+    *MELE HOOKANIKANI-PIHE（喧呼之歌）*
+    
+    > *一人——* I ku mau mau!
+    > *众人——* I ku wa!
+    > *一人——* I ku mau mau!
+    > I ku huluhulu!
+    > I ka lanawao!
+    > *众人——* I ku wa!
+    > *一人——* I ku lanawao!
+    > *众人——* I ku wa!
+    > I ku wa! huki!
+    > I ku wa! ko!
+    > I ku wa a mau!
+    > A mau ka eulu!
+    > E huki, e!
+    > Kuli'a!
+    > Umi'a ka hanu!
+    > A lana, ua holo ke akua!
+    
+    > 站起来，两人一组！
+    > 它动了，神开始奔跑了！
+    > 隔开站好！
+    > 两人一组站好
+    > 使出全身力气拉！
+    > 在参天大树下！
+    > 隔开站好！
+    > 在高大的林木间站起来！
+    > 隔开站好！
+    > 隔开站好！拉！
+    > 隔开站好！拖！
+    > 站稳位置！拖！
+    > 连枝带叶地拖！
+    > 现在拉！
+    > 站起来，伙计们！
+    > 现在屏住气！
+    > 它动了，神开始奔跑了！
+    
+    （英译比夏威夷语原文多出一行，原书如此。——译者）
+
+[^38]: （第 116 节）*Kai-oloa*：凡是用海水漂白的树皮布都叫 *kai-oloa*。下面这段，据告诉我的人说，是一段
+    
+    *PULE KAIOLO'A（Kaioloa 之祷）*
+    
+    > Malo lani kailolo'a,
+    > Ka malo o ke akua, o Uli.
+    > Uliuli kai, e Hina!
+    > Hinaluuloa ka malo o Hina.
+    > He ua lele ka malo o Ku,
+    > Ku i ka lalani heiau.
+    > Aulana ka malo o Lono!
+    > Hume! hume ka malo o Lono-kaiolohia!
+    > E lei ana ka malo o Lono-honua.
+    > Honua-ku-kapu ka malo o Io-uli.
+    > Ka malo puhano, kukapu, e Kane-auhaka,
+    > Hume ia ko malo!
+    > Eia la he malo kapu, he olo'a.
+    > Oloa lani ke ola o na 'lii wahine.
+    > Hikii ia a paa i ka heiau,
+    > Heiau ku, heiau lani,
+    > No ke alii, no Umi a Liloa.
+    > E ola ke alii!
+    > E lanakila kee alii a make ka hoapaio!
+    > E hume ke kii i ka malo!
+    > Ua noa! a noa ka maka, maka aha o ke alii!
+    
+    > 国王的缠腰布，在海中漂白，
+    > 乌利神的缠腰布！
+    > 深蓝的海，哦希娜（Hina）！
+    > 鲜红的是希娜的缠腰布。
+    > 轻薄如飞雾的是库的缠腰布，
+    > 库，众多神庙的神。
+    > 从两腿间穿过洛诺的缠腰布！
+    > 系上！系上洛诺——斑斓者——的缠腰布！
+    > 他们肩扛着洛诺-honua 的缠腰布。
+    > 两端饰着花纹的，是鸟神 Io-uli 的缠腰布，
+    > 绣着叶纹的，是长腿的卡内的缠腰布，
+    > 系上你的缠腰布！
+    > 看哪，这是一条神圣的缠腰布，在海中漂白！
+    > 国王神圣的缠腰布是女酋长们的生命。
+    > 把它牢牢系在神庙上！
+    > 寻常的神庙，王家的神庙，
+    > 为国王的神庙，为乌米，利洛阿（Liloa）之子。
+    > 国王万岁！
+    > 愿他得胜，压倒一切敌人！
+    > 现在给神像系上缠腰布！
+    > 蒙悦纳了，这仪式，国王的仪式蒙悦纳了。
+
+[^39]: （第 86 节）*Hai ka haina*：向国王报告，一切事情，包括各种征兆，都进行得顺利，都是吉兆。
+
+[^40]: （A）（第 30 节）乌利（Uli），一位守护神（*au-makua*），施行祈死巫术的祭司（*kahuna anaana*）的主要帮手，一位女神，人们常这样称呼她：“*Uli nana pono. Uli nana hewa.*”（明察正直的乌利，明察过恶的乌利。）她也被用来做其他害人的勾当。在 *Lele Uli!* 这句话中，是在恳求这位女神快快去办她的差事。
+
+[^41]: （B）（第 30 节）这里的 *Mu* 一词，看来指的是前面提到的卡内。意思不很清楚，但在筛选了人们提出的各种推测之后，我认为最合理的是：它保留了 *mu* 的一般含义，照我的理解，就是“沉默”，以沉默表示同意。在接下来的一句 *He mu ka ai-ku*，以及其后直到第 11 句为止的各句中，*mu* 一词的用法稍有不同。我的理解是：*ai-ku*，站着吃东西的人，行事不拘礼数；*ai-a*，不信神的人、罪人；以及其他所有坏人，如今都安静下来，被震慑得肃然无声。我向精通夏威夷语的学者请教这个词的意思，发现他们要么对此毫无见解，要么没有两个人意见一致。我还发现，同一个人在不同的时候持不同的看法。还应补充一点：*mu* 也指一种轻柔的低语，像昆虫的嗡嗡声，例如下面这段摘自《来自卡希基的浪之歌》（*Ka mele o ka Nalu mai Kahiki mai*）的诗句，据说这是一首古老的歌谣，由卡拉卡瓦（Kalakaua）时代一位名叫 Manu 的老诗人改写过：
+    
+    > Mu olelo ke kai o Kuhia;
+    > Ke wa mai la la i ka laa-laau,
+    > A lohe ka huakai hele o Puuloa.
+    
+    > Kuhia 的海轻声低语，
+    > 水沫洒在灌木上，
+    > 往 Puuloa 去的旅人听见了。
+
+[^42]: （C）（第 30 节）*Elieli*：*Eli* 是挖。有人告诉我下面这个例子，是孩子们有时在一首点名歌谣里用到它：
+    
+    > Eli-eli, ku-pala-la!
+    > Nowai? nowai
+    > Ka lima i hawa-hawa?
+    > No kahupoka.
+    
+    > 挖呀挖，ku-pala-la！
+    > 是谁的？是谁的
+    > 手弄脏了？
+    > 是 kahupoka 的。
+    
+    上面这首歌谣，是配合一种游戏——更确切地说是一种恶作剧——念的，用来捉弄新手。先堆起几堆沙子，其中一堆里藏着某种污秽或令人讨厌的东西。每个玩游戏的人分到一堆沙，藏着脏东西的那堆分给新手或傻乎乎的人；一声令下，人人开挖，同时有一个人念这首歌谣。那个倒霉的人一弄脏了手，最后一句就立刻叫出他的名字。
