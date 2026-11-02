@@ -1,0 +1,88 @@
+{
+ "Wahine-omao": {
+  "zh": "瓦希内奥茂",
+  "modern": "Wahine‘ōma‘o",
+  "cat": "女神",
+  "note": "“画眉女”，又简称 Omao（奥茂）；半神，唯一陪希伊亚卡走完迎接洛希奥全程的女伴。",
+  "chapters": [
+   11,
+   12
+  ]
+ },
+ "Pele-ula": {
+  "zh": "佩蕾乌拉",
+  "modern": "Peleʻula",
+  "cat": "人物",
+  "note": "又作 Peleula；瓦胡岛 Kou（今檀香山）Nu‘uanu 谷的女先知，洛希奥的旧情人，与希伊亚卡在基卢游戏中相争。",
+  "chapters": [
+   11,
+   12
+  ]
+ },
+ "Paoa": {
+  "zh": "帕奥阿",
+  "modern": "Pāoa",
+  "cat": "人物",
+  "note": "全名 Kaleiopaoa（Ka-lei-o-Paoa）；洛希奥的挚友，赴基拉韦厄向佩蕾复仇反成其情人；又是佩蕾掘土杖之名。",
+  "chapters": [
+   11,
+   12
+  ]
+ },
+ "Kaohelo": {
+  "zh": "卡奥赫洛",
+  "modern": "Ka‘ōhelo",
+  "cat": "女神",
+  "note": "又作 Ka-ohelo；佩蕾的姐妹，死后身体化为 ‘ōhelo 浆果，成为佩蕾的神之一。",
+  "chapters": [
+   12
+  ]
+ },
+ "Pu‘u-hele": {
+  "zh": "普乌赫莱",
+  "modern": "Pu‘uhele",
+  "cat": "女神",
+  "note": "“行走的山丘”；佩蕾之母所生的血胎，被弃后渡海到毛伊岛，化为哈纳的考伊基山。",
+  "chapters": [
+   12
+  ]
+ },
+ "Mokuaweoweo": {
+  "zh": "莫库阿韦奥韦奥",
+  "modern": "Moku‘āweoweo",
+  "cat": "地名",
+  "note": "又作 Moku-a-weoweo，“燃烧之地”；冒纳罗亚山顶的破火山口，佩蕾最初落脚之处。",
+  "chapters": [
+   11
+  ]
+ },
+ "Haena": {
+  "zh": "哈埃纳",
+  "modern": "Hā‘ena",
+  "cat": "地名",
+  "note": "考艾岛北岸纳帕利海岸东端的地区，洛希奥的家乡；Kē‘ē 有草裙舞圣地 Ka-ulu-o-Laka。",
+  "chapters": [
+   11,
+   12
+  ]
+ },
+ "Kalamainu‘u": {
+  "zh": "卡拉迈努乌",
+  "modern": "Kalamainu‘u",
+  "cat": "女神",
+  "note": "瓦胡岛的蜥蜴（mo‘o）女神，诱走考艾岛酋长 Puna-ai-koae 为夫；与豪梅亚（Walinu‘u）争夺情人；捕 hīnālea 鱼者的守护神。",
+  "chapters": [
+   13
+  ]
+ },
+ "Lahainaluna": {
+  "zh": "拉海纳卢纳",
+  "modern": "Lahainaluna",
+  "cat": "地名",
+  "note": "毛伊岛拉海纳镇后的山坡；1831 年在此创办的拉海纳卢纳学校培养了马洛、卡马考等本土学者。",
+  "chapters": [
+   12,
+   13
+  ]
+ }
+}

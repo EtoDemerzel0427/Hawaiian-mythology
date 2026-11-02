@@ -1,0 +1,14 @@
+{
+ "Kaulu": {"zh": "考卢", "modern": "Kaulu", "cat": "半神与英雄", "note": "又作 Ka-ulu（“面包果”），“卡拉纳之子”；双手即其神力的恶作剧半神，劫掠卡内与卡纳洛亚的天上园圃，杀鲨王、豪梅亚与洛诺卡埃霍。", "chapters": [30, 31]},
+ "Kaululaau": {"zh": "考卢拉奥", "modern": "Kaulula‘au", "cat": "半神与英雄", "note": "又作 Ka-ulu-laau（“树丛”），毛伊岛酋长卡卡阿拉内奥之子，被流放拉奈岛，用计灭尽岛上的食人鬼。", "chapters": [30]},
+ "Pupuhuluena": {"zh": "普普胡卢埃纳", "modern": "Pupuhuluena", "cat": "半神与英雄", "note": "又作 Pupu-huluena（“红羽一簇”）、Pupuhuluana、Kupua-huluena、Puluena；用计从精灵手中取得作物、带回夏威夷的祭司或半神。", "chapters": [30]},
+ "Kaeha": {"zh": "卡埃哈", "modern": "Ka‘eha", "cat": "半神与英雄", "note": "又作 Kaholeha；考卢的兄长，被掳到天上，考卢为寻他而远航众神之地。", "chapters": [30]},
+ "Iwa": {"zh": "伊瓦", "modern": "‘Iwa", "cat": "半神与英雄", "note": "瓦胡岛的神偷，“还在娘胎里就会偷”；名字即军舰鸟（‘iwa），引申为窃贼。", "chapters": [30]},
+ "Waha-nui": {"zh": "瓦哈努伊", "modern": "Wahanui", "cat": "酋长", "note": "“大嘴”；瓦胡岛早期酋长，传说压迫梅内胡内人，又发愿远航卡希基“践踏卡内与卡纳洛亚的胸膛”。", "chapters": [23, 31]},
+ "Kane-apua": {"zh": "卡内阿普阿", "modern": "Kāneapua", "cat": "神", "note": "又作 Kane-(lau)-apua、Apua；卡内与卡纳洛亚的弟弟，拉奈岛的鱼神，好恶作剧，佩蕾的兄弟之一。", "chapters": [6, 11, 23, 30, 31]},
+ "Keawe-nui-a-Umi": {"zh": "凯阿韦努伊阿乌米", "modern": "Keawenuia‘umi", "cat": "酋长", "note": "乌米之子，夏威夷岛执政酋长；Paka‘a 与 Kua-paka‘a 故事中的君主，许多传说被纳入他的宫廷故事圈。", "chapters": [30, 31, 32]},
+ "Keoloewa": {"zh": "凯奥洛埃瓦", "modern": "Keōloewa", "cat": "酋长", "note": "Kamauaua 之子，莫洛凯岛执政酋长；有的卡纳传说以他为掳走希娜的人；又是毛伊岛精灵之首的名字。", "chapters": [30, 33]},
+ "Hakalanileo": {"zh": "哈卡拉尼莱奥", "modern": "Hakalanileo", "cat": "人物", "note": "卡纳传说中希娜之夫、卡纳与尼赫乌之父；Rice 本中则是母亲的名字 Haka-lani-leo（“倾听天上之声”）。", "chapters": [33]},
+ "Kapepe‘e-kauila": {"zh": "卡佩佩埃考伊拉", "modern": "Kapepe‘ekauila", "cat": "酋长", "note": "“锯齿状的闪电”；莫洛凯岛豪普山的酋长，乘着会游动的山把希娜掳走。", "chapters": [33]},
+ "Haupu": {"zh": "豪普", "modern": "Hā‘upu", "cat": "地名", "note": "莫洛凯岛北岸佩莱库努谷与哈拉瓦谷之间的陡峭岬角；卡纳传说中会游动、会伸长的山。考艾岛南部也有同名山岭。", "chapters": [33]}
+}

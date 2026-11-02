@@ -1,0 +1,27 @@
+{
+ "kauwa": {
+  "term": "kauwa",
+  "modern": "kauwā",
+  "zh": "贱民（奴隶）",
+  "def": "世袭的贱民阶层，与其他阶层严格隔离，不得通婚，常被选作人祭的牺牲；Beckwith 译作 slaves。",
+  "see": [
+   "g:alii",
+   "essays/kapu-system"
+  ]
+ },
+ "kuula": {
+  "term": "kuula",
+  "modern": "kū‘ula",
+  "zh": "渔祠",
+  "def": "渔神库乌拉；也指渔人在海边设立的石祭坛或小神庙，头一批渔获放在上面献给渔神。",
+  "see": [
+   "g:aumakua"
+  ]
+ },
+ "elepaio": {
+  "term": "elepaio",
+  "modern": "‘elepaio",
+  "zh": "夏威夷鹟",
+  "def": "夏威夷特有的小型森林鸟；造舟匠视之为造舟女神 Lea 的化身，它在树上啄个不停，说明树干虫蛀或空心，不宜造舟。"
+ }
+}

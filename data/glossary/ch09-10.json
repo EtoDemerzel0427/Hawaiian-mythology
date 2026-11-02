@@ -1,0 +1,5 @@
+{
+  "kino": {"term": "kino", "modern": "kino", "zh": "身体", "def": "人的肉身。夏威夷人把身体与灵魂（‘uhane）分开看待：灵魂离体，身体就僵死；死亡就是二者的分离。", "see": ["g:uhane", "g:kino-lau"]},
+  "huakai-po": {"term": "huaka‘i po", "modern": "huaka‘i pō", "zh": "夜行者", "def": "在神圣的夜晚列队巡行的神灵与亡故酋长的鬼魂队伍，伴以火把、鼓声与吟诵；遇上它而无亲人或守护神相护的人会被刺死。", "see": ["g:aumakua"]},
+  "hihio": {"term": "hihi‘o", "modern": "hihi‘o", "zh": "幻影、异象", "def": "人在梦中或半睡半醒时所见的异象，也指以幻影出现的灵。", "see": ["g:uhane"]}
+}

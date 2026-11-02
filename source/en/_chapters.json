@@ -1,0 +1,412 @@
+[
+ {
+  "first": null,
+  "last": null,
+  "paras": 12,
+  "notes": 0,
+  "marks": 0,
+  "chapter": 0,
+  "title": "Preface",
+  "part": 0
+ },
+ {
+  "first": 2,
+  "last": 11,
+  "paras": 20,
+  "notes": 0,
+  "marks": 0,
+  "chapter": 1,
+  "title": "Coming of the Gods",
+  "part": 1
+ },
+ {
+  "first": 13,
+  "last": 30,
+  "paras": 75,
+  "notes": 29,
+  "marks": 22,
+  "chapter": 2,
+  "title": "Ku Gods",
+  "part": 1
+ },
+ {
+  "first": 32,
+  "last": 41,
+  "paras": 45,
+  "notes": 19,
+  "marks": 13,
+  "chapter": 3,
+  "title": "The God Lono",
+  "part": 1
+ },
+ {
+  "first": 43,
+  "last": 59,
+  "paras": 239,
+  "notes": 25,
+  "marks": 16,
+  "chapter": 4,
+  "title": "The Kane Worship",
+  "part": 1
+ },
+ {
+  "first": 61,
+  "last": 66,
+  "paras": 33,
+  "notes": 15,
+  "marks": 15,
+  "chapter": 5,
+  "title": "Kane and Kanaloa",
+  "part": 1
+ },
+ {
+  "first": 68,
+  "last": 80,
+  "paras": 55,
+  "notes": 57,
+  "marks": 40,
+  "chapter": 6,
+  "title": "Mythical Lands of the Gods",
+  "part": 1
+ },
+ {
+  "first": 82,
+  "last": 104,
+  "paras": 88,
+  "notes": 80,
+  "marks": 46,
+  "chapter": 7,
+  "title": "Lesser Gods",
+  "part": 1
+ },
+ {
+  "first": 106,
+  "last": 121,
+  "paras": 49,
+  "notes": 32,
+  "marks": 19,
+  "chapter": 8,
+  "title": "Sorcery Gods",
+  "part": 1
+ },
+ {
+  "first": 123,
+  "last": 143,
+  "paras": 78,
+  "notes": 56,
+  "marks": 34,
+  "chapter": 9,
+  "title": "Guardian Gods",
+  "part": 1
+ },
+ {
+  "first": 145,
+  "last": 165,
+  "paras": 81,
+  "notes": 57,
+  "marks": 37,
+  "chapter": 10,
+  "title": "The Soul after Death",
+  "part": 1
+ },
+ {
+  "first": 168,
+  "last": 179,
+  "paras": 85,
+  "notes": 19,
+  "marks": 11,
+  "chapter": 11,
+  "title": "The Pele Myth",
+  "part": 2
+ },
+ {
+  "first": 181,
+  "last": 189,
+  "paras": 41,
+  "notes": 19,
+  "marks": 14,
+  "chapter": 12,
+  "title": "The Pele Sisters",
+  "part": 2
+ },
+ {
+  "first": 192,
+  "last": 200,
+  "paras": 49,
+  "notes": 29,
+  "marks": 21,
+  "chapter": 13,
+  "title": "Pele Legends",
+  "part": 2
+ },
+ {
+  "first": 202,
+  "last": 213,
+  "paras": 48,
+  "notes": 36,
+  "marks": 26,
+  "chapter": 14,
+  "title": "Kamapua‘a",
+  "part": 2
+ },
+ {
+  "first": 215,
+  "last": 225,
+  "paras": 50,
+  "notes": 19,
+  "marks": 12,
+  "chapter": 15,
+  "title": "Hina Myths",
+  "part": 2
+ },
+ {
+  "first": 227,
+  "last": 237,
+  "paras": 53,
+  "notes": 19,
+  "marks": 9,
+  "chapter": 16,
+  "title": "Maui the Trickster",
+  "part": 2
+ },
+ {
+  "first": 239,
+  "last": 258,
+  "paras": 133,
+  "notes": 46,
+  "marks": 39,
+  "chapter": 17,
+  "title": "Aikanaka-Kaha‘i Cycle",
+  "part": 2
+ },
+ {
+  "first": 260,
+  "last": 275,
+  "paras": 63,
+  "notes": 51,
+  "marks": 31,
+  "chapter": 18,
+  "title": "Wahieloa-Laka Cycle",
+  "part": 2
+ },
+ {
+  "first": 277,
+  "last": 291,
+  "paras": 80,
+  "notes": 21,
+  "marks": 12,
+  "chapter": 19,
+  "title": "Haumea",
+  "part": 2
+ },
+ {
+  "first": 294,
+  "last": 306,
+  "paras": 57,
+  "notes": 25,
+  "marks": 19,
+  "chapter": 20,
+  "title": "Papa and Wakea",
+  "part": 3
+ },
+ {
+  "first": 308,
+  "last": 313,
+  "paras": 27,
+  "notes": 8,
+  "marks": 6,
+  "chapter": 21,
+  "title": "Genealogies",
+  "part": 3
+ },
+ {
+  "first": 315,
+  "last": 320,
+  "paras": 27,
+  "notes": 19,
+  "marks": 15,
+  "chapter": 22,
+  "title": "Era of Overturning",
+  "part": 3
+ },
+ {
+  "first": 322,
+  "last": 336,
+  "paras": 63,
+  "notes": 37,
+  "marks": 32,
+  "chapter": 23,
+  "title": "Mu and Menehune People",
+  "part": 3
+ },
+ {
+  "first": 338,
+  "last": 351,
+  "paras": 64,
+  "notes": 49,
+  "marks": 35,
+  "chapter": 24,
+  "title": "Runners, Man-Eaters, Dog-Men",
+  "part": 3
+ },
+ {
+  "first": 353,
+  "last": 362,
+  "paras": 38,
+  "notes": 17,
+  "marks": 10,
+  "chapter": 25,
+  "title": "The Moikeha-La‘a Migration",
+  "part": 3
+ },
+ {
+  "first": 364,
+  "last": 375,
+  "paras": 47,
+  "notes": 33,
+  "marks": 18,
+  "chapter": 26,
+  "title": "Hawaiiloa and Paao Migrations",
+  "part": 3
+ },
+ {
+  "first": 377,
+  "last": 386,
+  "paras": 39,
+  "notes": 8,
+  "marks": 8,
+  "chapter": 27,
+  "title": "Ruling Chiefs",
+  "part": 3
+ },
+ {
+  "first": 388,
+  "last": 402,
+  "paras": 51,
+  "notes": 13,
+  "marks": 8,
+  "chapter": 28,
+  "title": "Usurping Chiefs",
+  "part": 3
+ },
+ {
+  "first": 404,
+  "last": 429,
+  "paras": 90,
+  "notes": 39,
+  "marks": 32,
+  "chapter": 29,
+  "title": "Kupua Stories",
+  "part": 4
+ },
+ {
+  "first": 431,
+  "last": 447,
+  "paras": 82,
+  "notes": 37,
+  "marks": 26,
+  "chapter": 30,
+  "title": "Trickster Stories",
+  "part": 4
+ },
+ {
+  "first": 449,
+  "last": 454,
+  "paras": 27,
+  "notes": 18,
+  "marks": 15,
+  "chapter": 31,
+  "title": "Voyage to the Land of the Gods",
+  "part": 4
+ },
+ {
+  "first": 456,
+  "last": 463,
+  "paras": 46,
+  "notes": 16,
+  "marks": 10,
+  "chapter": 32,
+  "title": "Riddling Contests",
+  "part": 4
+ },
+ {
+  "first": 465,
+  "last": 477,
+  "paras": 41,
+  "notes": 31,
+  "marks": 16,
+  "chapter": 33,
+  "title": "The Kana Legend",
+  "part": 4
+ },
+ {
+  "first": 479,
+  "last": 488,
+  "paras": 33,
+  "notes": 35,
+  "marks": 29,
+  "chapter": 34,
+  "title": "The Stretching-Tree Kupua",
+  "part": 4
+ },
+ {
+  "first": 490,
+  "last": 497,
+  "paras": 32,
+  "notes": 7,
+  "marks": 6,
+  "chapter": 35,
+  "title": "Romance of the Swimmer",
+  "part": 4
+ },
+ {
+  "first": 499,
+  "last": 505,
+  "paras": 37,
+  "notes": 19,
+  "marks": 11,
+  "chapter": 36,
+  "title": "Romance of the Island of Virgins",
+  "part": 4
+ },
+ {
+  "first": 507,
+  "last": 518,
+  "paras": 42,
+  "notes": 17,
+  "marks": 14,
+  "chapter": 37,
+  "title": "Romances of Match-Making",
+  "part": 4
+ },
+ {
+  "first": 520,
+  "last": 525,
+  "paras": 19,
+  "notes": 5,
+  "marks": 4,
+  "chapter": 38,
+  "title": "Romances of the Dance",
+  "part": 4
+ },
+ {
+  "first": 527,
+  "last": 544,
+  "paras": 75,
+  "notes": 12,
+  "marks": 17,
+  "chapter": 39,
+  "title": "Wooing Romances",
+  "part": 4
+ },
+ {
+  "first": 548,
+  "last": 555,
+  "paras": 305,
+  "notes": 0,
+  "marks": 0,
+  "chapter": 40,
+  "title": "References",
+  "part": 0
+ }
+]

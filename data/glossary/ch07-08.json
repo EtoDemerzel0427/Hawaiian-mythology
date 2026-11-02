@@ -1,0 +1,7 @@
+{
+ "imu": {"term": "imu", "modern": "imu", "zh": "地灶", "def": "在地上挖坑、以烧热的石头焖熟食物的土灶；猪、芋头、甘薯、面包果都用它烹制。", "see": ["g:poi"]},
+ "kii": {"term": "ki‘i", "modern": "ki‘i", "zh": "神像（人像）", "def": "木、石或羽毛制成的人形像，可供神灵附着；也指图像。与传说中的第一个人基伊（Ki‘i）、塔希提的 Ti‘i、毛利的 Tiki 同源。", "see": ["g:akua"]},
+ "hoounauna": {"term": "hoounauna", "modern": "ho‘ounauna", "zh": "遣灵巫术", "def": "“差遣”：巫师差遣附身之灵或取物者（fetcher）去给仇人送去疾病、灾祸。施此术者称 kahuna ho‘ounauna。", "see": ["g:anaana", "g:kuni"]},
+ "kuni": {"term": "kuni", "modern": "kuni", "zh": "烧灼占卜（反巫术）", "def": "“烧、烙”：焚烧死者身上的“饵”（maunu）以查出祈死的巫师并使之偿命的仪式；施此术者称 kahuna kuni。", "see": ["g:anaana", "g:maunu"]},
+ "lapaau": {"term": "lapaau", "modern": "lapa‘au", "zh": "医治（草药医术）", "def": "治疗、医术；草药医师称 kahuna lapa‘au（lā‘au），以药草配合祈祷治病，传说以洛诺普哈为祖师。", "see": ["g:kahuna"]}
+}

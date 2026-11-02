@@ -1,0 +1,50 @@
+{
+ "maile": {
+  "term": "maile",
+  "modern": "maile",
+  "zh": "迈莱藤",
+  "def": "一种芳香的攀缘藤本（Alyxia），编作花环，献于草裙舞神坛，与拉卡关系密切；传奇中有以它命名的“迈莱四姊妹”。"
+ },
+ "ieie": {
+  "term": "ieie",
+  "modern": "‘ie‘ie",
+  "zh": "攀缘露兜",
+  "def": "攀缘露兜（Freycinetia arborea），缠绕林木生长，红色花苞，为森林与草裙舞诸神所喜，常与拉卡相关。"
+ },
+ "hala": {
+  "term": "hala",
+  "modern": "hala",
+  "zh": "露兜树",
+  "def": "露兜树（Pandanus），叶可编席，果实与雄花芬芳，可串成花环。"
+ },
+ "eepa": {
+  "term": "eepa",
+  "modern": "‘e‘epa",
+  "zh": "埃埃帕",
+  "def": "具有超自然能力、身形或出生异常的人或神灵，常以小矮人、仆从的面目出现。"
+ },
+ "hookupu": {
+  "term": "hookupu",
+  "modern": "ho‘okupu",
+  "zh": "献礼",
+  "def": "向酋长或神献上礼物与贡品的仪式，婚礼、加冕等庆典时举行。"
+ },
+ "hoao": {
+  "term": "hoao",
+  "modern": "ho‘āo",
+  "zh": "正式婚礼",
+  "def": "酋长之间公开、正式的婚配仪式。"
+ },
+ "ohe": {
+  "term": "ohe",
+  "modern": "‘ohe hano ihu",
+  "zh": "鼻笛",
+  "def": "用竹管制成、以鼻孔吹奏的笛子，传奇中常用于求爱。"
+ },
+ "kaula": {
+  "term": "kaula",
+  "modern": "kāula",
+  "zh": "先知",
+  "def": "能预言、解读征兆的人，不同于主持仪式的祭司（kahuna）。"
+ }
+}

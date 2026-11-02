@@ -1,0 +1,11 @@
+{
+  "haole": {"term": "haole", "modern": "haole", "zh": "外来者", "def": "外地人、外国人；今天多指白人。古义只是“外来的”，卡马普阿阿在颂歌中被称为 ka haole nui“高大的外来者”。"},
+  "ehu": {"term": "ehu", "modern": "‘ehu", "zh": "红褐发色", "def": "头发呈红褐或棕色、肤色较浅的夏威夷人；民间认为这种人与佩蕾家族有关。"},
+  "alae": {"term": "alae", "modern": "‘alae", "zh": "黑水鸡", "def": "夏威夷黑水鸡（‘alae ‘ula，Gallinula galeata sandvicensis），额上有红斑；传说中掌握取火秘密的鸟，毛伊从它那里学会了钻木取火。"},
+  "ulua": {"term": "ulua", "modern": "ulua", "zh": "鲹鱼", "def": "大型鲹科鱼类（如珍鲹），渔人最看重的猎物；在仪式中可代替人牲。"},
+  "wauke": {"term": "wauke", "modern": "wauke", "zh": "构树", "def": "构树（Broussonetia papyrifera），波利尼西亚人带来的植物，其内皮是捶制树皮布的主要原料。", "see": ["g:kapa"]},
+  "konane": {"term": "konane", "modern": "kōnane", "zh": "科纳内棋", "def": "夏威夷的跳子棋，在刻有凹点的石板上以黑白石子对弈，跳吃对方棋子，无子可走者负。"},
+  "marae": {"term": "marae", "modern": "marae", "zh": "马拉埃（礼拜场）", "def": "塔希提等南方群岛的露天石砌祭坛与聚会场，相当于夏威夷的 heiau；毛利语中指部落的会场。", "see": ["g:heiau"]},
+  "malo": {"term": "malo", "modern": "malo", "zh": "缠腰布", "def": "男子围在腰胯间的树皮布带。在神话中男子的 malo 常带有他的灵力，女子穿上它可以受孕。"},
+  "kahu": {"term": "kahu", "modern": "kahu", "zh": "照管者", "def": "受托照看他人、神像或圣物的人：保姆、监护人、侍从、神像的守护祭司。"}
+}

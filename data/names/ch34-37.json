@@ -1,0 +1,12 @@
+{
+  "Aukelenuiaiku": {"zh": "奥凯莱努伊艾库", "modern": "‘Aukelenuiaīkū", "cat": "半神与英雄", "note": "“伊库的远游之子”，又简称 Aukele（奥凯莱）；游过大海、娶得娜玛卡奥卡哈伊的浪漫传奇主人公。", "chapters": [35, 36, 37]},
+  "Aukele": {"zh": "奥凯莱", "modern": "‘Aukele", "cat": "半神与英雄", "note": "奥凯莱努伊艾库（Aukelenuiaiku）的简称，意为“善泳者”。", "chapters": [35, 36]},
+  "Ku-waha-ilo": {"zh": "库瓦哈伊洛", "modern": "Kūwahailo", "cat": "神", "note": "“蛆虫之口的库”，天上的食人神，佩蕾家族与多部浪漫传奇中女主人公的父亲或祖父；又写作 Kuwahailo。", "chapters": [35, 36, 37]},
+  "Hainakolo": {"zh": "海纳科洛", "modern": "Hainakolo", "cat": "人物", "note": "怀皮奥谷的公主，嫁给远方库艾赫拉尼的凯奥尼尼，被弃后发疯游荡于山林。", "chapters": [34, 37]},
+  "Keaunini": {"zh": "凯奥尼尼", "modern": "Keaunini", "cat": "人物", "note": "又作 Keanini；库艾赫拉尼的年轻酋长，海纳科洛的丈夫，莱马卡尼之父。", "chapters": [34, 37]},
+  "Leimakani": {"zh": "莱马卡尼", "modern": "Leimakani", "cat": "人物", "note": "“风之花环”，海纳科洛与凯奥尼尼之子，夏威夷一些家族奉为祖先。", "chapters": [37]},
+  "Lu‘ukia": {"zh": "卢乌基亚", "modern": "Lu‘ukia", "cat": "人物", "note": "多部浪漫传奇中的高贵女酋长，常与奥洛帕纳相连。", "chapters": [37]},
+  "Olopana": {"zh": "奥洛帕纳", "modern": "‘Olopana", "cat": "酋长", "note": "传说中统治怀皮奥谷（一说瓦胡岛、卡希基）的酋长，莫伊凯哈之兄；也是卡马普阿阿故事中的对头。", "chapters": [14, 25, 37]},
+  "Kaanaelike": {"zh": "卡阿纳埃利凯", "modern": "Ka‘ana‘elike", "cat": "女神", "note": "“力求相似”，浮岛 Uluka‘a 上的处女女神，库瓦哈伊洛的孙女；又作 Anaelike、Analike。", "chapters": [34, 36]},
+  "Kuaihelani": {"zh": "库艾赫拉尼", "modern": "Kuaihelani", "cat": "地名", "note": "传说中漂浮于天边的神之国度，浪漫传奇中远方酋长的故乡。", "chapters": [6, 35, 37]}
+}

@@ -1,0 +1,19 @@
+{
+  "Pi‘ilani": {"zh": "皮伊拉尼", "modern": "Pi‘ilani", "cat": "酋长", "note": "毛伊岛的执政酋长，乌米同时代人；其子基哈皮伊拉尼、其女皮伊凯阿。", "chapters": [27, 28]},
+  "Kihapi‘ilani": {"zh": "基哈皮伊拉尼", "modern": "Kīhāpi‘ilani", "cat": "酋长", "note": "又作 Kiha-pi‘ilani。皮伊拉尼的幼子，借乌米之力夺取兄长的毛伊岛统治权；传说修筑环岛石路。", "chapters": [28]},
+  "Pi‘ikea": {"zh": "皮伊凯阿", "modern": "Pi‘ikea", "cat": "酋长", "note": "皮伊拉尼之女，嫁夏威夷岛的乌米。", "chapters": [28]},
+  "Hakau": {"zh": "哈考", "modern": "Hākau", "cat": "酋长", "note": "利洛阿的嫡长子与合法继承人，因暴虐被异母弟乌米推翻。", "chapters": [28]},
+  "Kama-lala-walu": {"zh": "卡马拉拉瓦卢", "modern": "Kamalālāwalu", "cat": "酋长", "note": "基哈皮伊拉尼之子，毛伊岛的执政酋长；毛伊岛因他得名 Maui-a-Kama。进攻夏威夷岛时战败身死。", "chapters": [28, 29]},
+  "Kuali‘i": {"zh": "库阿利伊", "modern": "Kuali‘i", "cat": "酋长", "note": "瓦胡岛的传奇酋长，据说征服了全群岛；有一首长达六百余行的名号颂歌。", "chapters": [21, 28]},
+  "Kakuhihewa": {"zh": "卡库希赫瓦", "modern": "Kākuhihewa", "cat": "酋长", "note": "瓦胡岛的执政酋长，以宫廷繁盛著称，在许多半神故事和斗智故事中出场。", "chapters": [28, 29]},
+  "Kukui-pahu": {"zh": "库奎帕胡", "modern": "Kukuipahu", "cat": "酋长", "note": "夏威夷岛科哈拉的执政酋长，半神故事中常见的人物。", "chapters": [29]},
+  "Palila": {"zh": "帕利拉", "modern": "Palila", "cat": "半神与英雄", "note": "考艾岛的半神勇士，生作一根绳状，由祖母希娜救起；持神棍飞越诸岛。", "chapters": [29]},
+  "Ka-lele-a-luaka": {"zh": "卡莱莱阿卢阿卡", "modern": "Kalelealuaka", "cat": "半神与英雄", "note": "又作 Kalelealuaka、Kalele。“沉睡者”Opele 之子，替卡库希赫瓦乔装作战的半神勇士。", "chapters": [29]},
+  "Kapunohu": {"zh": "卡普诺胡", "modern": "Kapunohu", "cat": "半神与英雄", "note": "科哈拉的半神勇士，以鬼神 Kani-ka‘a 为神，善掷神矛 Kani-ka-wi。", "chapters": [29, 32]},
+  "Nihooleki": {"zh": "尼霍奥莱基", "modern": "Niho‘oleki", "cat": "半神与英雄", "note": "死后复生的大渔夫，卡马普阿阿的朋友。", "chapters": [29]},
+  "Kalae-puni": {"zh": "卡莱普尼", "modern": "Kalaepuni", "cat": "半神与英雄", "note": "科纳的大力士，赶走凯阿韦努伊阿乌米，终被老妇用石头砸死。", "chapters": [29]},
+  "Kalae-hina": {"zh": "卡莱希纳", "modern": "Kalaehina", "cat": "半神与英雄", "note": "又作 Kalaikini、Kaleikini、Au-kini。卡莱普尼之弟，各岛流传其恶作剧与怪力的遗迹。", "chapters": [29]},
+  "Kepakailiula": {"zh": "凯帕卡伊利乌拉", "modern": "Kepaka‘ili‘ula", "cat": "半神与英雄", "note": "“生而红肤”的半神，在帕利乌利长大，追妻征战诸岛。", "chapters": [29]},
+  "Pikoi-a-ka-alala": {"zh": "皮科伊阿卡阿拉拉", "modern": "Pīkoiaka‘alalā", "cat": "半神与英雄", "note": "简称 Pikoi，“乌鸦之子皮科伊”。鼠族半神，射鼠神手，也善斗智。", "chapters": [29]},
+  "Lepe-a-moa": {"zh": "莱佩阿莫阿", "modern": "Lepeamoa", "cat": "半神与英雄", "note": "“鸡冠”，帕拉马的鸡女，能化为禽鸟或美女，在斗鸡中为兄长取胜。", "chapters": [29]}
+}

@@ -1,0 +1,21 @@
+{
+  "Hikapoloa": {
+    "zh": "希卡波洛阿",
+    "modern": "Hikapoloa",
+    "cat": "酋长",
+    "note": "传说中夏威夷岛科哈拉的古代统治者；也是库、卡内、洛诺合称时的尊号。",
+    "chapters": [
+      25,
+      26
+    ]
+  },
+  "Kakaalaneo": {
+    "zh": "卡卡阿拉内奥",
+    "modern": "Kaka‘alaneo",
+    "cat": "酋长",
+    "note": "毛伊岛西部（拉海纳）的统治酋长，顽童 Kaululaau 之父；相传其时有异乡人漂流而至。",
+    "chapters": [
+      27
+    ]
+  }
+}

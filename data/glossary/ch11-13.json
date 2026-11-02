@@ -1,0 +1,6 @@
+{
+  "holua": {"term": "holua", "modern": "hōlua", "zh": "滑橇（滑道）", "def": "酋长的竞技运动：俯卧在窄长的木制滑橇上，从山坡上铺有干草的石砌滑道急速冲下；也指这种滑道本身。佩蕾传说中常有凡人敢与女神赛橇而遭焚身。", "see": []},
+  "ohelo": {"term": "ohelo", "modern": "‘ōhelo", "zh": "欧赫洛浆果", "def": "越橘属小灌木（Vaccinium reticulatum），生于火山高地，果实红黄色，是佩蕾的圣物；在火山采摘时须先抛一些入火口献给佩蕾，然后才能自己吃。", "see": []},
+  "akua-noho": {"term": "akua noho", "modern": "akua noho", "zh": "附体之神", "def": "降附在灵媒（haka）身上、借其口发号施令或预言的神灵，多为巫术神，如卡波、Pua。", "see": ["g:akua"]},
+  "kumupaa": {"term": "kumupa‘a", "modern": "kumupa‘a", "zh": "本源祖神", "def": "“坚实之根”：佩蕾家族中可以接引直系后裔进入家族、被后裔奉为守护神的祖先神，如豪梅亚、卡莫霍阿利伊、希伊亚卡。", "see": ["g:aumakua"]}
+}

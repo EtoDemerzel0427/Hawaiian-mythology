@@ -1,0 +1,61 @@
+{
+ "Kaikilani": {
+  "zh": "凯基拉尼",
+  "modern": "Kaikilani",
+  "cat": "人物",
+  "note": "洛诺神之妻（Ka-iki-lani-ali‘i-o-Puna），为洛诺所杀，洛诺因此创立 Makahiki 竞技；又是酋长洛诺伊卡马卡希基之妻，两个故事相混。",
+  "chapters": [
+   1,
+   3
+  ]
+ },
+ "Ku-nui-akea": {
+  "zh": "库努伊阿凯阿",
+  "modern": "Kūnuiākea",
+  "cat": "神",
+  "note": "“广大无边的库”，库在国家神庙（luakini）中受祭的至高形态。",
+  "chapters": [
+   2
+  ]
+ },
+ "Ku-ka-ohia-laka": {
+  "zh": "库卡欧希亚拉卡",
+  "modern": "Kūka‘ōhi‘alaka",
+  "cat": "神",
+  "note": "“欧希亚树的库”，造舟匠与草裙舞所奉的林神，即男性的拉卡；化身为 lehua 树。",
+  "chapters": [
+   2,
+   3
+  ]
+ },
+ "Hina-ulu-ohia": {
+  "zh": "希娜乌卢欧希亚",
+  "modern": "Hinaulu‘ōhi‘a",
+  "cat": "女神",
+  "note": "欧希亚林的女神；在谱系中是卡哈伊之妻、瓦希埃洛阿之母、造舟英雄拉卡的祖母。",
+  "chapters": [
+   2,
+   17,
+   18
+  ]
+ },
+ "Ku-mauna": {
+  "zh": "库毛纳",
+  "modern": "Kūmauna",
+  "cat": "神",
+  "note": "“山的库”，被佩蕾化为熔岩巨石的林神，夏威夷岛卡乌区 Hi‘ilea 谷中受祭的雨神。",
+  "chapters": [
+   2
+  ]
+ },
+ "Ka-hoali‘i": {
+  "zh": "卡霍阿利伊",
+  "modern": "Kahoali‘i",
+  "cat": "神",
+  "note": "与人祭和吃眼睛的仪式相连的神，在国家神庙和 Makahiki 节仪式中由赤身男子扮演。",
+  "chapters": [
+   2,
+   3
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Kane-huna-moku": {
+  "zh": "卡内胡纳莫库",
+  "modern": "Kānehunamoku",
+  "cat": "地名",
+  "note": "“卡内的隐秘之岛”：卡内与卡纳洛亚所居、漂浮于海天之间的乐土；在一则神话中又是二神之子的名字，并作为家族守护神受崇拜。",
+  "chapters": [
+   4,
+   6
+  ]
+ },
+ "Kalana-i-hauola": {
+  "zh": "卡拉纳伊豪奥拉",
+  "modern": "Kalana-i-hauola",
+  "cat": "地名",
+  "note": "库穆霍努阿传说中诸神安置第一对男女的乐园，有生命之水；毛利传说中的 Taranga-i-hau-ola 与之同源。",
+  "chapters": [
+   4,
+   6
+  ]
+ },
+ "Nu‘umealani": {
+  "zh": "努乌梅阿拉尼",
+  "modern": "Nu‘umealani",
+  "cat": "地名",
+  "note": "位于库艾赫拉尼之上的云中神圣之地，豪梅亚、帕帕等女神退居之处；又被视为云的守护神。",
+  "chapters": [
+   6,
+   19
+  ]
+ },
+ "Kane-hekili": {
+  "zh": "卡内赫基利",
+  "modern": "Kāne-hekili",
+  "cat": "神",
+  "note": "“雷中的卡内”，以雷为神圣形态的家族守护神；其律法是雷雨时保持静默。",
+  "chapters": [
+   4
+  ]
+ },
+ "Kahekili": {
+  "zh": "卡赫基利",
+  "modern": "Kahekili",
+  "cat": "酋长",
+  "note": "毛伊岛最后一位独立的统治酋长（约 1737–1794），名字意为“雷”，半身文身以示属于雷神家族。",
+  "chapters": [
+   4
+  ]
+ }
+}

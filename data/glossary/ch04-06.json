@@ -1,0 +1,27 @@
+{
+ "amama": {
+  "term": "amama",
+  "modern": "‘āmama",
+  "zh": "祷词结束语",
+  "def": "祷词的结束语，宣告祷词已毕、禁忌解除，常与 ua noa（已解禁）连用；是基督教传入前固有的词，与 amen 无关。",
+  "see": [
+   "g:pule",
+   "g:noa"
+  ]
+ },
+ "pohaku-o-kane": {
+  "term": "pohaku o Kane",
+  "modern": "pōhaku o Kāne",
+  "zh": "卡内石",
+  "def": "家族供奉卡内与祖先守护神的祭坛：一块单独竖立的锥形石，四周种植朱蕉，一家人在此祈祷、献祭、求赦违犯禁忌之罪。",
+  "see": [
+   "g:aumakua"
+  ]
+ },
+ "wai-ola": {
+  "term": "wai ola",
+  "modern": "wai ola",
+  "zh": "生命之水",
+  "def": "卡内的“生命之水”（wai ola a Kāne），能使死者复活、老者返少的神泉，传说位于诸神的隐秘乐土或东方日出之处。"
+ }
+}

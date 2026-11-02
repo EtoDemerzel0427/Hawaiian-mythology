@@ -1,0 +1,10 @@
+{
+  "La‘ila‘i": {"zh": "拉伊拉伊", "modern": "La‘ila‘i", "cat": "女神", "note": "“安宁”；《库穆利波》第八时代天光初开时出生的第一个女人，人类的始祖母，常与豪梅亚相混同。", "chapters": [19, 20, 21]},
+  "Ki‘i": {"zh": "基伊", "modern": "Ki‘i", "cat": "人物", "note": "“形像”；《库穆利波》中与拉伊拉伊同时出生的第一个男人；谱系上也是瓦凯亚以下第十二代、乌卢与纳纳乌卢之父。对应南方的 Ti‘i、Tiki。", "chapters": [19, 20, 21]},
+  "Ulu": {"zh": "乌卢", "modern": "‘Ulu", "cat": "酋长", "note": "基伊与 Hinakoula 之子；毛伊岛、夏威夷岛酋长所溯的乌卢谱系之祖。", "chapters": [20, 21]},
+  "Nanaulu": {"zh": "纳纳乌卢", "modern": "Nanaulu", "cat": "酋长", "note": "基伊与 Hinakoula 之子，乌卢之兄弟；考艾岛、瓦胡岛酋长所溯的纳纳乌卢谱系之祖。", "chapters": [20, 21]},
+  "Waia": {"zh": "怀亚", "modern": "Wai‘a", "cat": "酋长", "note": "哈洛阿之子（一说霍奥霍库卡拉尼之子），传说中不敬神、不恤民的恶王；其名也被用作暴君的绰号。", "chapters": [19, 20]},
+  "Kahiko": {"zh": "卡希科", "modern": "Kahiko-lua-mea", "cat": "酋长", "note": "全名 Kahiko-lua-mea（“极古而神圣者”），瓦凯亚之父；传说中贤明的祭司兼统治者。", "chapters": [20, 21]},
+  "Kamehaikana": {"zh": "卡梅海卡纳", "modern": "Kamehaikana", "cat": "女神", "note": "豪梅亚化身面包树时的名号；用这棵树雕成的女神像后来成为卡美哈梅哈的神。", "chapters": [19]},
+  "Makalei": {"zh": "马卡莱", "modern": "Makalei", "cat": "其他", "note": "能吸引鱼群的神木（木棒或树），豪梅亚借它返老还童；源出 Nu‘umealani。", "chapters": [19]}
+}

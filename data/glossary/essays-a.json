@@ -1,0 +1,83 @@
+{
+  "puuhonua": {
+    "term": "puuhonua",
+    "modern": "pu‘uhonua",
+    "zh": "庇护所",
+    "def": "受神圣保护的避难地：违犯 kapu 的人、战败者与非战斗人员逃入其中即可免死，经祭司赦罪后返回。最著名的是夏威夷岛科纳的 Hōnaunau。",
+    "see": [
+      "g:kapu",
+      "essays/kapu-system"
+    ]
+  },
+  "ai-noa": {
+    "term": "ai noa",
+    "modern": "‘ai noa",
+    "zh": "自由进食（废除饮食禁忌）",
+    "def": "“随意地吃”，与 ‘ai kapu（受禁忌约束的进食）相对。特指 1819 年卡美哈梅哈二世当众与女性同食，从而废除整个 kapu 宗教制度的事件。",
+    "see": [
+      "g:kapu",
+      "g:noa",
+      "essays/kapu-system"
+    ]
+  },
+  "okina": {
+    "term": "okina",
+    "modern": "‘okina",
+    "zh": "喉塞音符",
+    "def": "写作 ‘ 的辅音字母，表示喉塞音（声门短暂闭合）。它能区分词义，如 pau“完毕”与 pa‘u“煤烟”。许多其他波利尼西亚语中与之对应的是 k 或 ng。",
+    "see": [
+      "g:kahako",
+      "essays/hawaiian-language"
+    ]
+  },
+  "kahako": {
+    "term": "kahako",
+    "modern": "kahakō",
+    "zh": "长音符",
+    "def": "加在元音上的横线（ā ē ī ō ū），表示长元音。长短能区分词义，如 mano“众多”与 manō“鲨鱼”。Beckwith 的时代尚未通行。",
+    "see": [
+      "g:okina",
+      "essays/hawaiian-language"
+    ]
+  },
+  "wa": {
+    "term": "wa",
+    "modern": "wā",
+    "zh": "时代（颂歌的分章）",
+    "def": "时期、时代；《库穆利波》全诗分为十六个 wā，前七个属于 pō（神的黑夜），自第八个起进入 ao（人的白昼）。",
+    "see": [
+      "g:po",
+      "g:ao",
+      "essays/kumulipo"
+    ]
+  },
+  "hale-mua": {
+    "term": "hale mua",
+    "modern": "hale mua",
+    "zh": "男子屋（家祠）",
+    "def": "家宅中男子进食并供奉家族神的屋子，女子不得入内；屋中供有洛诺的葫芦等神物。女子另在 hale ‘aina 进食。",
+    "see": [
+      "g:kapu",
+      "essays/kapu-system"
+    ]
+  },
+  "pueo": {
+    "term": "pueo",
+    "modern": "pueo",
+    "zh": "夏威夷短耳鸮",
+    "def": "夏威夷特有的猫头鹰（Asio flammeus sandwichensis），常见的家族守护神化身，以在战场和危难中引路救人著称。",
+    "see": [
+      "g:aumakua"
+    ]
+  },
+  "niaupio": {
+    "term": "niaupio",
+    "modern": "nī‘aupi‘o",
+    "zh": "近亲婚配所生的至高酋长",
+    "def": "兄妹或半兄妹等近亲的两位高等级酋长婚配所生的子女，血统最纯，享有最高的禁忌（如 kapu moe）。",
+    "see": [
+      "g:alii",
+      "g:kapu-moe"
+    ]
+  }
+}

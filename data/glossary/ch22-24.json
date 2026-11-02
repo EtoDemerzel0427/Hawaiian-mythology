@@ -1,0 +1,8 @@
+{
+  "loko-ia": {"term": "loko i‘a", "modern": "loko i‘a", "zh": "鱼塘", "def": "古代夏威夷用石堤围出的养鱼池，建在海湾、河口或内陆，养鲻鱼、遮目鱼等，由酋长掌控；许多大型鱼塘传说是梅内胡内人一夜筑成的。", "see": ["g:konohiki"]},
+  "konohiki": {"term": "konohiki", "modern": "konohiki", "zh": "土地管事", "def": "酋长派驻在一块土地（通常是一个 ahupua‘a）上的管理人，负责分派劳役、收取贡物、管理渔场与水源。", "see": ["g:ahupuaa", "g:alii"]},
+  "maika": {"term": "maika", "modern": "‘ulu maika", "zh": "掷石饼", "def": "夏威夷的传统游戏：在平整的场地上滚掷打磨成圆饼状的石头（‘ulu），比远近或比能否穿过两根立桩之间，常伴有赌注，Makahiki 节期间尤盛。"},
+  "koa": {"term": "koa", "modern": "koa", "zh": "寇阿相思树", "def": "夏威夷特有的大乔木（*Acacia koa*），木质坚韧、纹理美观，是造独木舟最好的木材；伐树前要向神献祭。koa 一词又指“勇士”。"},
+  "kukini": {"term": "kukini", "modern": "kūkini", "zh": "飞毛腿", "def": "酋长豢养的专职跑者，负责传递消息、刺探军情、从远处鱼塘取来活鱼。"},
+  "lua": {"term": "lua", "modern": "lua", "zh": "碎骨术", "def": "夏威夷传统徒手格斗术，以擒拿、摔投和折断骨骼关节为主，秘密传授给酋长的武士；高手称 ‘ōlohe lua，常拔光体毛、全身涂油。传说中拦路劫杀的 olohe 也用此术。"}
+}

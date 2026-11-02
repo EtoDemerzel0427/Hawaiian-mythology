@@ -1,0 +1,12 @@
+{
+  "kaona": {"term": "kaona", "modern": "kaona", "zh": "隐含义", "def": "诗歌中隐藏的第二层意思：表面写风、雨、花、海湾等自然景物，暗中指情爱、人物或政治讽喻，往往只有知情者才能领会。", "see": ["g:mele", "essays/hula-and-chant"]},
+  "kanikau": {"term": "kanikau", "modern": "kanikau", "zh": "挽歌", "def": "哀悼死者的吟诵，常追忆死者与生者共同走过的地方与经历。", "see": ["g:mele"]},
+  "mele-inoa": {"term": "mele inoa", "modern": "mele inoa", "zh": "名歌", "def": "为某人（多为酋长）创作、颂扬其家世与事迹的诗，被视为这个人的财产，可以转让。", "see": ["g:mele", "essays/genealogy-and-rank"]},
+  "kuahu": {"term": "kuahu", "modern": "kuahu", "zh": "祭坛（舞堂祭坛）", "def": "祭坛；特指 hula 舞堂中供奉拉卡等舞蹈之神的祭坛，以 ‘ie‘ie、maile、lehua 等林中植物装饰。", "see": ["g:halau", "g:hula"]},
+  "uniki": {"term": "unike", "modern": "‘ūniki", "zh": "出师仪式", "def": "hula 等传统技艺学徒结业的仪式，通过后方可公开表演或授徒。Beckwith 拼作 unike。", "see": ["g:halau"]},
+  "maunu": {"term": "maunu", "modern": "maunu", "zh": "饵（巫术媒介）", "def": "字面义“鱼饵”；巫术中属于受害者身体的东西，如头发、指甲、唾液、排泄物、吃剩的食物，巫师借它施行祈死巫术。", "see": ["g:anaana"]},
+  "unihipili": {"term": "unihipili", "modern": "unihipili", "zh": "供奉的遗骨（骨灵）", "def": "被家人保存、供奉的死者遗骨或遗物，死者的灵附于其中，可受驱使为主人效力，常用于巫术。", "see": ["g:aumakua", "g:anaana"]},
+  "kuewa": {"term": "kuewa", "modern": "kuewa", "zh": "游魂", "def": "被祖灵抛弃、无所归依的亡魂，在荒野中游荡，以蜘蛛和夜蛾为食，喜欢引旅人迷路。", "see": ["g:uhane", "g:aumakua"]},
+  "hula-kahiko": {"term": "hula kahiko", "modern": "hula kahiko", "zh": "古典草裙舞", "def": "以吟诵和葫芦鼓、皮鼓等传统打击乐伴奏的 hula，与现代的 hula ‘auana 相对。作为固定分类名称大致通行于 20 世纪中叶以后。", "see": ["g:hula", "g:hula-auana"]},
+  "hula-auana": {"term": "hula ‘auana", "modern": "hula ‘auana", "zh": "现代草裙舞", "def": "‘auana 意为“漫游”；以吉他、尤克里里等西式乐器和歌曲伴奏的 hula，19 世纪末以后发展起来。", "see": ["g:hula", "g:hula-kahiko"]}
+}
