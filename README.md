@@ -1,10 +1,38 @@
-# 夏威夷神话注疏 · Hawaiian Mythology, Annotated
+<div align="center">
 
-Martha Warren Beckwith《夏威夷神话》（*Hawaiian Mythology*, Yale University Press, 1940）的中文全译与注疏：逐段中英对照，在原文相应位置加文化背景、夏威夷语构词、地理、比较神话与今日研究的注释，另有一组专题专栏。
+<img src="static/favicon.svg" width="72" alt="">
 
-纯静态站点，Python 生成，无前端构建步骤。
+# 夏威夷神话注疏
+
+**Martha Warren Beckwith《夏威夷神话》（*Hawaiian Mythology*, 1940）中文全译与注疏**
+
+*O ke au i kahuli wela ka honua* — 那时大地翻转而炽热
+
+[在线阅读](https://etodemerzel0427.github.io/Hawaiian-mythology/) · [体例说明](content/about/index.md) · [写作规范](AUTHORING.md)
+
+</div>
+
+---
+
+Beckwith 的《夏威夷神话》是英文世界关于夏威夷口头传统最全面的综述：四十章，从诸神的来临、佩蕾与毛伊的神话、酋长谱系与远航传说，一直写到浪漫传奇，引用了数百种夏威夷语报纸、手稿与南太平洋民族志。它也以难读著称：名字长、头绪多，作者默认读者熟悉大量背景知识。
+
+本站把全书译成中文，并在原文相应位置加注，帮助没有波利尼西亚背景的读者读懂它。
+
+## 内容
+
+| | |
+|---|---|
+| **全译** | 作者序、39 章正文与参考文献，约 39 万字；每段译文与英文原文一一对应 |
+| **注释** | 900 余处就地注释，按类型着色：文化背景、夏威夷语构词、地理、比较神话、故事梗概、人物、今日视角 |
+| **原文** | 英文底本由 1940 年初版的 OCR 整理，逐章对照扫描页人工校对，保留原书页码与全部原注 |
+| **专栏** | 14 篇专题长文：怎样读这本书、夏威夷语入门、神与守护神与半神、kapu 制度、四大神、《库穆利波》、佩蕾史诗、毛伊、库克与洛诺之争、航海、草裙舞与吟诵、谱系与等级、巫术与冥界、文献来源 |
+| **工具** | 神名人名地名对照表、夏威夷语术语表（悬停释义）、全文搜索 |
+
+阅读时可以在「中 / 对照 / 英」三种模式间切换，点击段首 ¶ 号展开单段原文，页边页码直接链接到原书扫描页。
 
 ## 本地运行
+
+纯静态站点，Python 生成，无前端构建步骤。
 
 ```bash
 pip install markdown
@@ -12,27 +40,30 @@ python3 build.py --serve      # http://localhost:8767
 python3 build.py --check      # 只校验：段落对齐、术语、链接
 ```
 
-## 部署到 GitHub Pages
+推送到 `main` 后，GitHub Actions（`.github/workflows/pages.yml`）会自动构建并发布到 GitHub Pages（需在 Settings → Pages 中把 Source 设为 GitHub Actions）。
 
-在仓库 Settings → Pages 里把 Source 设为 **GitHub Actions**。`.github/workflows/pages.yml` 会在每次推送 `main` 时构建并发布。
-
-## 目录
+## 目录结构
 
 ```
 build.py                 静态站点生成器
-AUTHORING.md             写作与翻译规范
-source/en/NN.md          英文底本（OCR 清理并人工校对；¶ 段落号、{p:N} 页码、[^N] 原注）
+AUTHORING.md             翻译与注释规范
+source/en/NN.md          英文底本（¶ 段落号、{p:N} 页码、[^N] 原注）
 content/book/NN-*.md     中文译注，段落号与英文底本一一对应
 content/essays/*.md      专栏
 content/about/           体例说明
-data/names/*.json        神名人名地名译名表（构建时合并）
-data/glossary/*.json     夏威夷语术语表（构建时合并）
+data/names/*.json        译名表（构建时合并）
+data/glossary/*.json     术语表（构建时合并）
 tools/clean_ocr.py       从 archive.org 的 djvu.xml 生成英文底本初稿
-static/                  CSS / JS / 图标
+static/                  样式、脚本、图标
 ```
+
+## 参与
+
+发现译文错误、OCR 错误或不准确的注释，欢迎提 issue 或 PR。所有章节目前为初稿（`status: draft`），校订后改为 `done`。改动前请先读 [AUTHORING.md](AUTHORING.md)，提交前运行 `python3 build.py --check`。
 
 ## 底本与版权
 
-底本为 Internet Archive 上的 1940 年初版扫描（[hawaiianmytholog00beck_0](https://archive.org/details/hawaiianmytholog00beck_0)）。该版在美国出版且版权未续展，HathiTrust 版权审查结论为公有领域。1970 年重印本所附 Katharine Luomala 序言仍受版权保护，不收录。Beckwith 卒于 1959 年：在“作者终身加七十年”的法域，原书于 2030 年进入公有领域。
-
-本站撰写的译文、注释与专栏采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可；代码采用 MIT 许可。
+- 底本：Martha Warren Beckwith, *Hawaiian Mythology*, New Haven: Yale University Press, 1940。扫描与 OCR 来自 Internet Archive（[hawaiianmytholog00beck_0](https://archive.org/details/hawaiianmytholog00beck_0)）。
+- 该版在美国出版且版权未续展，HathiTrust 版权审查结论为美国公有领域。Beckwith 卒于 1959 年，在“作者终身加七十年”的法域，原书于 2030 年进入公有领域。
+- 1970 年重印本所附 Katharine Luomala 序言仍受版权保护，本站不收录。
+- 本站撰写的译文、注释与专栏采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可；代码采用 MIT 许可。

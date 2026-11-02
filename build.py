@@ -23,7 +23,7 @@ OUT = ROOT / "_site"
 SCAN = "https://archive.org/details/hawaiianmytholog00beck_0/page/n{leaf}/mode/1up"
 SITE_TITLE = "夏威夷神话注疏"
 SITE_SUB = "Beckwith《Hawaiian Mythology》全译与导读"
-REPO = "https://github.com/EtoDemerzel0427/hawaiian-mythology"
+REPO = "https://github.com/EtoDemerzel0427/Hawaiian-mythology"
 
 PARTS = {0: "", 1: "第一部 · 众神", 2: "第二部 · 神之子嗣", 3: "第三部 · 酋长", 4: "第四部 · 虚构故事中的英雄与恋人"}
 PARTS_EN = {1: "Part One: The Gods", 2: "Part Two: Children of the Gods", 3: "Part Three: The Chiefs", 4: "Part Four: Heroes and Lovers in Fiction"}
