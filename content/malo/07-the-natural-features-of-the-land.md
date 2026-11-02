@@ -26,9 +26,9 @@ status: draft
 
 ¶6 这些区又细分为别的部分，有时叫 *okana*，有时叫 *kalana*。*okana* 之内还有一级分区，叫 *poko*。
 
-¶7 把这些部分再细分，就得到叫作 *[[g:ahupuaa|ahu-puaa]]* 的一块土地；*ahu-puaa* 又依次分为叫作 *ili-aina* 的若干块。
+¶7 把这些部分再细分，就得到叫作 *[[g:ahupuaa|ahu-puaa]]* 的一块土地；*ahu-puaa* 又依次分为叫作 *ili-aina*（[[g:ili]]）的若干块。
 
-¶8 *ili-aina* 再分为叫作 *moo-aina* 的若干块，*moo-aina* 再分为更小的 *pauku-aina*（土地的“节”），*pauku-aina* 又分为叫作 *kihapai* 的田块或园地。在这些分区之下，还有 *koele*[^1]、*haku-one*[^2] 和 *kuakua*[^3]。
+¶8 *ili-aina* 再分为叫作 *moo-aina* 的若干块，*moo-aina* 再分为更小的 *pauku-aina*（土地的“节”），*pauku-aina* 又分为叫作 *kihapai* 的田块或园地。在这些分区之下，还有 *koele*（[[g:koele]]）[^1]、*haku-one*[^2] 和 *kuakua*[^3]。
 
 !!! culture "从岛到田块：土地的层级"
     Malo 这几节列出的是 1848 年土地大分配（Māhele）以前的土地制度。名义上全部土地属于统治全岛的大酋长（ali‘i nui）；他把各区、各 ahupua‘a 分封给下级酋长，下级酋长再派管事（[[g:konohiki]]）管理。ahupua‘a 是其中最重要的一级：它通常沿一条山谷从山顶延伸到海里，使住在里面的人同时拥有林木、坡地、水田和渔场，基本能够自给。ahu-pua‘a 字面是“猪的石堆”，据说因界上的石堆上供着猪形的木像或贡物（一说是真猪）而得名。
@@ -53,7 +53,7 @@ status: draft
 
     ama‘u（*Sadleria* 属）是夏威夷特有的中型蕨类，在新熔岩上最早定居，嫩叶柄可在饥荒时充饥，见[[ma:9]]。
 
-¶13 *ma'u* 之下是叫作 *apaa* 的一条带（大概因为这一带往往坚硬、干焦、贫瘠）；再下面是叫作 *ilima*[^7] 的一条带；*ilima* 之下是叫作 *pahee*（滑溜溜的）[^8] 的一条带；再下面是靠近人们住处、叫作 *kula*（平原、开阔地）的一条带；最下面，与海相接的一条带叫作 *kahakai*，即海的边线（*kaha*，划痕、线；*kai*，海）。
+¶13 *ma'u* 之下是叫作 *apaa* 的一条带（大概因为这一带往往坚硬、干焦、贫瘠）；再下面是叫作 *ilima*[^7] 的一条带；*ilima* 之下是叫作 *pahee*（滑溜溜的）[^8] 的一条带；再下面是靠近人们住处、叫作 *kula*（平原、开阔地，[[g:kula]]）的一条带；最下面，与海相接的一条带叫作 *kahakai*，即海的边线（*kaha*，划痕、线；*kai*，海）。
 
 ¶14 还有别的名字用来称呼土地的形态：岛上零星耸立的小山叫作 *puu*，即一个隆起、一个疙瘩；如果几座小山排成一行，就叫 *lalani puu* 或 *pae puu*；如果聚成一簇，就叫 *kini-kini puu* 或 *olowalu puu*。
 

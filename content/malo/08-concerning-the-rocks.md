@@ -26,7 +26,7 @@ status: draft
 !!! place "冒纳凯阿山上的石斧采石场"
     夏威夷最著名的石斧（ko‘i）石料产地，在夏威夷岛冒纳凯阿（Mauna Kea）山顶附近、海拔三千多米的高处，今称 Keanakāko‘i（“斧的洞穴”）。一般认为那里的玄武岩是冰期时熔岩在冰川下或冰缘急冷而成，质地格外细密，工匠上山开采、打出斧坯，再运下山磨制，现场至今留有大片碎石片堆。Malo 名单中的 humu-ula 与夏威夷岛冒纳凯阿东坡的地名 Humu‘ula 同名，mauna（“山”）也可能指来自高山的石料，但这两个名称是否真的指这一产地，本站无法确证。采石场的详情见[[essays/mauna-kea]]。
 
-¶4 用来做 *lu-hee*（捉乌贼的诱饵）的石头很特别，种类也很多。它们的名字是：*hiena、ma-heu、hau、pa-pa、lae-koloa、lei-ole、ha-pou、kawau-puu、ma-ili、au、nani-nui、ma-ki-ki、pa-pohaku、kaua-ula、wai-anuu-kole、hono-ke-a-a、kupa-oa、poli-poli、ho-one、no-hu、lu-au、wai-mano、hule-ia、maka-wela*。
+¶4 用来做 *lu-hee*（捉乌贼的诱饵，[[g:luhee]]）的石头很特别，种类也很多。它们的名字是：*hiena、ma-heu、hau、pa-pa、lae-koloa、lei-ole、ha-pou、kawau-puu、ma-ili、au、nani-nui、ma-ki-ki、pa-pohaku、kaua-ula、wai-anuu-kole、hono-ke-a-a、kupa-oa、poli-poli、ho-one、no-hu、lu-au、wai-mano、hule-ia、maka-wela*。
 
 !!! culture "lūhe‘e：章鱼诱饵"
     he‘e 是章鱼（Emerson 依当时英语的习惯译作 squid，“乌贼”）。lūhe‘e 是一种专捉章鱼的拟饵：把一枚宝贝（cowrie）螺壳和一块打磨成咖啡豆或梭子形的石坠背靠背捆在一起，下面系一个无倒钩的骨钩或木钩，从独木舟上垂到海底轻轻抖动；章鱼扑上来抱住螺壳，渔人便连饵带鱼提起。lū 意为“抛撒、摇动”。Malo 所列的二十多个名称，大多是石坠的石料或样式名，具体所指今天大多已无法考证。这种诱饵是夏威夷博物馆收藏中最常见的渔具之一。
