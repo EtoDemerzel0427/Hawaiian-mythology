@@ -189,3 +189,48 @@ order: 10               # 首页与侧栏中的排序
 - `genealogy-and-rank` 谱系与等级：为什么酋长要背诵几百代祖先
 - `sorcery-and-death` 巫术、死亡与冥界
 - `sources` 夏威夷传统的文献来源：从口述到报纸
+
+---
+
+## 7. 第二本书：《库穆利波》（Beckwith 1951）
+
+Martha Warren Beckwith, *The Kumulipo: A Hawaiian Creation Chant*, University of Chicago Press, 1951。底本取自 sacred-texts 的人工校对本（原书 1951 年出版，版权未续展）。1972 年夏威夷大学出版社重印本所附 Luomala 序言不收录。
+
+### 7.1 文件
+
+| 内容 | 路径 |
+|---|---|
+| 英文底本 | `source/kumulipo/en/NN.md`（`tools/import_kumulipo.py` 生成；格式同第 2 节） |
+| 中文译注 | `content/kumulipo/NN-slug.md` |
+| 夏威夷语全文 | `data/kumulipo/haw-lines.json`（Kalākaua 1889 刊本，`lines` 以行号为键；`sections` 为十六 wā 的起始行） |
+| 逐行对读 | `data/kumulipo/lines/<起>-<止>.json`，见 7.3 |
+| 各 wā 导读 | `content/kumulipo/chant/waNN.md`（显示在全诗对读页该 wā 之前）；`_intro.md` 为对读页总导读 |
+
+章节编号：00 导言，01–06 第一部，07–24 第二部，25–27 第三部，28 结语，29 附录一（即全诗，不单独翻译，页面由全诗对读页取代），30 附录二（文本注释），31 附录三（参考文献）。
+
+### 7.2 链接与宏
+
+| 写法 | 效果 |
+|---|---|
+| `[[ku:21]]` / `[[ku:21#p5]]` | 链接《库穆利波》的章 / 段（第一本书仍用 `[[ch:N]]`） |
+| `[[line:12]]` / `[[line:12-40]]` | 链接全诗对读页的某行 |
+| `[[chant]]` | 链接全诗对读页 |
+| `[[ku-references]]` | 《库穆利波》参考文献（附录三） |
+| `{{chant:1-42}}` | **在中文译注中嵌入第 1–42 行**：夏威夷语原文 + 本站中文译文（取自 7.3 的逐行数据），并附跳转全诗对读页的链接。单独成行使用 |
+
+**章节中 Beckwith 引用的诗句**：英文底本里带行号的吟诵块（`> 1. At the time when the earth became hot`），中文一侧不要重新翻译，而是写 `{{chant:A-B}}`，让全站的诗句译文只有一个出处。只引一两行、或引的是别的版本（Poepoe、Liliuokalani 等人的译法）时，照常直接翻译。
+
+### 7.3 逐行对读数据
+
+```json
+{
+  "1":  {"en": "At the time when the earth became hot", "zh": "那时大地翻转而炽热", "note": "可选：行注，Markdown"},
+  "12": {"en": "The night gave birth", "zh": "夜生育了"}
+}
+```
+
+- 键是 Kalākaua 刊本的行号（与 `haw-lines.json` 一致）。
+- `en`：Beckwith 1951 年英译中与该行对应的那一行，从第 8–24 章的译文中逐字抄录。她的译文分行与原文基本一一对应，但有合并、拆分和省略（她只节译了第十一、十二 wā 的长篇谱系）。对不上的行留空，不要编造。
+- `zh`：中文译文，**从夏威夷语原文译出，参照 Beckwith 英译与她在各章及附录二中的解释**。保持一行对一行，不追求押韵，但要有吟诵的节奏与庄重感。反复出现的套语（如 *Hanau ... puka*「生了……，出来了」；*O kane ia Wai'ololi, o ka wahine ia Wai'olola*）全诗统一译法。
+- 谱系行（一男一女的名字对）：名字保留原拼写，只译结构词，如 `Kumuhonua ka kane, Haloiho ka wahine` → `Kumuhonua 为夫，Haloiho 为妻`。
+- `note`：行注，只在需要时写，例如物种名（*'Uku-ko'ako'a* 是珊瑚虫）、双关、Beckwith 附录二对该行的文本说明、学界的不同读法。
