@@ -113,8 +113,10 @@ def split_paras(body):
     an admonition / heading / html block / footnote definition."""
     notes = {}
     def grab_note(m):
-        notes[m.group(1)] = m.group(2).strip(); return ""
-    body = re.sub(r"^\[\^(t?\d+)\]:[ \t]*((?:.*)(?:\n(?:    |\t).*)*)", grab_note, body, flags=re.M)
+        txt = re.sub(r"\n(?:    |\t)", "\n", m.group(2))          # continuation lines: strip the 4-space indent
+        notes[m.group(1)] = re.sub(r"\n[ \t]+\n", "\n\n", txt).strip(); return ""
+    # a note runs on over indented lines, which may be separated by blank (or whitespace-only) lines
+    body = re.sub(r"^\[\^(t?\d+)\]:[ \t]*((?:.*)(?:\n(?:[ \t]*\n)*(?:    |\t).*)*)", grab_note, body, flags=re.M)
     blocks = re.split(r"\n\s*\n", body.strip())
     out, cur = [], None
     for b in blocks:
