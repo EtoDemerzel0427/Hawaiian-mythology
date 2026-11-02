@@ -1,0 +1,17 @@
+{
+  "mahiole": {"term": "mahiole", "modern": "mahiole", "zh": "羽盔", "def": "酋长的头盔，以 ‘ie‘ie 气生根编成骨架，中央有一道冠脊，表面覆以 olonā 网和羽毛。", "see": ["g:ahu-ula", "essays/feather-regalia"]},
+  "lei-hulu": {"term": "lei hulu", "modern": "lei hulu", "zh": "羽毛花环", "def": "用羽毛制成的花环，戴在头上或颈上，高级女酋长尤常佩戴；今天仍是活跃的传统工艺。", "see": ["essays/feather-regalia"]},
+  "akua-hulu-manu": {"term": "akua hulu manu", "modern": "akua hulu manu", "zh": "羽毛神像", "def": "以编织骨架覆以红羽、珍珠贝为眼、狗牙为齿的神像，被视为神（多为库神）的有形之身，出战时由祭司扛在军前。", "see": ["essays/feather-regalia", "essays/four-great-gods"]},
+  "oo": {"term": "oo", "modern": "‘ō‘ō", "zh": "‘ō‘ō 鸟（黄斑吸蜜鸟）", "def": "Moho 属的黑色林鸟，腋下有一小簇亮黄羽，是羽衣黄羽的主要来源之一；各岛的种类均已灭绝。", "see": ["g:mamo", "essays/feather-regalia"]},
+  "mamo": {"term": "mamo", "modern": "mamo", "zh": "mamo 鸟（黑黄吸蜜鸟）", "def": "夏威夷岛的黑色吸蜜鸟（Drepanis pacifica），腰、腿与尾下有金黄羽，羽色最为贵重；卡美哈梅哈的大羽衣即用它的羽毛制成。19 世纪末灭绝。", "see": ["g:oo", "essays/feather-regalia"]},
+  "iiwi": {"term": "iiwi", "modern": "‘i‘iwi", "zh": "‘i‘iwi 鸟（朱红吸蜜鸟）", "def": "通体朱红、喙长而弯的吸蜜鸟（Drepanis coccinea），红羽用于羽衣、羽盔与神像；被认为神圣。现存。", "see": ["g:apapane", "essays/feather-regalia"]},
+  "apapane": {"term": "apapane", "modern": "‘apapane", "zh": "‘apapane 鸟（深红吸蜜鸟）", "def": "深红色的吸蜜鸟（Himatione sanguinea），常见于欧希亚树花间，是羽毛器物红羽的主要来源之一。现存。", "see": ["g:iiwi", "essays/feather-regalia"]},
+  "olona": {"term": "olona", "modern": "olonā", "zh": "olonā 纤维", "def": "荨麻科灌木 Touchardia latifolia 的韧皮纤维，坚韧耐久，用于搓绳、织渔网，也是羽衣、羽盔底网的材料。", "see": ["essays/feather-regalia"]},
+  "kia-manu": {"term": "kia manu", "modern": "kia manu", "zh": "捕鸟人", "def": "以粘胶、网或套索在山林中捕鸟取羽的专业人员，为酋长提供制作羽毛器物的原料。", "see": ["essays/feather-regalia"]},
+  "wao-akua": {"term": "wao akua", "modern": "wao akua", "zh": "神的领域（高山荒域）", "def": "高山森林上缘及林线以上、人迹罕至的地带，被认为是神灵所居之处；与下方人居住耕种的 wao kanaka（人的领域）相对。", "see": ["essays/mauna-kea"]},
+  "mahina": {"term": "mahina", "modern": "mahina", "zh": "月、月亮", "def": "月亮，也指一个太阴月；Beckwith 引用的旧文献中也作 malama。", "see": ["essays/moon-calendar"]},
+  "anahulu": {"term": "anahulu", "modern": "anahulu", "zh": "十夜（一旬）", "def": "十夜为一段；一个太阴月分为渐盈、月圆、渐亏三个 anahulu。", "see": ["g:mahina", "essays/moon-calendar"]},
+  "kaulana-mahina": {"term": "kaulana mahina", "modern": "kaulana mahina", "zh": "月历", "def": "夏威夷的太阴月历：一月三十夜（或二十九夜）各有专名，用于安排捕鱼、种植与祭祀。", "see": ["g:mahina", "essays/moon-calendar"]},
+  "kau": {"term": "kau", "modern": "kau", "zh": "夏季（干季）", "def": "一年两季中干热的一季，约当西历五月至十月。", "see": ["g:hooilo", "essays/moon-calendar"]},
+  "hooilo": {"term": "hooilo", "modern": "ho‘oilo", "zh": "冬季（雨季）", "def": "一年两季中多雨的一季，约当西历十一月至四月，Makahiki 节期在这一季。", "see": ["g:kau", "g:makahiki", "essays/moon-calendar"]}
+}

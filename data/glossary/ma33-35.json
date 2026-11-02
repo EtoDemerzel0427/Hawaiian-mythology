@@ -1,0 +1,9 @@
+{
+  "iako": {"term": "iako", "modern": "‘iako", "zh": "舷外横杆", "def": "独木舟上的横杆：单体舟用两根 ‘iako 把舷外浮木（ama）绑在船体一侧；双体舟用 ‘iako 把两个船体并联起来。", "see": ["g:ama"]},
+  "ama": {"term": "ama", "modern": "ama", "zh": "舷外浮木", "def": "单体独木舟舷外浮架末端的浮木，多用轻质的 wiliwili 木制成，用来防止翻船；在双体舟上，ama 也指左侧的船体。", "see": ["g:iako"]},
+  "pouhana": {"term": "pouhana", "modern": "pouhana", "zh": "山墙中柱", "def": "传统夏威夷房屋两端山墙正中的最高立柱，直接撑起脊檩，在古吟诵中几乎被当作尊号；今天常比喻一家一族的顶梁柱。"},
+  "hale-noa": {"term": "hale noa", "modern": "hale noa", "zh": "凡屋（全家共寝之屋）", "def": "kapu 时代一户人家中唯一男女不分、全家共处共寝的屋子；noa 即“不受禁忌约束”。男女进食则分在男子屋与女子饭屋。", "see": ["g:hale-mua", "g:noa"]},
+  "umeke": {"term": "umeke", "modern": "‘umeke", "zh": "钵（盛 poi 的木钵或葫芦钵）", "def": "深腹的食钵，用 kou 等木材挖制，或用葫芦制成，主要盛 poi 等植物性主食；盛鱼肉的浅盘则叫 ipukai。", "see": ["g:poi", "g:ipu"]},
+  "kuwa": {"term": "kuwa", "modern": "kuwā", "zh": "kuwa 祷词（落成、祝圣之祷）", "def": "房屋落成或独木舟祝圣时念的祷词，房屋落成时祭司边念边剪断门楣垂下的茅草“脐带”；Emerson 推测 ku-wa 意为“撑开（天地间的）空间”，词义至今未有定论。"},
+  "lolo": {"term": "lolo", "modern": "lolo", "zh": "lolo 祝圣（“吃脑”）仪式", "def": "本义为“脑”。独木舟造成后的祝圣仪式，也是向神询问吉凶的考验；技艺学成出师亦称 ‘ai lolo（“吃了脑子”）。", "see": ["g:uniki"]}
+}

@@ -33,10 +33,10 @@ status: draft
 
 [^1]: （第 2 节）Koi，读作 ko'h-ee。据其他权威，应当是 ka'i，读作 ka'h-ee，意为练习、训练、锻炼。跑者先练习用脚尖走路，脚跟不着地；然后让他跑，起初跑短距离，速度适中；最后让他全速跑很远的距离。训练期间不许吃 poi 和一切湿软、沉重的食物，只给吃半生的鸡肉和烤熟的蔬菜，如芋头、甘薯、面包果等。
     
-    Kaohele 是 Kumukoa 之子；Kumukoa 是莫洛凯的国王，与夏威夷岛的 Alapai-nui 同时代。Kaohele 是一位著名的 kukini。据说他能从 Kaluaaha 一直跑到 Halawa 再跑回来，而他出发时放到火上的鱼还没来得及烤熟。“E kui ka mama' i loaa o Kaohele.”“你得加倍（字面义是‘接长’）你的速度，才追得上 Kaohele。”
+    Kaohele 是 Kumukoa 之子；Kumukoa 是莫洛凯的国王，与夏威夷岛的阿拉帕伊（Alapai-nui）同时代。Kaohele 是一位著名的 kukini。据说他能从 Kaluaaha 一直跑到 Halawa 再跑回来，而他出发时放到火上的鱼还没来得及烤熟。“E kui ka mama' i loaa o Kaohele.”“你得加倍（字面义是‘接长’）你的速度，才追得上 Kaohele。”
     
     瓦胡岛的 Uluanui 是 Kaohele 的对手和朋友，也是一位著名的跑者。据说他能从 Kailua 的 Kaelepulu 鱼塘带一条鱼，绕道 Waialua，送到 Waikiki 时鱼还活蹦乱跳。
     
-    Makoko 是夏威夷岛上卡美哈梅哈一世手下一位著名的跑者。据说他能从希洛 Waiakea 的鱼塘带一条鱼，跑到 Kailua 时鱼还没死。这段路程一百多英里，所以这当然是一个不可能的故事。但把这类说法完全按字面去理解，未免太不近人情。
+    Makoko 是夏威夷岛上卡美哈梅哈（Kamehameha）一世手下一位著名的跑者。据说他能从希洛 Waiakea 的鱼塘带一条鱼，跑到 Kailua 时鱼还没死。这段路程一百多英里，所以这当然是一个不可能的故事。但把这类说法完全按字面去理解，未免太不近人情。
 
 [^2]: （第 7 节）夏威夷语原文作：“O kekahi poe, nolunolu na hai ke eo, a na hai e lipi ka lakou waiwai, pela ka hana ana ma ke kukini.”只有去掉 poe 后面的逗号，并把 lipi 一词的字母重新排列——显然应当是 pili——才能读通这一段。有趣的是，卖赛这种腐败行为，古代夏威夷和今天的文明世界一样流行。
