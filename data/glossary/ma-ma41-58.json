@@ -1,0 +1,58 @@
+{
+ "ume": {
+  "term": "ume",
+  "modern": "ume",
+  "zh": "乌梅游戏",
+  "def": "平民在夜间玩的择偶游戏：执杖者手持饰羽的长杖（maile）边唱边绕场，被杖点中的一男一女出去同宿一夜，配偶不得嫉妒。ume 本义“拉、吸引”。",
+  "see": ["g:kilu"]
+ },
+ "puhenehene": {
+  "term": "puhenehene",
+  "modern": "pūhenehene",
+  "zh": "藏石猜人",
+  "def": "夜间的猜谜游戏：两排人相对而坐，一方用长幅树皮布遮住，其中一人把小石子（no‘a）藏在身上，另一方猜石子在谁身上，先得十分者胜。",
+  "see": []
+ },
+ "pahee": {
+  "term": "pahee",
+  "modern": "pahe‘e",
+  "zh": "滑掷短标",
+  "def": "把一头粗、一头细的硬木短标（用 ulei 或 kauila 木制成）贴地掷出，使其在平地或草地上滑行，以远者为胜；常伴有赌注。",
+  "see": []
+ },
+ "hee-nalu": {
+  "term": "he‘e nalu",
+  "modern": "he‘e nalu",
+  "zh": "冲浪",
+  "def": "字面义“在浪上滑行”。用寇阿木或 wiliwili 木削成的板子乘浪冲向岸边，酋长与平民男女老少都玩，比赛时以浮标为终点，并下赌注。",
+  "see": []
+ },
+ "kea-pua": {
+  "term": "ke‘a pua",
+  "modern": "ke‘a pua",
+  "zh": "掷蔗花箭",
+  "def": "Makahiki 节期间的游戏：把甘蔗花茎做成约两尺长的“箭”，箭头裹泥，从小土丘上贴地掷出，让它擦地弹跳着飞远；又称 pa-pua。",
+  "see": []
+ },
+ "pukaula": {
+  "term": "pukaula",
+  "modern": "pukaula",
+  "zh": "绳结戏法",
+  "def": "以绳结设赌的戏法：艺人把细密光滑的 olona 绳打成结，让观众赌结在两端一拉之后是否还在；艺人奉半神卡纳（Kana）为守护神。",
+  "see": []
+ },
+ "mokomoko": {
+  "term": "mokomoko",
+  "modern": "mokomoko",
+  "zh": "拳斗",
+  "def": "徒手拳击比赛，多在 Makahiki 节期间各区民众聚会时举行；以拳迎拳，常致断臂、失明、落齿。",
+  "see": ["g:makahiki"]
+ },
+ "hakoko": {
+  "term": "hākōkō",
+  "modern": "hākōkō",
+  "zh": "摔跤",
+  "def": "两人相互抓握、用脚绊对方，把对方摔倒在地者胜；多在王廷中进行。",
+  "see": []
+ }
+}

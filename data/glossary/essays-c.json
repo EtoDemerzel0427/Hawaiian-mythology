@@ -1,0 +1,5 @@
+{
+  "kakau": {"term": "kakau", "modern": "kākau", "zh": "刺青", "def": "以骨制细齿刺具蘸石栗烟灰、用槌敲击入皮的刺青，与萨摩亚、塔希提的 tatau 同源；19 世纪起也指“书写”。", "see": ["essays/kakau"]},
+  "hunakele": {"term": "hunakele", "modern": "hūnākele", "zh": "秘葬", "def": "hūnā 意为“隐藏”；秘密地藏起，特指由一两位亲信在夜里把高级酋长的遗骨藏入洞穴、崖壁等处，使仇人无从找到。", "see": ["g:iwi", "g:kahu", "essays/bones-and-hunakele"]},
+  "hoku": {"term": "hoku", "modern": "hōkū", "zh": "星", "def": "星辰。许多星名以 Hōkū- 开头，如 Hōkūpa‘a（北极星，“固定的星”）、Hōkūle‘a（大角星）、Hōkūloa（金星）。", "see": ["g:kilo-hoku", "essays/wayfinding"]}
+}
