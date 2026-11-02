@@ -46,8 +46,6 @@ status: draft
 
     au 也有两层意思：时代、时间，以及水流、潮流。上一行的 auau 是“沐浴”，Beckwith 认为下一行的 au 是顺着它的声音而来的，这正是她在[[ku:7#p6]]所说的“连锁诗行”。
 
-    注意：本站所用卡拉卡瓦刊本数据中，第 115–122 行的夏威夷语文字有误，与 Beckwith 所引的 O he‘e au loloa ka po、O lewa ke au, ia Kumulipo ka po 对不上，以 Beckwith 的引文为准。
-
 ¶7 Pokini Robinson 在这幅婴儿世界的图景中，即生物在波浪的冲刷中漂浮、在气流中摇摆，看到了幼儿不稳定的动作的象征。我认为她看得很对，因为她把幼儿的成长看作整首颂歌的主题。浸润着 manawa 的细根（*paia[‘a]*），她认为是指经过囟门（*manawa*）把养分输送给孩子的血管。人们认为，未出生的孩子是通过囟门从父母那里得到食物的；出生之后，如果母亲的奶水不足，孩子仍然可以从那里汲取养分。
 
 !!! language "manawa：囟门、时间与心绪"
@@ -58,6 +56,21 @@ status: draft
 ¶9 {{chant:1-11}}
 
 ¶10 {{chant:12-31}}
+
+!!! language "最早出生的生物：第 15–23 行"
+    Beckwith 的英译与夏威夷语名的对应如下（鉴定以 Beckwith 及她所依据的 Edmondson、Neal 为主，今天通行的说法写在“说明”栏，拿不准的不注）：
+
+    | 行 | 夏威夷语 | Beckwith 的英译 | 说明 |
+    |---|---|---|---|
+    | 15 | ‘Uku-ko‘ako‘a / ‘Ako‘ako‘a | 珊瑚虫 / 珊瑚 | ko‘a 是珊瑚；‘uku 是“小东西、虱子”，‘uku-ko‘ako‘a 即“珊瑚上的小虫” |
+    | 16–17 | Ko‘e-enuhe / Ko‘e | 掘土堆土的幼虫 / 蚯蚓 | ko‘e 是蠕虫，‘enuhe 是毛虫 |
+    | 18 | Pe‘a / Pe‘ape‘a | 海星 / 小海星 | |
+    | 19 | Weli / Weliweli | 海参 / 小海参 | |
+    | 20–21 | ‘Ina / Halula | 海胆（族）/ 短刺海胆 | ‘ina 是一类小海胆 |
+    | 22 | Hawa‘e / Wana-ku | 光滑的海胆 / 长刺海胆 | wana 是长刺海胆，刺有毒 |
+    | 23 | Ha‘uke‘uke / ‘Uhalula | 环形海胆 / 细刺海胆 | ha‘uke‘uke 是贴在礁岩上的扁平海胆，可食 |
+
+    句式是固定的：Hanau ka X, ka Y kana keiki, puka，“生了 X，它的孩子 Y，出来了”。一种生物生出另一种，名字往往重叠（Pe‘a → Pe‘ape‘a，Weli → Weliweli）：重叠在夏威夷语中常表示“小的、多的”，所以 Beckwith 译成“小海星”“小海参”。
 
 ¶11 {{chant:32-42}}
 
@@ -151,6 +164,4 @@ status: draft
 ¶34 {{chant:112-122}}
 
 !!! note "第一个 wā 的尾声"
-    第 112–122 行即 Beckwith 在 ¶4–7 中讨论的“十行尾声”：“提着水葫芦的人”出现，植物繁茂，“撑起大地，托住天空”，最后以“仍是夜”（Po--no）结束。每一个 wā 都以 po 结束，直到第八个 wā 光明破晓（[[ku:17]]）。
-
-    本站数据中第 115–122 行的夏威夷语文字与 Beckwith 所据的文本不合（她在 ¶6 引用的 O he‘e au loloa ka po、O lewa ke au, ia Kumulipo ka po 两行未见于数据中），待校。
+    第 112–122 行即 Beckwith 在 ¶4–7 中讨论的“十行尾声”（第 116 行 O he‘e au loloa ka po，第 121 行 O lewa ke au, ia Kumulipo ka po）：“提着水葫芦的人”出现，植物繁茂，“撑起大地，托住天空”，最后以“仍是夜”（Po--no）结束。每一个 wā 都以 po 结束，直到第八个 wā 光明破晓（[[ku:17]]）。

@@ -1,6 +1,9 @@
 """Convert the sacred-texts HTML of Beckwith, *The Kumulipo* (1951) into source files.
 
-    python3 -I tools/import_kumulipo.py <dir with ku00.htm..ku33.htm> <repo root>
+    python3 -I tools/import_kumulipo.py <dir with ku00.htm..ku33.htm> <repo root> [--sources]
+
+Without --sources only data/kumulipo/haw-lines.json is regenerated; the chapter sources
+have been proofread by hand and must not be overwritten.
 
 Writes
     source/kumulipo/en/NN.md          one file per chapter (same format as source/en/)
@@ -101,6 +104,7 @@ def main(d, root):
     d, root = Path(d), Path(root)
     out = root / "source" / "kumulipo" / "en"; out.mkdir(parents=True, exist_ok=True)
     meta = []
+    write_sources = "--sources" in sys.argv     # chapter sources are hand-proofread now: only rewrite them on request
     for k, (num, part, title) in sorted(CHAPTERS.items()):
         src = (d / f"ku{k:02d}.htm").read_text(encoding="utf-8", errors="replace")
         src, notes = extract_notes(src)
@@ -110,10 +114,10 @@ def main(d, root):
         blks = [b for i, b in enumerate(blks) if not (i < 4 and b[0].startswith("h") and key(b[1]) and key(b[1]) in key(title))]
         text, paras, nnotes = to_md(blks, num, notes)
         pages = re.findall(r"\{p:(\d+)\}", text)
-        (out / f"{num:02d}.md").write_text(f"---\nchapter: {num}\ntitle: {title}\npart: {part}\npages: {pages[0] if pages else ''}-{pages[-1] if pages else ''}\n---\n\n{text}\n", encoding="utf-8")
+        if write_sources: (out / f"{num:02d}.md").write_text(f"---\nchapter: {num}\ntitle: {title}\npart: {part}\npages: {pages[0] if pages else ''}-{pages[-1] if pages else ''}\n---\n\n{text}\n", encoding="utf-8")
         meta.append(dict(chapter=num, title=title, part=part, paras=paras, notes=nnotes))
         print(f"{num:02d} {title:48s} paras={paras:4d} notes={nnotes}")
-    (root / "source" / "kumulipo" / "_chapters.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
+    if write_sources: (root / "source" / "kumulipo" / "_chapters.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
     # Hawaiian lines from Appendix I
     app = (d / "ku31.htm").read_text(encoding="utf-8", errors="replace")
     app = app[:app.find("APPENDIX II")] if "APPENDIX II" in app else app
