@@ -74,7 +74,7 @@ status: draft
 !!! language "孩子们的名字：天色渐明"
     第 627–639 行拉伊拉伊所生的孩子，名字连起来就是一幅黎明图：Hahapo‘ele（摸黑的）、Hapopo（看不清的）、Maila（美丽的）、La‘i‘olo（蔓生的 ti），然后是 Kapopo（盼望中的白昼）、Po‘ele-i（午夜）、Po‘ele-a（初光），最小的是 Wehiloa（大大敞开）。La‘i‘olo 的 *la‘i* 也是 ti 叶的名称之一，与母亲的名字 La‘ila‘i 构成双关，Beckwith 说“第一个似乎是对母亲名字的双关”即指此。ti 即朱蕉（[[g:ki|kī]]），今天的学名作 *Cordyline fruticosa*。
 
-    Kamokuiki 本是 Beckwith 使用的一部夏威夷谱系手稿，以其整理者的名字命名，书中多次拿它与《库穆利波》对照。
+    Kamokuiki 本是 Beckwith 用来与《库穆利波》对照的一部夏威夷谱系书，她以 Kamokuiki 之名称呼它。
 
 ¶13 ### 第八颂
 
@@ -87,4 +87,4 @@ status: draft
 {{chant:615-643}}
 
 !!! note "英译与行号"
-    Beckwith 的英译在第 615 行之后加了一行缩进的 “It was day”（是白昼了），在全诗末尾又以缩进的 “It was Day” 收束；这两行是她为标示全诗由夜转昼而加的，与 Kalākaua 刊本的行号不对应，因此没有计入行数。第 643 行以后，第九 wā 从第 644 行开始，见[[ku:18]]。
+    Beckwith 的英译在第 615 行之后加了一行缩进的 “It was day”（是白昼了），在本颂末尾又以缩进的 “It was Day” 收束；这两行是她为标示全诗由夜转昼而加的，与 Kalākaua 刊本的行号不对应，因此没有计入行数。第 643 行以后，第九 wā 从第 644 行开始，见[[ku:18]]。
