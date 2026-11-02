@@ -49,7 +49,7 @@ status: draft
     夏威夷人认为人死之后，灵魂（[[g:uhane|‘uhane]]）要前往各岛海岸上的某个“灵魂跳跃之处”（[[g:leina|leina a ka ‘uhane]]），从那里的悬崖或树上跳入冥界。生前敬奉家族守护神（[[g:aumakua|‘aumakua]]）的人，死后有守护神引路，被接到祖灵的世界；无人引导的亡魂则可能沦为荒野中游荡的游魂（[[g:kuewa|kuewa]]）。Beckwith 在《夏威夷神话》第十章详细介绍了这些观念，并提到毛伊岛的冥界入口在西毛伊北岸的 Kahakaloa，见[[ch:10#p35]]。参见[[essays/sorcery-and-death]]。
 
 !!! place "Malama、Pohoiki 与毛伊岛地峡"
-    Pohoiki 与 Kalapana 都在夏威夷岛东南端的普纳区海岸，Pohoiki 在东、Kalapana 在西南，两地之间是一段多熔岩的海岸。东毛伊（哈雷阿卡拉火山）与西毛伊山地之间是一片低平的地峡，今天 Kahului 与 Wailuku 等城镇就建在这里；古时这里多是风沙弥漫的沙丘与旱地。
+    Pohoiki 与 Kalapana 都在夏威夷岛东南端的普纳区海岸，Pohoiki 在东北、Kalapana 在西南，两地之间是一段多熔岩的海岸。东毛伊（哈雷阿卡拉火山）与西毛伊山地之间是一片低平的地峡，今天 Kahului 与 Wailuku 等城镇就建在这里；古时这里多是风沙弥漫的沙丘与旱地。
 
     Ho‘olapa 即 Daniel Ho‘olapa，Beckwith 的报道人之一，出身夏威夷岛科纳的一个古老家族，见[[ku:0]]。
 
