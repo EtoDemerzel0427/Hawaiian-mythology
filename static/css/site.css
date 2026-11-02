@@ -348,3 +348,10 @@ details.book[open] > summary::before { transform: rotate(90deg); }
 }
 .cl, .cl span { text-align: left; }
 details.book { border: 0; padding: 0; background: transparent; margin: 0 0 14px; }
+/* Liliuokalani 1897 translation panels on the chant page */
+details.lili { margin: 4px 0 14px; padding: 8px 14px; background: var(--surface); border: 1px solid var(--line); }
+details.lili summary { font-size: 14px; color: var(--accent-2); }
+.lili-body { font-family: var(--font-en); font-size: 15px; line-height: 1.65; color: var(--en-ink); margin-top: 8px; }
+.lv { padding: 8px 0; border-top: 1px dashed var(--line); }
+.lv-h { font-family: var(--font-mono); font-size: 11px; letter-spacing: .06em; color: var(--ink-3); margin-bottom: 4px; }
+.lv-l { padding-left: 1.2em; text-indent: -1.2em; }

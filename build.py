@@ -27,7 +27,7 @@ import markdown
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "_site"
 SITE_TITLE = "夏威夷神话注疏"
-SITE_SUB = "Beckwith《夏威夷神话》《库穆利波》全译与导读"
+SITE_SUB = "Beckwith《夏威夷神话》《库穆利波》、Malo《夏威夷古俗》全译与导读"
 REPO = "https://github.com/EtoDemerzel0427/Hawaiian-mythology"
 CN_NUM = "零一二三四五六七八九"
 
@@ -58,6 +58,14 @@ BOOKS = {
         parts_en={1: "Part I: Social and Historical Background", 2: "Part II: The Chant", 3: "Part III: The Polynesian Chant of Creation", 4: "Appendixes"},
         special={0: "导言", 28: "结语", 29: "附录一", 30: "附录二", 31: "附录三"}, refs=31, chant_chapter=29,
         credit="Martha Warren Beckwith, <i>The Kumulipo: A Hawaiian Creation Chant</i>, University of Chicago Press, 1951"),
+    "malo": dict(
+        key="malo", prefix="ma", title="夏威夷古俗", en_title="Hawaiian Antiquities", year=1903,
+        src="source/malo/en", zh="content/malo", url="malo",
+        scan="https://archive.org/details/hawaiianantiquit00malorich/page/{p}/mode/1up", pagemap=None, scan_printed=True,
+        parts={0: "", 1: "一 · 天地、自然与物产", 2: "二 · 社会、禁忌与财产", 3: "三 · 宗教、礼仪与生死", 4: "四 · 政治、生计与娱乐", 5: "五 · 洪水与古代诸王"},
+        parts_en={1: "Chapters I–XVII", 2: "Chapters XVIII–XXII", 3: "Chapters XXIII–XXXVII", 4: "Chapters XXXVIII–LVII", 5: "Chapters LVIII–LXVII"},
+        special={0: "卷首"}, refs=None,
+        credit="David Malo, <i>Hawaiian Antiquities (Moolelo Hawaii)</i>, tr. N. B. Emerson, Honolulu: Hawaiian Gazette, 1903"),
 }
 
 WA_ZH = ["", "第一 wā", "第二 wā", "第三 wā", "第四 wā", "第五 wā", "第六 wā", "第七 wā", "第八 wā", "第九 wā", "第十 wā",
@@ -153,6 +161,8 @@ class Ctx:
         self.essays = {}
         hl = ROOT / "data" / "kumulipo" / "haw-lines.json"
         self.haw = json.load(open(hl, encoding="utf-8")) if hl.exists() else {"lines": {}, "sections": []}
+        lf = ROOT / "data" / "kumulipo" / "lili.json"   # Liliuokalani 1897, aligned by verse
+        self.lili = json.load(open(lf, encoding="utf-8")) if lf.exists() else []
         self.lines = {}      # line -> {"en", "zh", "note"}
         for f in sorted(glob.glob(str(ROOT / "data" / "kumulipo" / "lines" / "*.json"))):
             try:
@@ -190,6 +200,8 @@ def scan_link(book, p):
     if not leaf and str(p).isdigit() and pm:
         nxt, prv = pm.get(str(int(p) + 1)), pm.get(str(int(p) - 1))
         leaf = (nxt - 1) if nxt else (prv + 1) if prv else None
+    if b.get("scan_printed") and str(p).isdigit():
+        return f'<a class="pg" href="{b["scan"].format(p=p)}" target="_blank" rel="noopener" title="查看 {b["year"]} 年原书第 {p} 页扫描">p.{p}</a>'
     if not leaf or not b["scan"]:
         return f'<span class="pg" title="{b["year"]} 年原书第 {p} 页">p.{p}</span>'
     return f'<a class="pg" href="{b["scan"].format(leaf=leaf-1)}" target="_blank" rel="noopener" title="查看 {b["year"]} 年原书第 {p} 页扫描">p.{p}</a>'
@@ -234,15 +246,15 @@ def xref_html(target, label, page_key, root):
             warn(f"{page_key}: 术语表无词条 [[g:{key}]]"); return esc(label or key)
         tip = g.get("zh", "") + "：" + g.get("def", "")
         return f'<a class="gl" href="{root}glossary.html#g-{esc(slugify(key))}" data-tip="{esc(tip)}">{esc(label or g.get("term", key))}</a>'
-    m = re.fullmatch(r"(ch|ku):(\d+)(?:#p?(\d+))?", target)
+    m = re.fullmatch(r"(ch|ku|ma):(\d+)(?:#p?(\d+))?", target)
     if m:
-        book = "hm" if m.group(1) == "ch" else "ku"
+        book = {"ch": "hm", "ku": "ku", "ma": "malo"}[m.group(1)]
         n, p = int(m.group(2)), m.group(3)
         c = ctx.chapters.get((book, n))
         if not c:
             warn(f"{page_key}: 无此章 [[{target}]]"); return esc(label or target)
         href = root + c["url"] + (f"#p{p}" if p else "")
-        bk = "" if book == "hm" else "《库穆利波》"
+        bk = {"hm": "", "ku": "《库穆利波》", "malo": "《夏威夷古俗》"}[book]
         text = label or (f"{bk}{chap_label(book, n)}「{c['title']}」" + (f" ¶{p}" if p else ""))
         return f'<a class="xref" href="{href}" title="{esc(c["en_title"])}">{esc(text)}</a>'
     m = re.fullmatch(r"line:(\d+)(?:[-–](\d+))?", target)
@@ -309,7 +321,7 @@ def layout(title, body, root, active="", toc="", desc="", body_class="", book=No
 <body class="{body_class}" data-root="{root}">
 <header class="topbar"><div class="topbar-row">
   <button class="icon-btn" id="nav-toggle" aria-label="目录">☰</button>
-  <a class="brand" href="{root}index.html"><img src="{root}static/favicon.svg" alt=""><b>{SITE_TITLE}</b><i>Beckwith · 1940 / 1951</i></a>
+  <a class="brand" href="{root}index.html"><img src="{root}static/favicon.svg" alt=""><b>{SITE_TITLE}</b><i>Beckwith 1940 · 1951 · Malo 1903</i></a>
   <div class="search"><input id="q" type="search" placeholder="搜索：神名、地名、主题…" autocomplete="off"><div id="results" hidden></div></div>
   <div class="modes" role="group" aria-label="阅读模式">
     <button data-mode="zh" title="只看译文">中</button><button data-mode="both" title="中英对照">对照</button><button data-mode="en" title="只看原文">英</button>
@@ -420,18 +432,21 @@ def render_chapter(book, n, zh_path, src):
             zh, en = zh_notes.get(k), src_notes.get(k, "")
             body = (R(zh) if zh else "") + (f'<div class="note-en" lang="en">{R(en, [], True)}</div>' if en else "")
             lis.append(f'<li id="fn-{k}" value="{k}">{body}</li>')
-        refs = xref_html("references" if book == "hm" else "ku-references", "参考文献", page_key, root)
-        notes_html += f'<section class="notes" id="notes"><h2 id="yuan-zhu">原注</h2><p class="notes-hint">Beckwith 的引文出处多用缩写，全称见{refs}。</p><ol>{"".join(lis)}</ol></section>'
+        if book == "malo":
+            hint = "Emerson 的英译注释（1903），原书附在每章之后；正文中的上标数字对应 Malo 的小节编号。"
+        else:
+            hint = "Beckwith 的引文出处多用缩写，全称见" + xref_html("references" if book == "hm" else "ku-references", "参考文献", page_key, root) + "。"
+        notes_html += f'<section class="notes" id="notes"><h2 id="yuan-zhu">{"Emerson 注" if book == "malo" else "原注"}</h2><p class="notes-hint">{hint}</p><ol>{"".join(lis)}</ol></section>'
     tns = sorted([k for k in zh_notes if k.startswith("t")], key=lambda x: int(x[1:]))
     if tns:
         notes_html += '<section class="notes tn-notes"><h2 id="yi-zhu">译注</h2><ol>' + "".join(f'<li id="fn-{k}">{R(zh_notes[k])}</li>' for k in tns) + "</ol></section>"
     banner = {"source": "本章译文尚在进行中，下面暂时显示英文原文。", "partial": "本章译文尚未完成，未译段落暂缺。"}.get(c["status"])
     banner = f'<div class="banner">{banner}</div>' if banner else ""
     big = f'<span class="roman" aria-hidden="true">{roman(n)}</span>' if n not in b["special"] else ""
-    bookname = "" if book == "hm" else "《库穆利波》 · "
+    bookname = {"hm": "", "ku": "《库穆利波》 · ", "malo": "《夏威夷古俗》 · "}[book]
     head = (f'<header class="chap-head">{big}<div class="kicker">{bookname}{chap_label(book, n)} · {b["parts"].get(c["part"], "") or "附录"}</div>'
             f'<h1>{esc(c["title"])}</h1>'
-            f'<div class="en-title" lang="en">{esc(c["en_title"])} · Beckwith {b["year"]}, pp. {esc(src["meta"].get("pages", "") if src else "")}</div>'
+            f'<div class="en-title" lang="en">{esc(c["en_title"])} · {"Malo" if book == "malo" else "Beckwith"} {b["year"]}, pp. {esc(src["meta"].get("pages", "") if src else "")}</div>'
             + (f'<p class="summary">{esc(c["summary"])}</p>' if c.get("summary") else "") +
             f'<div class="readhint">点击段首 <b>¶</b> 号可展开该段英文原文；右上角可切换「中 / 对照 / 英」。页边 <span class="pg">p.N</span> 标出原书页码。</div>'
             f'<div class="niho-pair" aria-hidden="true"><span class="niho"></span><span class="niho down ink"></span></div>'
@@ -488,6 +503,15 @@ def render_chant():
         f = ROOT / "content" / "kumulipo" / "chant" / f"wa{s['idx']:02d}.md"
         if f.exists():
             body.append(render_md(parse_fm(f.read_text(encoding="utf-8"))[1], f"chant/wa{s['idx']}", root, book="ku"))
+        era = next((e for e in ctx.lili if e.get("wa") == s["idx"]), None)
+        if era and era.get("verses"):
+            vs = []
+            for v in era["verses"]:
+                rng = (f'<a href="#l{v["start"]}">第 {v["start"]}–{v["end"]} 行</a>' if v.get("start") else "（无对应行）")
+                vs.append(f'<div class="lv"><div class="lv-h">{esc(v.get("label", ""))} · {rng}</div>'
+                          + "".join(f'<div class="lv-l">{esc(l)}</div>' for l in v.get("lines", [])) + "</div>")
+            body.append(f'<details class="lili"><summary>利留卡拉尼女王 1897 年英译 · {esc(era.get("title", ""))}</summary>'
+                        f'<div class="lili-body" lang="en">{"".join(vs)}</div></details>')
         rows = []
         for k in range(s["start"], s["end"] + 1):
             h = ctx.haw["lines"].get(str(k))
@@ -636,7 +660,7 @@ def build(check_only=False):
         page = render_chapter(k, n, zh_files.get((k, n)), load_source(k, n))
         if not check_only: write(c["url"], page)
         txt = plain(re.sub(r'<div class="en".*?</div></section>', "</section>", page.split('<article class="doc">')[1].split("</article>")[0], flags=re.S))
-        pre = "" if k == "hm" else "《库穆利波》"
+        pre = {"hm": "", "ku": "《库穆利波》", "malo": "《夏威夷古俗》"}[k]
         search.append(dict(t=f"{pre}{chap_label(k, n)} {c['title']}", e=c["en_title"], u=c["url"], s=c["summary"], x=txt[:20000]))
     page, txt = render_chant()
     if not check_only: write("kumulipo/chant.html", page)

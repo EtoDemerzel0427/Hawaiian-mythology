@@ -234,3 +234,36 @@ Martha Warren Beckwith, *The Kumulipo: A Hawaiian Creation Chant*, University of
 - `zh`：中文译文，**从夏威夷语原文译出，参照 Beckwith 英译与她在各章及附录二中的解释**。保持一行对一行，不追求押韵，但要有吟诵的节奏与庄重感。反复出现的套语（如 *Hanau ... puka*「生了……，出来了」；*O kane ia Wai'ololi, o ka wahine ia Wai'olola*）全诗统一译法。
 - 谱系行（一男一女的名字对）：名字保留原拼写，只译结构词，如 `Kumuhonua ka kane, Haloiho ka wahine` → `Kumuhonua 为夫，Haloiho 为妻`。
 - `note`：行注，只在需要时写，例如物种名（*'Uku-ko'ako'a* 是珊瑚虫）、双关、Beckwith 附录二对该行的文本说明、学界的不同读法。
+
+---
+
+## 8. 第三本书：《夏威夷古俗》（Malo 1903）
+
+David Malo, *Hawaiian Antiquities (Moolelo Hawaii)*, translated by Nathaniel B. Emerson, Honolulu: Hawaiian Gazette Co., 1903（Bernice P. Bishop Museum Special Publication 2）。美国公有领域。扫描与 OCR：Internet Archive `hawaiianantiquit00malorich`。
+
+Malo（约 1795–1853）用夏威夷语写成此书（约 1840 年），Emerson 译成英文并在每章后加了大量注释（Notes），注释里收有许多夏英对照的祈祷词与吟诵。本站全部翻译：Malo 正文与 Emerson 注释都要译。
+
+### 8.1 文件
+
+| 内容 | 路径 |
+|---|---|
+| OCR 原文（按章切分，未校对） | 编辑提供的 `raw/NN.txt` |
+| 英文底本（校对后） | `source/malo/en/NN.md` |
+| 中文译注 | `content/malo/NN-slug.md` |
+
+章节：00 卷首（Emerson 的 Malo 小传、Malo 自序、W. D. Alexander 导言），01–67 为 Malo 原书各章。
+
+### 8.2 英文底本格式
+
+与第 2 节相同，另有三点：
+
+- **¶ 号直接用 Malo 的小节编号**（原书每章正文按 1.、2.、3.…… 编号）。没有编号的开头段落（极少）编为 ¶0 不可行，改为并入 ¶1。卷首 00 无小节编号，按自然段编 ¶1…。
+- **Emerson 注释**写成原注：正文中的上标数字写 `[^N]`；注释写在文件末尾 `[^N]: (Sect. M.) 注文……`。注释跨多段或含吟诵时，续行缩进 4 个空格，吟诵用 `    > ` 逐行写出（夏威夷语一块、英文一块）。
+- 页码 `{p:N}` 用原书印刷页码；链接会直接打开 archive.org 扫描本的对应页。
+
+### 8.3 中文
+
+- 正文 ¶ 与英文一一对应，规范同第 3–4 节。
+- **Emerson 注释必须译出**：在中文文件末尾写 `[^N]: 中文译文`（会显示在英文注释之上）。注释中的吟诵逐行译出，保留夏威夷语原文。
+- 链接：`[[ma:N]]` / `[[ma:N#pM]]` 链接本书章节；`[[ch:N]]`、`[[ku:N]]`、`[[line:N]]` 链接另两本书。Beckwith 的脚注常引 Malo（"Malo, p. 113"），本书各章若与 Beckwith 某章或某篇专栏对应，加链接。
+- Malo 是皈依基督教后的夏威夷学者，书中常以基督教立场评价旧宗教（"愚昧""邪恶"等）。照实翻译，不软化；必要时用 `!!! modern` 说明写作背景。
