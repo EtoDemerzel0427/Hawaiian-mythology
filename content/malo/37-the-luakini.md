@@ -537,3 +537,305 @@ luakini 就是用这样的仪式和典礼修建、祝圣的。luakini 的仪式�
 [^t2]: 原文如此。按日序，这一天应是 ‘Ole-kū-lua（Olekulua，初八）；Ouekulua 当是排印错误。
 [^t3]: papa-ka-hui 是什么，Malo 和 Emerson 都没有解释，译者也无法确定，暂保留原文。
 [^t4]: 原书印作 Kukoea，当是 ¶9 所说 kukoae（或写作 kukoa‘e）的误排。kukoa‘e 是向上天祈求食物的神庙，见 [[ma:38#p7]]。
+
+[^1]: （第 4 节）*Lana-nuu-mamao*，一种塔状的框架，用结实的木料搭成，外面覆以 *aho*，即细杆，但不苫顶。它有三层平台，即 *kahuas*，最低的一层叫 *lana*，第二层叫 *nu'u*，最高的一层叫 *mamao*。最低的 *lana* 用来安放祭品。第二层 *nu'u* 更为神圣；大祭司和他的助手有时站在那里主持宗教仪式。第三层 *mamao* 是最神圣的地方。只有大祭司和国王才允许登上这一层。在 *lana-nu'u-mamao* 进行敬拜时，所有的民众都俯伏在地。*lana-nu'u-mamao* 很可能曾被当作一种神谕所来使用。
+
+[^2]: （第 5 节）*Hoo-mahana-hana*，禁忌严苛程度的放松，一段休整期，祭司和工匠在其间可以松快一些，不拘一些礼数。它类似于大斋期中的“提神主日”（Refreshment Sunday）。下面这段祷词，据告诉我的人说，是用来祈求诸神准许一段 *hoomahanahana* 宽免期的。
+
+    *Pule Hoomahanahana（休整之祷）*
+
+    > E Ku i ka lana mai nuu,
+    > E Ku i ka ohia lele,
+    > E Ku i ka ohia-lehua,
+    > E Ku i ka ohia-ha uli,
+    > E Ku i ka ohia moewai,
+    > E Ku mai ka lani,
+    > Ku i ke ao,
+    > E Ku i ka honua,
+    > E ka ohia ihi,
+    > E Ku i ka lani-ka-ohia, ka haku-ohia,
+    > A ku, a lele, ua noa.
+    > A noa ia Ku.
+    > Ua uhi kapa mahana,
+    > Hoomahanahana heiau.
+    > E noa, e noa.
+    > Amama wale. Ua noa.
+    
+    > 哦库神，神圣的祭坛！
+    > 哦欧希亚木脚手架的库！
+    > 欧希亚-lehua 木雕成的库！
+    > 繁茂的 ohia-ha 的库！
+    > 在水中浸透的欧希亚木的库！
+    > 哦库，从天上降临吧！
+    > 哦库，光明之神！
+    > 哦库，世界的主宰！
+    > 哦壮美的欧希亚树！
+    > 哦国王所刻欧希亚树的库，欧希亚诸神之主！
+    > 它升起，它飞去，它已离去，
+    > 禁忌由库解除。
+    > 我们裹上温暖的树皮布，
+    > 这份温暖放松了神庙的严苛。
+    > 解禁！解禁！
+    > 重负已卸！已经解禁！
+
+[^3]: （第 5 节）*Aha*，常用来指祷告、咒语、仪式，或仪式的成功举行——它的稳妥与美好；在本处则指一种绳或垫，用一种海草编成，这种海草长在远离海岸的深海里。编这种 aha 时，要把椰子纤维和海草掺在一起。这种海草也许更常被称为 *ahaaha*。这种 aha 用来装饰库的神龛。能不能找到编 aha 用的海草，当然多少要凭运气。因此禁期的长短无法确定。
+
+[^4]: （第 9 节）*Hoouluulu ai*，为庄稼祈福。下面是在这种场合使用的一段祷词的样本。
+
+    *Pule Hoouluulu ai（使食物生长之祷），又名 Pule Hoomau*
+
+    > E Lono, alana mai Kahiki,
+    > He pule ku keia ia oe e Lono.
+    > E Lono lau ai nui.
+    > E ua mai ka lani pili,
+    > Ka ua houlu ai,
+    > Ka ua houlu kapa,
+    > Popo kapa wai lehua
+    > A Lono i ka lani.
+    > E Lono e! kuu'a mai koko ai, koko ua.
+    > Ulua mai,
+    > Houlu ia mai ka ai e Lono!
+    > Houlu ia mai ka ia.
+    > Ka moomoo, kiheaheapalaa e Lono!
+    > Amama. Ua noa.
+    
+    > 哦洛诺，来自卡希基（Kahiki）的赐予，
+    > 这是直接献给你的祷告，哦洛诺，
+    > 宽叶的洛诺啊，
+    > 让低垂的云降下雨来，
+    > 使庄稼茂盛，
+    > 雨水使树皮布的植物茂盛，
+    > 拧出洛诺天上
+    > 那深暗的雨云。
+    > 哦洛诺，抖出满网的食物、满网的雨。
+    > 为我们把它们聚拢。
+    > 积聚食物吧，哦洛诺！
+    > 聚集鱼群吧，哦洛诺！
+    > 构树的嫩芽和树皮布的染料。
+    > 阿们。已经解禁。
+
+[^5]: （第 14 节）*Kahuna kuhi-kuhi-pu'u-one*，字面意思是“指点沙堆的祭司”。沙子是用来做神庙模型或平面图的材料。
+
+[^6]: （第 18 节）*Lua-kini*：*Lua*，坑；*kini*，400,000。这种神庙的名称无疑就来自这个坑。据说，腐烂的祭品尸体最后就扔进这个坑里。奇怪的是，*luakini* 这个名称常常被用来指基督教的教堂或圣殿，而 *heiau* 一词，据我所知，从来没有这样用过。不过这似乎证明，luakini 是最高等级的神庙。
+
+[^7]: （第 21 节）*Lana-nuu*，与 *lana-nuu-mamao* 相同。
+
+[^8]: （第 20 节）帕帕之屋。——帕帕（Papa）是一个神话人物，瓦凯亚（Wakea）的妻子。——见第四十五章。*Hale o Papa* 是女酋长们举行仪式的地方。
+
+[^9]: （第 21 节）*Makaiwa*：眼睛用珍珠母镶嵌的神像。
+
+[^10]: （第 21 节）*Mo-i*，君主，王国时代用来称呼国王或女王的词。
+
+[^11]: （第 23 节）*Hale-puu-one*：之所以这样叫，是因为它的形状就像沙子在一处均匀堆起时的样子，即圆锥形，像南北战争初年波托马克军团用过的那种老式西布利帐篷。
+
+[^12]: （第 23 节）*Hawai*：一种有山墙的长屋，帕帕一系的女祭司在其中与国王和祭司们聚集，举行洁净仪式——*Pule huikala*——之后他们便分开，严格地彼此隔离，直到 luakini 解禁。在这种场合所用的祷词，大概属于 *Moo-Lono*，即洛诺的祭仪，如下：
+
+    > E Lono i ka oualii,
+    > E Lono uli moe,
+    > E Lono uli lani,
+    > E Lono ka lana mai nuu,
+    > E Lono i ka makaiwa,
+    > E Lono i ke one lau ea,
+    > E huli e Lono,
+    > E kala e Lono,
+    > Kala ia na hala o ke alii kane.
+    > E kala i ka hala o ke alii wahine.
+    > E kala i ka hala o na kahuna.
+    > E kala i ka hala o ka hu, ka makaainana,
+    > He pule kala keia ia oe Lono.
+    > Kuu'a mai ka ua pono,
+    > Ka wai ola,
+    > Ka alana pono.
+    > Pono i kukini ia Lono,
+    > Lono-a, ke akua mana.
+    > Amama. Ua noa.
+    > *应答——* Ua noa ke kino.
+    > Kapu ia kou heiau, e ke akua.
+    > Hu a noa.
+    > Noa, noa, ua lele,
+    > A lele ia Lono, ke akua mana.
+    > Amama.
+    
+    > 哦洛诺，神的柔嫩新枝，
+    > 哦洛诺，乌利的伴侣，
+    > 哦洛诺-乌利，天上的一对，
+    > 哦洛诺，这肉身之庙的慰藉者，
+    > 哦洛诺，明察的神，
+    > 哦洛诺，与人相守直到最后一粒沙，
+    > 转向我们吧，哦洛诺。
+    > 宽恕吧，哦洛诺，
+    > 赦免男酋长的罪，
+    > 赦免女酋长的罪，
+    > 赦免祭司们的罪，
+    > 赦免粗鄙之人、平民（*hu*）的罪。
+    > 这是向你祈求宽恕的祷告，哦洛诺。
+    > 降下恩惠的甘霖吧，哦洛诺。
+    > 赐予生命的雨，可喜的礼物，
+    > 洛诺赐福的象征，
+    > 洛诺-a，大能的神。
+    > 阿们。已经解禁。
+    > *应答——* 身体已经洁净，
+    > 你的神庙是神圣的，哦神。
+    > 众人得洁净。
+    > 洁净，洁净。
+    > 救恩来自洛诺，大能的神。阿们。
+
+[^13]: （第 26 节）尼赫乌（Niheu）：把头发和红土（*alaea*）揉在一起，在头顶上用签子别住。据说有时还在自己的头发上添上别人的头发。
+
+[^14]: （第 27 节）*Pule huikala no ka aina*，洁净土地的祷词。
+
+    > E Lono ma ka uli lani,
+    > Eia ka ai, eia ka ia,
+    > He alana, he mohai,
+    > He nuhanuha, he alana ia oe e Lono.
+    > Houlu ia ka ai i keia ahupua'a,
+    > E ulu a maka-ole ke kalo,
+    > E ulu a muaiwa ka uala.
+    > A eia ka puaa,
+    > He puaa kukui nau e Lono.
+    > E kui a ko ahu puaa,
+    > A palahu ka ai i waena,
+    > A o kau ola ia e ke akua.
+    > E Lono, nana i kou pulapula.
+    > Amama. Ua noa.
+    
+    > 哦蓝色苍穹的洛诺！
+    > 这里有蔬食，这里有肉，
+    > 祷告的献礼，一份祭品，
+    > 献给你的肥美之物，哦洛诺！
+    > 让这片山海分区（*ahu-puaa*）的庄稼茂盛！
+    > 让芋头留在地里，直到叶梢枯萎，
+    > 让甘薯躺在垄里，直到胀裂。
+    > 这里有猪，
+    > 一头石栗木刻成的猪，献给你，哦洛诺，
+    > 让它留在你的区界祭坛上，
+    > 直到田里的蔬食烂熟。
+    > 这就是你的赐福，哦神。
+    > 哦洛诺，看顾你的子孙！
+    > 重负已卸！解禁！
+
+[^15]: （第 32 节）*Lupalupa*，枝叶繁茂、蓬松、茂盛；也指祭司手中的枝条。
+
+[^16]: （第 32 节）*Ia*：夏威夷的权威人士对这个词的真正含义提供不了任何线索，也几乎无从推测。它显然是某位神的名字或称号，或代表某位神。形式上与之相应的唯一神名，是希伯来语的 JAH（《诗篇》68:4）。
+
+[^17]: （第 34 节）*Malu koi*：祷告之后，把斧头放在 Mana 门的门楣里面，献上三只鸡作祭品。下面是一段 *Pule malu koi*：
+
+    > E Kane uakea
+    > Eia ka alana,
+    > He moa ualehu,
+    > He moa uakea,
+    > He moa ulahiwa,
+    > He alana keia ia oe Kane,
+    > No ke koi kalai,
+    > Koi kua,
+    > Koi kikoni,
+    > Koi lou,
+    > He koi e kai e kalai ai ke kii,
+    > He koi ou e Kane, ke akua ola,
+    > Ke akua mana,
+    > Ke akua noho i ka iuiu,
+    > Ke akua i ke ao polohiwa,
+    > E ike i au ia......
+    > Ke kahuna kalai kii,
+    > A ku ke kii o Lanaikawai,
+    > O ka wai ola loa a Kane.
+    > E Kane eia kou hale la, o Mauliola,
+    > E ola ia........, ke alii heiau,
+    > E ola i a'u ia........, ke kahuna,
+    > E ola i na kahuna kapu heiau a pau,
+    > He ai kapu ka moa o ke alii.
+    > E ai noa ka moa o ke akua me ke kahuna.
+    > A lele, ua noa.
+    > A noa i ke akua.
+    > Amama.
+    
+    > 哦金发的卡内，
+    > 这里有献给你的祷告之礼，
+    > 一只鼻烟色的鸡献给你，
+    > 一只淡黄色的鸡，
+    > 一只红色的鸡。
+    > 这些是献给你的祭品，哦卡内，
+    > 为了木匠的扁斧，
+    > 伐木人的扁斧，
+    > 小扁斧，
+    > 可调转的扁斧，
+    > 修整神像的扁斧，
+    > 你的神像，哦卡内，生命之神。
+    > 大能的神，
+    > 住在不可接近的天上的神，
+    > 被云和黑暗环绕的神。
+    > 看顾我，雕像祭司 Kalai-kii，
+    > 直到 Lanaikawai 的神像立起，
+    > 卡内的永生之水，
+    > 哦卡内，这是你的屋，Mauliola。
+    > 等等，等等。
+    
+    （夏威夷语原文中的“……”处，是念诵时填入国王或祭司本人名字的地方。——译者）
+
+[^18]: （第 38 节）*Pule aha*：这属于一类特殊的祷告，要使它在仪式上圆满，绝对的静默、不受任何打扰是必不可少的。敬拜者和旁观者、旁听者，无论是在同一个围墙之内还是在外面，都必须保持最深的静默和专注。鸡鸣、狗吠、老鼠吱叫、猫头鹰的啼叫，都会破坏仪式的灵验。严禁女人闯入，违者处死。aha 祷告是直接向上天祈求，请它用某些征兆和现象显示对这一祈求的答复。雨、雷和闪电一般被视为不祥之兆。
+
+[^19]: （第 38 节）*Mau-haa-lelea*：彻底的转离，悔改。
+
+[^20]: （第 42 节）Kua-mu、Kua-wa 和 Kua-wao 是林中的神。Kua-mu 伐树时悄无声息；Kua-wa 伐树时喧哗呼喊；Kua-wao（这段祷词中没有提到）随心所欲，在任何地方伐树。这场下山时喧腾欢乐的狂奔，是向这些林中神祇告别。
+
+[^21]: （第 52 节）下面是一段称为
+
+    *PULE O KAI-A-POKEA（白骨之海的祷词）*
+    
+    的祷词：
+
+    > E Kane, e Lono i ke kai uli,
+    > Ke kai kea, ke kai haloiloi,
+    > Ke kai nalu-poi,
+    > Ke kai, e Ku, e lana i Kahiki.
+    > E Ku i ke kai i Kahiki!
+    > He kai kapu,
+    > He kai a Po-kea.
+    > E apo i ka hua.
+    > Oia ke kai e lolo ai,
+    > Ka ohia, ohia Kua-mu, Kua-wao, Kua-wa, Kua-lana,
+    > E kaa ai ke akua kaei
+    > O ke kahua aha-ula kuhonua,
+    > O ka ohia haku-ohia,
+    > Ke kii e lele ai a pau ka aina,
+    > Nana e kulai ka hoa paio.
+    > E Kane, eia kou kai ola,
+    > Ai ia, inu ia, penu ia.
+    > E ola i ke alii, e ola i na kahuna,
+    > E ola i na mea a pau i moe-kapu i ka heiau!
+    > A lele! A noa!
+    > A mama! Ua noa!
+    > Noa ia Kane, ke akua ola!
+    
+    > 哦卡内，哦蓝色大海的洛诺，
+    > 白色的海，汹涌的海，
+    > 巨浪翻卷的海，
+    > 哦库，那直达卡希基的海，
+    > 哦卡希基海上的库，
+    > 神圣的海洋，
+    > 白骨头颅的海。
+    > 取来海沫，
+    > 那是用来祝圣的咸水，
+    > 祝圣欧希亚木，Kuamu 的欧希亚，
+    > 林中诸神 Kua-wao、Kua-wa 和 Kua-lana 的欧希亚，
+    > 好让 kaei 神绕行
+    > 那由只听命于王族的 *aha ula* 守护的铺石地。
+    > 欧希亚木，欧希亚木的神像，
+    > 将要飞去征服全境的神像，
+    > 将要推翻一切敌人。
+    > 哦卡内，这是你赐生命的咸水，
+    > 拌进食物，用来喝，用来蘸。
+    > 国王长寿！祭司们长寿！
+    > 神庙里所有真诚的敬拜者长寿！
+    > 禁忌升起了，已经解禁！
+    > 重负已卸！解禁！
+    > 借卡内——赐生命者——解禁！
+    
+    （a）*Pokea*：大概来自 *poo kea*，白色的头，即漂白了的头骨。盛咸水的碗就是一个头骨。
+    
+    （b）*Aha ula*：这里所说的 aha，是用许多彩色股线精心编成的绳——其中一股是红色的（*ula*）——拉在一位有 kapu 的酋长住所周围，作为神秘的护卫。据说如果一位有 kapu 的酋长来到它跟前，这条 aha 就会出于对酋长 kapu 的敬意而自行落到地上；但酋长的 kapu 必须足够强大，才能当得起这份敬意。当然，任何人若用未经祝圣的手触碰它，就是死罪。
+    
+    （c）*Haku-ohia*：这是第 21 节所说的名为 Moi 的神像的名称，它用欧希亚木雕成。*Haku* 意为主人或首领。
+    
+    又：读者会注意到，我把第 10 行分成了两行。这是翻译上的需要。
+
