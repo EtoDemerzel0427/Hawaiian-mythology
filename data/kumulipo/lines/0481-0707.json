@@ -1,0 +1,986 @@
+{
+ "481": {
+  "en": "The time arrives for Po-kanokano",
+  "zh": "时运流转，来到了掘地之夜 Kapokanokano",
+  "note": "*Po-kanokano*，Beckwith 称为“掘地者之夜”（Night-digger）：*kanokano* 指猪拱土的长吻。本 wā 以拱土的猪比喻开垦土地的农人，也比喻在旧家系上开出新支的男性（[[ku:14]]）。"
+ },
+ "482": {
+  "en": "To increase the progeny of Po-lalo-uli",
+  "zh": "要使 Polalouli 的后裔绵延不绝",
+  "note": "*Po-lalo-uli*，字面为“深黑的下方之夜”，是本 wā 的女性生育者。*ahu* 本义为“堆积”，Beckwith 译作 progeny（后裔）。"
+ },
+ "483": {
+  "en": "Dark is the skin of the new generation",
+  "zh": "新的一代皮肤黝黑",
+  "note": "报道人 Kupihea 认为 *uli ‘iliuli* 指高级酋长的品级，*makamaka hou*“新的一代”即 Uli 一系，猪孩子卡马普阿阿即属此系（[[ku:14]]）。"
+ },
+ "484": {
+  "en": "Black is the skin of the beloved Po-lalo-uli",
+  "zh": "心爱的 Polalouli 肤色乌黑",
+  "note": "*hiwahiwa* 意为“珍爱的”，又与 *hiwa*（纯黑）相关；纯黑的猪是只献给大神的最神圣的祭品。"
+ },
+ "485": {
+  "en": "Who sleeps as a wife to the Night-digger",
+  "zh": "她作为妻子，与 Kapokanokano 同眠"
+ },
+ "486": {
+  "en": "The beaked nose that digs the earth is erected",
+  "zh": "那掘土的长吻高高竖起"
+ },
+ "487": {
+  "en": "Let it dig at the land, increase it, heap it up",
+  "zh": "拱起土地，让它生长，堆成土丘"
+ },
+ "488": {
+  "en": "Walling it up at the back",
+  "zh": "在后面筑起垄壁",
+  "note": "488–489 两行，报道人 Pokini 解释为旧时种甘薯的做法（[[ku:14]]）。"
+ },
+ "489": {
+  "en": "Walling it up in front",
+  "zh": "在前面筑起垄壁"
+ },
+ "490": {
+  "en": "The pig child is born",
+  "zh": "猪孩子出生了",
+  "note": "*ke kama a pua‘a*，“猪的孩子”，即民间故事中半人半神、生为猪形的卡马普阿阿（Kamapua‘a）。"
+ },
+ "491": {
+  "en": "Lodges inland in the bush",
+  "zh": "在内陆的灌丛中安家"
+ },
+ "492": {
+  "en": "Cultivates the water taro patches of Lo'iloa",
+  "zh": "在 Lo‘iloa 的水芋田间耕作",
+  "note": "*lo‘i* 是灌水种芋的田；Lo‘iloa（“长芋田”）是传说中以水芋田闻名的古代农人。*ho‘omaha* 字面为“歇息”，Beckwith 译作“耕作”。"
+ },
+ "493": {
+  "en": "Tenfold is the increase of the island",
+  "zh": "岛屿增长了十倍",
+  "note": "*‘umi*，十。"
+ },
+ "494": {
+  "en": "Tenfold the increase of the land",
+  "zh": "土地增长了十倍"
+ },
+ "495": {
+  "en": "The land where the Night-digger dwelt",
+  "zh": "那是 Kapokanokano 居住过的土地"
+ },
+ "496": {
+  "en": "Long is the line of his ancestry",
+  "zh": "他的祖系细长而悠远",
+  "note": "*ma‘awe* 本义为细线、小径，此指世系。"
+ },
+ "497": {
+  "en": "The ancient line of the pig of chief blood",
+  "zh": "那是黑毛圣猪的古老血脉",
+  "note": "*hulu hiwa*，纯黑的毛。Beckwith 意译为“酋长血统的猪”。"
+ },
+ "498": {
+  "en": "The pig of highest rank born in the time",
+  "zh": "尊贵的猪生在那个时代"
+ },
+ "499": {
+  "en": "The time when the Night-digger lived",
+  "zh": "生在 Kapokanokano 在世的时代"
+ },
+ "500": {
+  "en": "And slept with Po-lalo-uli",
+  "zh": "他与 Polalouli 同眠"
+ },
+ "501": {
+  "en": "The night gave birth",
+  "zh": "夜生育了",
+  "note": "以下 502–529 行列举种种“生出的”人群。Beckwith 依 Kupihea 的解释，把它们读作酋长随从中的社会、职业和军事等级；Pokini 则认为前几个名字指婴儿时期按家支塑成的不同头形（*po‘o*，头）。这些阐释见[[ku:14]]。"
+ },
+ "502": {
+  "en": "Born were the peaked-heads, they were clumsy ones",
+  "zh": "生了尖头的人，他们笨拙"
+ },
+ "503": {
+  "en": "Born were the flat-heads, they were braggarts",
+  "zh": "生了扁头的人，他们夸口"
+ },
+ "504": {
+  "en": "Born were the angular-heads, they were esteemed",
+  "zh": "生了棱角头的人，他们受人尊崇"
+ },
+ "505": {
+  "en": "Born were the fair-haired, they were strangers",
+  "zh": "生了浅发的人，他们是外来者",
+  "note": "*haole*，本义“外来的”，后来专指白人。"
+ },
+ "506": {
+  "en": "Born were the blonds, their skin was white",
+  "zh": "生了金发的人，他们皮肤白皙"
+ },
+ "507": {
+  "en": "Born were those with retreating foreheads, they were bushy haired",
+  "zh": "生了前额后缩的人，他们毛发浓密"
+ },
+ "508": {
+  "en": "Born were the blunt-heads, their heads were round",
+  "zh": "生了钝头的人，他们头颅浑圆"
+ },
+ "509": {
+  "en": "Born were the dark-heads, they were dark",
+  "zh": "生了黑头的人，他们肤色黝黑"
+ },
+ "510": {
+  "en": "Born were the common class, they were unsettled",
+  "zh": "生了平民，他们漂泊不定"
+ },
+ "511": {
+  "en": "Born were the working class, they were workers",
+  "zh": "生了劳作的人，他们勤于劳作"
+ },
+ "512": {
+  "en": "Born were the favorites, they were courted",
+  "zh": "生了宠臣，他们受人追捧",
+  "note": "*ho‘oipo*，求爱、讨人喜欢。"
+ },
+ "513": {
+  "en": "Born were the slave class, and wild was their nature",
+  "zh": "生了奴仆，他们本性狂野"
+ },
+ "514": {
+  "en": "Born were the cropped-haired, they were the picked men",
+  "zh": "生了短发的人，他们是精选之士",
+  "note": "Kupihea 说 *Hulupi‘i* 头发卷曲，剪短竖起并用石灰染色；*pi‘ipi‘i* 则是卡拉尼奥普乌军中身材高大的精兵（[[ku:14]]）。"
+ },
+ "515": {
+  "en": "Born were the song chanters, they were indolent [?]",
+  "zh": "生了唱诵的人，他们闲散 [?]",
+  "note": "附录二：底本作 *Meleuli ... melemele*，或指褐发的 *‘ehu* 人。"
+ },
+ "516": {
+  "en": "Born were the big bellies, big eaters were they",
+  "zh": "生了大肚的人，他们食量惊人"
+ },
+ "517": {
+  "en": "Born were the timid ones, bashful were they",
+  "zh": "生了怯懦的人，他们腼腆"
+ },
+ "518": {
+  "en": "Born were the messengers, they were sent here and there",
+  "zh": "生了信使，他们被差来遣去"
+ },
+ "519": {
+  "en": "Born were the slothful, they were lazy",
+  "zh": "生了迟缓的人，他们懒惰"
+ },
+ "520": {
+  "en": "Born were the stingy, they were sour",
+  "zh": "生了吝啬的人，他们尖酸",
+  "note": "*‘awa‘awa*，苦、酸。"
+ },
+ "521": {
+  "en": "Born were the puny, they were feeble ones",
+  "zh": "生了瘦小的人，他们孱弱"
+ },
+ "522": {
+  "en": "Born were the thickset, they were stalwart",
+  "zh": "生了粗壮的人，他们健硕"
+ },
+ "523": {
+  "en": "Born were the broad-chested, broad was their badge in battle",
+  "zh": "生了宽胸的人，他们在战阵中的标志宽阔",
+  "note": "字面为“他们戴 *hala*（露兜树）花环”。"
+ },
+ "524": {
+  "en": "Born were the family men, they were home lovers",
+  "zh": "生了持家的人，他们恋家"
+ },
+ "525": {
+  "en": "Born were the mixed breeds, they had no fixed line of descent",
+  "zh": "生了杂种的人，他们没有固定的世系",
+  "note": "Kupihea 说 *Huelo-maewa*（“摇尾者”）是“变成人的狗”，一类主要属于毛伊岛的变形者（[[ku:14]]）。附录二：底本作 *Huelo Maewa*。"
+ },
+ "526": {
+  "en": "Born were the lousy-headed, they were lice infested",
+  "zh": "生了满头虱子的人，他们生虱",
+  "note": "*liha*，虱卵。Kupihea 说 *Hululiha* 又称 *Hulumanu*，是随国王作战的近卫（[[ku:14]]）。"
+ },
+ "527": {
+  "en": "Born were the war leaders, men followed after them",
+  "zh": "生了战将，众人追随在后"
+ },
+ "528": {
+  "en": "Born were the high chiefs, they were ruddy",
+  "zh": "生了高级酋长，他们面色红润",
+  "note": "*‘ula*，红色，也是神圣与王权之色。"
+ },
+ "529": {
+  "en": "Born were the stragglers, they were dispersed",
+  "zh": "生了落伍的人，他们四散"
+ },
+ "530": {
+  "en": "Scattered here and there",
+  "zh": "散落在各处"
+ },
+ "531": {
+  "en": "The children of Lo'iloa multiplied",
+  "zh": "Lo‘iloa 的子孙繁衍开来"
+ },
+ "532": {
+  "en": "The virgin land sprang into bloom",
+  "zh": "处子之地繁茂开花",
+  "note": "*mohala*，花开；Beckwith 说此词在上乘的诗中常用来指少女成熟，这里喻经开垦而丰产的土地（[[ku:14]]）。"
+ },
+ "533": {
+  "en": "The gourd of desire was loosened",
+  "zh": "欲望的葫芦松开了"
+ },
+ "534": {
+  "en": "With desire to extend the family line",
+  "zh": "渴望使家族世系绵延"
+ },
+ "535": {
+  "en": "To carry on the fruit of Oma's descendants,",
+  "zh": "承续 Oma 子孙的果实",
+  "note": "*Oma* 是酋长首席属官之称，此处指掘地之夜（[[ku:14]]）。"
+ },
+ "536": {
+  "en": "The generations from the Night-digger",
+  "zh": "接续掘地之夜 Kapokanokano 的世代"
+ },
+ "537": {
+  "en": "In that period of the past",
+  "zh": "在那逝去的时代——"
+ },
+ "538": {
+  "en": "Still it is night",
+  "zh": "依然是夜"
+ },
+ "539": {
+  "en": "Many new lines of chiefs spring up",
+  "zh": "Kua-ka-mano 的羽饰仪仗纷纷萌生",
+  "note": "Beckwith 译文意译为“许多新的酋长世系兴起”。*Kua-ka-mano*（“统领千众者”）据说是古代大酋长，*kahili* 是酋长出行时擎在前面的羽毛仪仗。本 wā 前四行的含义争议很大（[[ku:15]]）。"
+ },
+ "540": {
+  "en": "Cultivation arises, full of taboos",
+  "zh": "耕作兴起，禁忌重重"
+ },
+ "541": {
+  "en": "[They go about scratching at the wet lands",
+  "zh": "他们四处奔走，在湿泥地上抓刨",
+  "note": "*linalina*，湿黏的泥土。Beckwith 给 541–542 两行加了方括号和问号，表示译法存疑；“抓刨者”也可能就是老鼠自己（[[ku:15]]）。"
+ },
+ "542": {
+  "en": "It sprouts, the first blades appear, the food is ready] [?]",
+  "zh": "发芽了，初叶萌出，食物成熟了"
+ },
+ "543": {
+  "en": "Food grown by the water courses",
+  "zh": "水道边长出的食物"
+ },
+ "544": {
+  "en": "Food grown by the sea",
+  "zh": "海边长出的食物"
+ },
+ "545": {
+  "en": "Plentiful and heaped up",
+  "zh": "丰盛而堆积"
+ },
+ "546": {
+  "en": "The parent rats dwell in holes",
+  "zh": "老鼠父母住在洞里",
+  "note": "本 wā 表面写鼠类偷食庄稼，Beckwith 依 Kupihea 的解释，认为其深意（kaona）是层层收租的新兴酋长与监工（[[ku:15]]）。"
+ },
+ "547": {
+  "en": "The little rats huddle together",
+  "zh": "小老鼠挤作一团"
+ },
+ "548": {
+  "en": "Those who mark the seasons",
+  "zh": "它们标示着时令",
+  "note": "旧时以老鼠在山中野生食物断绝时下到海边来计算季节（[[ku:15]]）。"
+ },
+ "549": {
+  "en": "Little tolls from the land",
+  "zh": "陆地上的小小贡赋",
+  "note": "*‘uku* 既指“报酬、租税”，也指跳蚤之类的小虫。"
+ },
+ "550": {
+  "en": "Little tolls from the water courses",
+  "zh": "水道边的小小贡赋"
+ },
+ "551": {
+  "en": "Trace of the nibblings of these brown-coated ones",
+  "zh": "这些褐毛者啃咬的痕迹"
+ },
+ "552": {
+  "en": "With whiskers upstanding",
+  "zh": "胡须竖立"
+ },
+ "553": {
+  "en": "They hide here and there",
+  "zh": "东躲西藏"
+ },
+ "554": {
+  "en": "A rat in the upland, a rat by the sea",
+  "zh": "山上有鼠，海边有鼠"
+ },
+ "555": {
+  "en": "A rat running beside the wave",
+  "zh": "有鼠沿着浪边奔跑"
+ },
+ "556": {
+  "en": "Born to the two, child of the Night-falling-away",
+  "zh": "两人所生，是退落之夜 Pohiolo 的孩子",
+  "note": "Beckwith 认为父名 Po-hiolo 可能谐 *Poho-‘iole*（鼠洞），母名 Po-ne‘e-aku 谐老鼠挪动的动作 *ne‘ene‘e*（[[ku:15]]）。"
+ },
+ "557": {
+  "en": "Born to the two, child of the Night-creeping-away",
+  "zh": "两人所生，是挪移远去之夜 Pone‘eaku 的孩子"
+ },
+ "558": {
+  "en": "The little child creeps as it moves",
+  "zh": "小鼠挪蹭着行走"
+ },
+ "559": {
+  "en": "The little child moves with a spring",
+  "zh": "小鼠一蹦一跳"
+ },
+ "560": {
+  "en": "Pilfering at the rind",
+  "zh": "偷啃果皮"
+ },
+ "561": {
+  "en": "Rind of the 'ohi'a fruit, not a fruit of the upland",
+  "zh": "啃 ‘ohi‘a 果的皮，那高地上不结果的 ‘ohi‘a",
+  "note": "*‘ohi‘a* 此指俗称“山苹果”的 ‘ohi‘a ‘ai（马来蒲桃），其高地品种不结果（[[ku:15]]）。"
+ },
+ "562": {
+  "en": "A tiny child born as the darkness falls away",
+  "zh": "黑暗退落时生下的小小孩子"
+ },
+ "563": {
+  "en": "A springing child born as the darkness creeps away",
+  "zh": "夜色挪去时两人生下的跳跃的孩子"
+ },
+ "564": {
+  "en": "Child of the dark and child in the night now here",
+  "zh": "幽暗之子，夜里之子，如今在此"
+ },
+ "565": {
+  "en": "Still it is night",
+  "zh": "依然是夜"
+ },
+ "566": {
+  "en": "Fear falls upon me on the mountain top",
+  "zh": "敬畏降临在我身上，在山顶",
+  "note": "本 wā 以 *ano*（突如其来的恐惧）开篇，随后转为 *weliweli*（惊惧），再转为 *‘ilihia*（肃然敬畏）（[[ku:16]]）。*kualono* 是众神聚集的山脊。"
+ },
+ "567": {
+  "en": "Fear of the passing night",
+  "zh": "敬畏那挪移远去的夜",
+  "note": "*Po-hane‘e-aku*、*Po-hane‘e-mai*，“挪去的夜”“挪来的夜”，是本 wā 的生育者。"
+ },
+ "568": {
+  "en": "Fear of the night approaching",
+  "zh": "敬畏那挪移而来的夜"
+ },
+ "569": {
+  "en": "Fear of the pregnant night",
+  "zh": "敬畏那充盈的夜"
+ },
+ "570": {
+  "en": "Fear of the breach of the law",
+  "zh": "敬畏律法的毁坏",
+  "note": "*ha‘iha‘i*，破坏禁忌，其罚为死（[[ku:16]]）。"
+ },
+ "571": {
+  "en": "Dread of the place of offering and the narrow trail",
+  "zh": "惊惧那祭坛与窄径",
+  "note": "Beckwith 解释为祭司的禁忌：不得留下祭宴的残余，不得经祭司专用的窄径接近圣地（[[ku:16]]）。"
+ },
+ "572": {
+  "en": "Dread of the food and the waste part remaining",
+  "zh": "惊惧那食物与剩下的残余"
+ },
+ "573": {
+  "en": "Dread of the receding night",
+  "zh": "惊惧那退去的夜"
+ },
+ "574": {
+  "en": "Awe of the night approaching",
+  "zh": "肃然于那逼近的夜"
+ },
+ "575": {
+  "en": "Awe of the dog child of the Night-creeping-away",
+  "zh": "肃然于那退去之夜的狗孩子"
+ },
+ "576": {
+  "en": "A dog child of the Night-creeping-hither",
+  "zh": "那逼近之夜的狗孩子"
+ },
+ "577": {
+  "en": "A dark red dog, a brindled dog",
+  "zh": "一条深红的狗，一条斑纹的狗",
+  "note": "*‘i‘i* 深红，*‘a‘a* 斑纹。据说斑纹狗生在火山女神佩蕾的家族中，受她庇护（[[ku:16]]）。"
+ },
+ "578": {
+  "en": "A hairless dog of the hairless ones",
+  "zh": "一条无毛的狗，属于无毛的人",
+  "note": "*‘olohe*，无毛的。‘Olohe 人被认为是具有变形神力的狗人，住在沙丘里挖出的洞穴中（[[ku:16]]）。"
+ },
+ "579": {
+  "en": "A dog as an offering for the oven",
+  "zh": "一条狗，作烤坑的祭品",
+  "note": "*‘a‘alua*，烤坑。Beckwith 认为此处象征高级禁忌酋长焚烧冒犯者的“灼热禁忌”（*kapu wela*）（[[ku:16]]）。"
+ },
+ "580": {
+  "en": "Palatable is the sacrifice for supplication",
+  "zh": "祈求的祭献味美可口",
+  "note": "原文晦涩，此从 Beckwith 的意译。附录二：底本作 *kehai*，Kukahi 本作 *He manu ke kai opulepule*。"
+ },
+ "581": {
+  "en": "Pitiful in the cold without covering",
+  "zh": "可怜它在寒冷中，没有毛发遮身"
+ },
+ "582": {
+  "en": "Pitiful in the heat without a garment",
+  "zh": "可怜它在炎热中，没有衣衫"
+ },
+ "583": {
+  "en": "He goes naked on the way to Malama",
+  "zh": "赤身走在通往 Malama 的路上",
+  "note": "报道人 Ho‘olapa 说 Malama 是“人死后去的地方”，即亡灵聚集、由此跃入冥界之处（[[ku:16]]）。"
+ },
+ "584": {
+  "en": "[Where] the night ends for the children [of night]",
+  "zh": "在那里，夜为孩子们终结",
+  "note": "584–586 三行极难解。Pukui 译作：“夜为孩子们渐少 / 从（时间的）开端到终了 / 从啃噬（之夜）到寂静”；另有读法把 *mai* 作否定词（[[ku:16]]）。"
+ },
+ "585": {
+  "en": "From the growth and the parching [?]",
+  "zh": "从生长到焦枯 [?]"
+ },
+ "586": {
+  "en": "From the cutting off and the quiet [?]",
+  "zh": "从截断到寂静 [?]",
+  "note": "*nenehe* 指低而匀的沙沙声，如脚步声，Beckwith 认为可能指亡灵之舞（[[ku:16]]）。"
+ },
+ "587": {
+  "en": "The driving Hula wind his companion",
+  "zh": "疾吹的 Hula 风与他为伴",
+  "note": "Ho‘olapa 说 Hula-ka-makani 是“吹在 Malama 的风”。"
+ },
+ "588": {
+  "en": "Younger brother of the naked ones, the 'Olohe",
+  "zh": "他是无毛者 ‘Olohe 的幼弟"
+ },
+ "589": {
+  "en": "Out from the slime come rootlets",
+  "zh": "黏泥里冒出了细根"
+ },
+ "590": {
+  "en": "Out from the slime comes young growth",
+  "zh": "黏泥里冒出了嫩芽"
+ },
+ "591": {
+  "en": "Out from the slime come branching leaves",
+  "zh": "黏泥里冒出了分叉的叶"
+ },
+ "592": {
+  "en": "Out from the slime comes outgrowth",
+  "zh": "黏泥里冒出了新的枝条"
+ },
+ "593": {
+  "en": "Born in the time when men came from afar",
+  "zh": "生在人自远方来的夜里"
+ },
+ "594": {
+  "en": "Still it is night",
+  "zh": "依然是夜"
+ },
+ "595": {
+  "en": "Well-formed is the child, well-formed now",
+  "zh": "孩子生得端好，如今端好",
+  "note": "本 wā 开始 *ao*（白昼），即活人的时代（[[ku:17]]）。"
+ },
+ "596": {
+  "en": "Child in the time when men multiplied",
+  "zh": "孩子生在人众繁衍之夜的时代",
+  "note": "*ka po kinikini*，“众多之夜”；*ka po he‘enalu mamao*，“从远方冲浪而来之夜”。Beckwith 分别意译为“人众繁衍的时代”与“人从远方来的时代”，二者是本时期的生育者（[[ku:17]]）。"
+ },
+ "597": {
+  "en": "Child in the time when men came from afar",
+  "zh": "孩子生在人自远方来之夜的时代"
+ },
+ "598": {
+  "en": "Born were men by the hundreds",
+  "zh": "人出生了，成百上千"
+ },
+ "599": {
+  "en": "Born was man for the narrow stream",
+  "zh": "生了男人，属窄流之水"
+ },
+ "600": {
+  "en": "Born was woman for the broad stream",
+  "zh": "生了女人，属宽流之水"
+ },
+ "601": {
+  "en": "Born the night of the gods",
+  "zh": "神的夜诞生了"
+ },
+ "602": {
+  "en": "Men stood together",
+  "zh": "人们站在一起"
+ },
+ "603": {
+  "en": "Men slept together",
+  "zh": "人们睡在一起"
+ },
+ "604": {
+  "en": "They two slept together in the time long ago",
+  "zh": "两人同眠于遥远的夜"
+ },
+ "605": {
+  "en": "Wave after wave of men moving in company",
+  "zh": "人一波接一波，结伴而行"
+ },
+ "606": {
+  "en": "Ruddy the forehead of the god",
+  "zh": "神的额头红润",
+  "note": "Beckwith：新来的“神”面色红润、下巴白（有须），本地的人（*kanaka*）肤色黝黑（[[ku:17]]）。"
+ },
+ "607": {
+  "en": "Dark that of man",
+  "zh": "人的额头黝黑"
+ },
+ "608": {
+  "en": "White-[bearded] the chin",
+  "zh": "下巴白皙"
+ },
+ "609": {
+  "en": "Tranquil was the time when men multiplied",
+  "zh": "人众繁衍之夜，时代宁静",
+  "note": "*ho‘omalino* 与 *ho‘ola‘ila‘i* 都指风平浪静，表现神与人诞生前自然界的屏息；后者引出下一行的名字拉伊拉伊（La‘ila‘i，“安宁”）（[[ku:17]]）。"
+ },
+ "610": {
+  "en": "Calm like the time when men came from afar",
+  "zh": "平和，如人自远方来之夜"
+ },
+ "611": {
+  "en": "It was called Calmness [La'ila'i] then",
+  "zh": "于是称之为安宁",
+  "note": "安宁，原文 *La‘ila‘i*，即下一行女人的名字。"
+ },
+ "612": {
+  "en": "Born was La'ila'i a woman",
+  "zh": "生了拉伊拉伊，是女人"
+ },
+ "613": {
+  "en": "Born was Ki'i a man",
+  "zh": "生了基伊，是男人",
+  "note": "*Ki‘i*，意为“形像”（[[ku:18]]）。"
+ },
+ "614": {
+  "en": "Born was Kane a god",
+  "zh": "生了卡内，是神"
+ },
+ "615": {
+  "en": "Born was Kanaloa the hot-striking octopus",
+  "zh": "生了卡纳洛亚，那灼击的章鱼",
+  "note": "附录二：此名底本与手稿作 *Kaheehaunawela*，Kukahi 本与 Kamokuiki 谱系本作 *Kaheehaunawele*，后者称之为“一种鱼”。"
+ },
+ "616": {
+  "en": "The wombs gave birth [?]",
+  "zh": "诸胎生育了 [?]",
+  "note": "Beckwith 在此行之前另有缩进的一行 It was day（天亮了），不计行号，夏威夷语原文无对应。*pahu* 本义为“桶、鼓”，Kamokuiki 谱系本作 *he mau Pahu*。"
+ },
+ "617": {
+  "en": "Ocean-edge",
+  "zh": "海之边缘 Moanaliha",
+  "note": "Beckwith 认为 Moana-liha（海之边缘）与 Ka-wao-ma‘aukele（湿润的密林）指海产与陆产两种食物来源（[[ku:17]]）。"
+ },
+ "618": {
+  "en": "The-damp-forest, latter of the two",
+  "zh": "湿润的密林 Kawaoma‘aukele，是二者中的后生者"
+ },
+ "619": {
+  "en": "The first chief of the dim past dwelling in cold uplands, their younger",
+  "zh": "其幼者 Ku-polo-li‘ili-ali‘i-mua-o-lo‘i-po，远古居于寒冷高地的第一位酋长",
+  "note": "此名与下一行的“长寿之人”概括了第十一 wā 那一长串最早的酋长谱系（[[ku:17]]）。"
+ },
+ "620": {
+  "en": "The man of long life and hundreds upon hundreds of chiefs",
+  "zh": "长寿之人，酋长成百上千"
+ },
+ "621": {
+  "en": "Scoop out, scoop out,",
+  "zh": "掏挖，掏挖"
+ },
+ "622": {
+  "en": "Hollow out, hollow out, keep hollowing",
+  "zh": "掏空，掏空，不停地掏空"
+ },
+ "623": {
+  "en": "Hollow out, hollow out, \"the woman sat sideways\"",
+  "zh": "掏空，掏空，“女人侧身而坐”",
+  "note": "*keke‘e ka noho a ka wahine*，“女人侧身而坐”，是形容妻子另嫁他人的老话（[[ku:17]]）。"
+ },
+ "624": {
+  "en": "La'ila'i, a woman in the time when men came from afar",
+  "zh": "拉伊拉伊，人自远方来之夜的女人"
+ },
+ "625": {
+  "en": "La'ila'i, a woman in the time when men multiplied",
+  "zh": "拉伊拉伊，人众繁衍之夜的女人"
+ },
+ "626": {
+  "en": "Lived as a woman of the time when men multiplied",
+  "zh": "在人众繁衍之夜作为人生活",
+  "note": "*noho i kanaka*，“作为人而居”：拉伊拉伊离开神圣之地的丈夫，下到人间（[[ku:17]]）。"
+ },
+ "627": {
+  "en": "Born was Groping-one [Hahapo'ele], a girl",
+  "zh": "生了摸索者 Hahapo‘ele，是女"
+ },
+ "628": {
+  "en": "Born was Dim-sighted [Ha-popo], a girl",
+  "zh": "生了昏眼者 Hapopo，是女"
+ },
+ "629": {
+  "en": "Born was Beautiful [Maila] called Clothed-in-leaves [Lopalapala]",
+  "zh": "生了美丽者 Maila，称为披叶者 Lopalapala",
+  "note": "*Lo-palapala*（披叶者）今指时运不济、退居偏远之地隐居的一类酋长（[[ku:17]]）。附录二：627–630 的名字不见于 Kamokuiki 的谱系。"
+ },
+ "630": {
+  "en": "Naked ['Olohe] was another name",
+  "zh": "赤裸者 ‘Olohe 是另一个名字"
+ },
+ "631": {
+  "en": "[She] lived in the land of Lua [pit]",
+  "zh": "[她] 住在 Lua 之地",
+  "note": "*lua*，洞穴、坑；与穴居的 ‘Olohe 人相联系（[[ku:17]]）。"
+ },
+ "632": {
+  "en": "[At] that place called \"pit of the 'Olohe\"",
+  "zh": "那地方因此称为“‘Olohe 的坑穴”"
+ },
+ "633": {
+  "en": "Naked was man born in the day",
+  "zh": "赤裸的男人，生在白昼"
+ },
+ "634": {
+  "en": "Naked the woman born in the upland",
+  "zh": "赤裸的女人，生在那个时代",
+  "note": "Beckwith 把末词译作 upland（高地）。"
+ },
+ "635": {
+  "en": "[She] lived here with man [?]",
+  "zh": "[她] 在此与男人同住 [?]",
+  "note": "此行的主语是拉伊拉伊本人还是她的女儿 Maila，不能确定；有人把 *Noho mai la* 改读作 Maila（[[ku:17]]）。"
+ },
+ "636": {
+  "en": "Born was Creeping-ti-plant [La'i'olo] to man",
+  "zh": "为男人生了匍匐朱蕉 La‘i‘olo",
+  "note": "朱蕉（*ki*，*Cordyline terminalis*）在低地湿润处随处蔓生，喻新的一族遍布大地（[[ku:17]]）。"
+ },
+ "637": {
+  "en": "Born was Expected-day [Kapopo], a female",
+  "zh": "生了待晓者 Kapopo，是女"
+ },
+ "638": {
+  "en": "Born was Midnight [Po'ele-i], born First-light [Po'ele-a]",
+  "zh": "生了午夜 Po‘ele-i，生了初光 Po‘ele-a"
+ },
+ "639": {
+  "en": "Opening-wide [Wehi-loa] was their youngest",
+  "zh": "他们最小的是大开者 Wehiloa"
+ },
+ "640": {
+  "en": "These were those who gave birth",
+  "zh": "这些就是生育者"
+ },
+ "641": {
+  "en": "The little ones, the older ones",
+  "zh": "小的，大的"
+ },
+ "642": {
+  "en": "Ever increasing in number",
+  "zh": "越聚越多"
+ },
+ "643": {
+  "en": "Man spread abroad, man was here now",
+  "zh": "人四散开去，人已在此",
+  "note": "Beckwith 在此行之后另有缩进的一行 It was Day（天亮了），不计行号，原文无对应。"
+ },
+ "644": {
+  "en": "Still, trembling stands earth",
+  "zh": "静止而震颤，大地屹立",
+  "note": "原文首二名 *La‘ila‘i*（安宁）、*Ola‘i-ku-honua*（大地震颤而立）构成双关。Beckwith 认为“大地震颤”“天穹裂开”暗示外来新支崛起时既有神权秩序的震动（[[ku:20]]）。"
+ },
+ "645": {
+  "en": "Hot, rumbling, split is the heaven",
+  "zh": "炽热，轰鸣，天穹裂开",
+  "note": "*Wela*、*Owe* 两名，Beckwith 在[[ku:24]]中与第十二 wā 末的 Wela-ahi-lani 及其妻 Owe 相联系。"
+ },
+ "646": {
+  "en": "This woman ascends to heaven, ascends right up to heaven",
+  "zh": "这女人升向天，一直升到天上"
+ },
+ "647": {
+  "en": "Ascends up toward the forest",
+  "zh": "向着林莽攀升"
+ },
+ "648": {
+  "en": "Tries to touch the earth and the earth splits up",
+  "zh": "想触碰大地，大地便裂开"
+ },
+ "649": {
+  "en": "Children of Ki'i sprung from the brain",
+  "zh": "基伊的孩子从脑中出现",
+  "note": "“从脑中”生子，与第十三 wā 豪梅亚的故事相同（[[ku:20]]）。"
+ },
+ "650": {
+  "en": "Came out, flew, flew also to the heavens",
+  "zh": "出来了，飞起来，一同飞上天",
+  "note": "*lele pu i ka lani*，“一同飞上天”，Beckwith 认为指他们力争品级（[[ku:20]]）。"
+ },
+ "651": {
+  "en": "Showed the sign, the ruddy tint by which they were known",
+  "zh": "显出征记，那可资辨认的红润之色",
+  "note": "这些面色红润、毛发泛红、有红褐胡须的“基伊的孩子”，Beckwith 比之于今日被认为属于佩蕾家族的 *‘ehu*（褐发）人（[[ku:20]]）。"
+ },
+ "652": {
+  "en": "Showed the fine reddish hair at puberty [?]",
+  "zh": "显在额上，青春期细细的红发 [?]"
+ },
+ "653": {
+  "en": "Showed on the chin a reddish beard",
+  "zh": "显在下巴，一把红褐的胡须"
+ },
+ "654": {
+  "en": "The offspring of that mysterious woman",
+  "zh": "那神秘女人的后代"
+ },
+ "655": {
+  "en": "The woman of 'Iliponi, of within 'I'ipakalani",
+  "zh": "那来自 ‘Iliponi、来自 ‘I‘ipakalani 之内的女人"
+ },
+ "656": {
+  "en": "\"From the female firestick comes the fire that makes men\"",
+  "zh": "“生人的火出自雌钻木”",
+  "note": "钻木取火：硬木 *aulima* 握在手中，在软木 *aunaki* 的凹槽上来回摩擦生出火星，是夏威夷人熟知的性的象征。意谓女子受孕后孕育出生命的火花（[[ku:18]]）。"
+ },
+ "657": {
+  "en": "That woman dwelt in Nu'umealani",
+  "zh": "那女人住在努乌梅阿拉尼"
+ },
+ "658": {
+  "en": "Land where the gods dwelt",
+  "zh": "众神所居之地"
+ },
+ "659": {
+  "en": "\"She stripped the dark leaves of the koa tree\"",
+  "zh": "“她捋下了 koa 树的深色叶子”",
+  "note": "Kawena Pukui 的译法。*koa*（相思树）枝条供在草裙舞学堂的祭坛上，祈求“勇气”（*koa* 也指战士）；女子的勇气在于应对两性之事（[[ku:18]]）。"
+ },
+ "660": {
+  "en": "A woman of mysterious body was this",
+  "zh": "这是一个形体神秘的女人"
+ },
+ "661": {
+  "en": "She lived with Ki'i, she lived with Kane",
+  "zh": "她与基伊同住，与卡内同住"
+ },
+ "662": {
+  "en": "She lived with Kane of the time when men multiplied",
+  "zh": "与人众繁衍之夜的卡内同住"
+ },
+ "663": {
+  "en": "Forgotten is the time of this multitude",
+  "zh": "那众人的时代已被遗忘"
+ },
+ "664": {
+  "en": "A multitude the posterity of the time of child-bearing",
+  "zh": "生育之夜的后裔，数以万计",
+  "note": "Beckwith 说本 wā 写拉伊拉伊的后裔繁衍“以四万计、以四千计”（*he kini, he mano*），与神庙祈祷中众神的神圣计数相应（[[ku:18]]）。"
+ },
+ "665": {
+  "en": "She returned again upward",
+  "zh": "她又回到上方"
+ },
+ "666": {
+  "en": "Dwelt in the sacred forest of the gods in Nu'umealani",
+  "zh": "住在努乌梅阿拉尼众神的圣林中"
+ },
+ "667": {
+  "en": "Was pregnant there, the earth broke open",
+  "zh": "在那里怀了孕，大地裂开"
+ },
+ "668": {
+  "en": "Born was the woman Groping-one [Haha-po'ele]",
+  "zh": "生了女孩摸索者 Hahapo‘ele"
+ },
+ "669": {
+  "en": "Born was Dim-sighted [Hapopo], a woman",
+  "zh": "生了昏眼者 Hapopo，是女"
+ },
+ "670": {
+  "en": "Last born was Naked-one, 'Olohelohe",
+  "zh": "最后生的是赤裸者 ‘Olohelohe"
+ },
+ "671": {
+  "en": "Part of the posterity of that woman",
+  "zh": "这是那女人的一支后裔"
+ },
+ "672": {
+  "en": "It was Day",
+  "zh": "天亮了"
+ },
+ "673": {
+  "en": "Come hither, La'ila'i [to] the wall [?]",
+  "zh": "来吧，拉伊拉伊，到墙边 [?]",
+  "note": "Pokini 把本 wā 解释为年轻夫妇新建居屋时的祈祷。底本作 *O Maila*（女儿 Maila 之名）；若读作 *O mai la*（来吧），则是召请生育之神到新屋中就位（[[ku:18]]）。"
+ },
+ "674": {
+  "en": "Kane of Kapokinikini [to] the post; Ki'i be quiet",
+  "zh": "人众繁衍之夜的卡内，到柱旁；基伊，安静",
+  "note": "*mahu* 的含义不明：重读末音节指两性人，也有“安静”之义；利留卡拉尼译作“基伊无能为力”（[[ku:18]]）。"
+ },
+ "675": {
+  "en": "Born was La'i'olo'olo and lived at Kapapa",
+  "zh": "生了 La‘i‘olo‘olo，住在 Kapapa"
+ },
+ "676": {
+  "en": "Born was Kamaha'ina the first-born, a male",
+  "zh": "生了长子 Kamaha‘ina，是男",
+  "note": "Kamaha‘ina，“头生子”。"
+ },
+ "677": {
+  "en": "Born was Kamamule, a male",
+  "zh": "生了 Kamamule，是男"
+ },
+ "678": {
+  "en": "Kamakalua the second child was a girl",
+  "zh": "第二胎 Kamakalua，是女"
+ },
+ "679": {
+  "en": "Came the child Po'ele-i [Midnight]",
+  "zh": "来了孩子午夜 Po‘ele-i"
+ },
+ "680": {
+  "en": "Came the child Po'ele-a [First-light]",
+  "zh": "来了孩子初光 Po‘ele-a"
+ },
+ "681": {
+  "en": "Wehi-wela-wehi-loa [Opening-to-the heat, opening wide]",
+  "zh": "Wehi-wela-wehi-loa（向炎热敞开，大大敞开）"
+ },
+ "682": {
+  "en": "La'ila'i returned and lived with Kane",
+  "zh": "拉伊拉伊回来，又与卡内同住"
+ },
+ "683": {
+  "en": "Born was Ha'i, a girl",
+  "zh": "生了 Ha‘i，是女",
+  "note": "Pokini 说 Ha‘i、Hali‘a、Hakea 三人是盖屋顶茅草时祈请的守护者；Kawena 把女孩的名字译作“风情者”“深情追念者”，男孩 Hakea 为“金发者”（[[ku:18]]）。"
+ },
+ "684": {
+  "en": "Born was Hali'a, a girl",
+  "zh": "生了 Hali‘a，是女"
+ },
+ "685": {
+  "en": "Born was Hakea, Fair-haired, a male",
+  "zh": "生了金发者 Hakea，是男"
+ },
+ "686": {
+  "en": "There was whispering, lip-smacking and clucking",
+  "zh": "生出了窃窃私语、咂嘴、咯咯之声",
+  "note": "686–690 以 *k* 音模拟旁人啧啧摇头的非议，再以 *m*、*u* 音表现丈夫的闷声不语，Beckwith 说无法直译（[[ku:18]]）。"
+ },
+ "687": {
+  "en": "Smacking, tut-tutting, head-shaking",
+  "zh": "咂嘴、啧啧、摇头"
+ },
+ "688": {
+  "en": "Sulking, sullenness, silence",
+  "zh": "赌气、阴沉、缄默"
+ },
+ "689": {
+  "en": "Kane kept silence, refused to speak",
+  "zh": "卡内闭口不言，不肯说话"
+ },
+ "690": {
+  "en": "Sullen, angry, resentful",
+  "zh": "阴沉、恼怒、怨恨"
+ },
+ "691": {
+  "en": "With the woman for her progeny",
+  "zh": "对那女人和她的子嗣"
+ },
+ "692": {
+  "en": "Hidden was the man by whom she had children",
+  "zh": "使她生子的那个男人藏了起来"
+ },
+ "693": {
+  "en": "[The man] to whom her children were born [?]",
+  "zh": "[那男人]，她为之生子的人 [?]"
+ },
+ "694": {
+  "en": "The chiefess refused him the youngest",
+  "zh": "女酋长拒绝把幼者给他"
+ },
+ "695": {
+  "en": "Gave the sacred 'ape to Ki'i",
+  "zh": "把神圣的 ‘ape 给了基伊",
+  "note": "*‘ape* 是一种大叶的芋类植物。Beckwith 说“神圣的 ‘ape”相当于夏娃的禁果，或象征禁忌酋长之妻的贞操（[[ku:18]]）。"
+ },
+ "696": {
+  "en": "She slept with Ki'i",
+  "zh": "与她同眠的是基伊"
+ },
+ "697": {
+  "en": "Kane suspected the first-born, became jealous",
+  "zh": "卡内怀疑长子，心生嫉妒"
+ },
+ "698": {
+  "en": "Suspected Ki'i and La'ila'i of a secret union",
+  "zh": "怀疑基伊与拉伊拉伊暗中结合",
+  "note": "据说 *lae punia* 指父女结合，如瓦凯亚与女儿的故事（[[ku:18]]）。"
+ },
+ "699": {
+  "en": "They pelted Kane with stones",
+  "zh": "他们用石块投掷卡内"
+ },
+ "700": {
+  "en": "Hurled a spear; he shouted aloud",
+  "zh": "长矛掷出，他高声呼喊",
+  "note": "*pahu* 也有“鼓”义，此从 Beckwith 译文。"
+ },
+ "701": {
+  "en": "\"This is fallen to my lot, for the younger [line]\"",
+  "zh": "“这就是落在我身上的命：归于幼支”"
+ },
+ "702": {
+  "en": "Kane was angry and jealous because he slept last with her",
+  "zh": "卡内又怒又妒，因为他最后才与她同眠"
+ },
+ "703": {
+  "en": "His descendants would hence belong to the younger line",
+  "zh": "他的后裔从此归于幼支",
+  "note": "本 wā 最后归结到一条关系家族地位的规矩：妻子的头生子享有优先继承权（[[ku:18]]）。"
+ },
+ "704": {
+  "en": "The children of the elder would be lord",
+  "zh": "长子的子孙将为主"
+ },
+ "705": {
+  "en": "First through La'ila'i, first through Ki'i",
+  "zh": "先经拉伊拉伊，先经基伊"
+ },
+ "706": {
+  "en": "Child of the two born in the heavens there",
+  "zh": "两人之子生在天上"
+ },
+ "707": {
+  "en": "Came forth",
+  "zh": "出来了"
+ }
+}

@@ -1,0 +1,9 @@
+{
+  "naha": {"term": "naha", "modern": "naha", "zh": "纳哈等级", "def": "高等级酋长中由较远一层近亲婚配所生子女的等级，低于 pi‘o。各家定义不一：Malo 指半兄妹所生，Fornander 指同一家族不同辈分（如父女、舅甥女）所生。Beckwith 认为正确的读法也许是 nahā（“断裂”）。", "see": ["g:pio", "g:niaupio"]},
+  "hoi": {"term": "ho‘i", "modern": "ho‘i", "zh": "霍伊（回归）等级", "def": "字面义“回归”。据 Malo，两位高等级的堂表兄妹婚配所生子女的等级，次于 pi‘o，同样享有俯伏禁忌。", "see": ["g:pio", "g:niaupio"]},
+  "kapu-wela": {"term": "kapu wela", "modern": "kapu wela", "zh": "灼热禁忌", "def": "最高等级酋长的禁忌之一，“灼热”指其神圣如火，触犯者处以火刑。传说这种禁忌自考艾岛传到瓦胡岛，再传入毛伊岛。", "see": ["g:kapu-moe", "essays/kapu-system"]},
+  "kapu-noho": {"term": "kapu noho", "modern": "kapu noho", "zh": "蹲坐禁忌", "def": "次于俯伏禁忌的一级：高等级酋长本人或其衣物、浴水等经过时，众人须蹲下或坐下，Beckwith 写作 tapu-a-noho。", "see": ["g:kapu-moe", "g:kapu"]},
+  "wohi": {"term": "wohi", "modern": "wohi", "zh": "沃希（近侍酋长）", "def": "酋长的一种头衔。Beckwith 说携带至尊酋长贴身之物、沿途喝令众人蹲下的近亲称 wohi；一般认为 wohi 等级的酋长本身可免于俯伏禁忌。", "see": ["g:kapu-noho"]},
+  "auhau": {"term": "auhau", "modern": "‘auhau", "zh": "贡赋", "def": "向酋长或神缴纳的赋税，多为农产、渔获与树皮布等。Makahiki 节期间，洛诺的长神巡行各区收取贡赋。", "see": ["g:makahiki", "g:hookupu"]},
+  "haku-mele": {"term": "haku mele", "modern": "haku mele", "zh": "作歌者", "def": "字面义“编织诗歌的人”，酋长宫廷中创作名歌与谱系颂歌的诗人。", "see": ["g:mele", "g:mele-inoa"]}
+}

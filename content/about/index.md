@@ -4,11 +4,21 @@ title: 体例与说明
 
 ## 底本
 
+### 《夏威夷神话》
+
 Martha Warren Beckwith, *Hawaiian Mythology*. New Haven: Yale University Press, 1940. Published for the Folklore Foundation of Vassar College.
 
 本站依据的是 Internet Archive 上普林斯顿大学图书馆藏本的扫描与 OCR（[hawaiianmytholog00beck_0](https://archive.org/details/hawaiianmytholog00beck_0)）。英文底本由 OCR 自动整理后逐章人工校对，校对时对照扫描页。
 
 **版权。** 本书 1940 年在美国出版，版权未续展，在美国属于公有领域（HathiTrust 版权审查结论）。1970 年夏威夷大学出版社重印本所附 Katharine Luomala 的序言仍受版权保护，本站不收录。Beckwith 卒于 1959 年，在“作者终身加七十年”的法域，原书至 2030 年进入公有领域。本站的译文、注释与专栏采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans) 许可。
+
+### 《库穆利波》
+
+Martha Warren Beckwith, *The Kumulipo: A Hawaiian Creation Chant*. Chicago: University of Chicago Press, 1951.
+
+英文底本取自 sacred-texts 的人工校对本，对照 1972 年夏威夷大学出版社的影印本核对。夏威夷语原文是 Beckwith 书中附录一所收的 Kalākaua 1889 年刊本。
+
+**版权。** 该书 1951 年在美国出版。一般认为其版权在 1979 年前后的续展期内未被续展，因而在美国属于公有领域（sacred-texts 据此收录；Stanford 版权续展数据库中未见续展记录）。这一判断没有像前一本书那样经过 HathiTrust 的正式审查，特此说明。1972 年影印本所附 Luomala 序言仍受版权保护，本站不收录。《库穆利波》颂歌本身是传统口传文本，不受版权保护。
 
 ## 怎样阅读
 
