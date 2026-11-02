@@ -145,7 +145,7 @@ def main(d, root):
         for l in txt.split("\n"):
             l = l.strip()
             if not l or l.startswith("{p."): continue
-            m = re.match(r"^(\d+)\.\s*(.*)$", l)
+            m = re.match(r"^(\d+)[.,]?\s+(.*)$", l)
             if m:
                 ln = int(m.group(1)); text = m.group(2).strip()
                 if last and abs(ln - (last + 1)) > 5: ln = last + 1     # misprinted number (e.g. "1889" for 1989)
