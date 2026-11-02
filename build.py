@@ -499,7 +499,7 @@ def render_chant():
             rows.append(f'<div class="cl" id="l{k}"><a class="ln" href="#l{k}">{k}</a>'
                         f'<span class="haw" lang="haw">{esc(h)}</span>'
                         f'<span class="lz">{esc(L.get("zh", ""))}</span>'
-                        f'<span class="le" lang="en">{esc(L.get("en", ""))}</span>{note}</div>')
+                        f'<span class="le" lang="en">{esc(re.sub(r"\[\^\d+\]", "", L.get("en", "")))}</span>{note}</div>')
         body.append(f'<div class="chant-table">{"".join(rows)}</div>')
     total = len(ctx.haw["lines"])
     head = (f'<header class="chap-head"><div class="kicker">《库穆利波》 · 附录一 · Kalākaua 刊本</div>'

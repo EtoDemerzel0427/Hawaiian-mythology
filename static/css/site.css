@@ -346,3 +346,5 @@ details.book[open] > summary::before { transform: rotate(90deg); }
   .cl, :root[data-mode="both"] .chant-page .cl { grid-template-columns: 2.6em minmax(0, 1fr); }
   .cl .lz, .cl .le { grid-column: 2; }
 }
+.cl, .cl span { text-align: left; }
+details.book { border: 0; padding: 0; background: transparent; margin: 0 0 14px; }

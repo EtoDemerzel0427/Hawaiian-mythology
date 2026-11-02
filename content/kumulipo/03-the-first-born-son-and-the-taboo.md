@@ -49,7 +49,7 @@ status: draft
 !!! place "禁忌的传播路线"
     Beckwith 记下的路线是考艾岛 → 瓦胡岛 → 毛伊岛。《夏威夷神话》第 29 章讲考艾岛的卡韦洛（Kawelo）故事时，也说 Kawelo-makua-lua 与他的姐妹兼妻子最先设立了俯伏禁忌，称为“酋长的灼热禁忌”，后来传到瓦胡岛和毛伊岛（[[ch:29]]）；第 26 章则另有一说，认为俯伏禁忌是祭司帕奥从南方引入的（[[ch:26]]）。几种说法的比较见[[essays/kapu-system]]。
 
-    Kekaulike 是 18 世纪上半叶毛伊岛的执政酋长，卡洛拉与后来的毛伊大酋长卡赫基利（Kahekili）都是他的子女。卡洛拉嫁给了 Ka-‘I-‘i-mamao 的儿子卡拉尼奥普乌（Kalani‘opu‘u），见[[ku:6#p10]]。
+    Kekaulike 是 18 世纪上半叶毛伊岛的执政酋长，卡洛拉与后来的毛伊大酋长卡赫基利（Kahekili）都是他的子女。卡洛拉嫁给了 Ka-‘I-‘i-mamao 的儿子卡拉尼奥普乌（Kalani‘opu‘u），见[[ku:6]]。
 
 !!! modern "Kusaie 与 Ponape 不在马绍尔群岛"
     Kusaie 即今天的科斯雷（Kosrae），Ponape 即波纳佩（Pohnpei），都属于加罗林群岛东部，今为密克罗尼西亚联邦的两个州，并不在马绍尔群岛。Beckwith 说这是 Alexander 从“马绍尔群岛”发回的报告，引文所说的却是加罗林群岛的两个岛。

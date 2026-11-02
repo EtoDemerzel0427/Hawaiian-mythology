@@ -17,7 +17,7 @@ status: draft
     八个名字都以 Po（夜）开头，后面的成分都是表示“黑”的词，一对比一对“亮”一点，正是 Beckwith 说的“从黑暗逐步走向光明”：
 
     - **Kumulipo** 与 **Po‘ele**：“深黑之源”与“黑夜”（‘ele 黑）。见[[ku:10]]。
-    - **Pouliuli** 与 **Powehiwehi**：“深蓝黑的夜”与“透进微光的夜”。见[[ku:11#p1]]。
+    - **Pouliuli** 与 **Powehiwehi**：“深蓝黑的夜”与“透进微光的夜”。见[[ku:11]]。
     - **Po‘ele‘ele** 与 **Pohaha**：‘ele‘ele 是“乌黑”，haha 一说是“摸索”。见[[ku:12]]。
     - **Popanopano** 与 **Polalowehi**：panopano 是“浓黑”，lalowehi 一说是“下方的幽暗”。见[[ku:13]]。
 
