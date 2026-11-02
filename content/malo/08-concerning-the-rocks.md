@@ -24,7 +24,7 @@ status: draft
 ¶3 用来做斧的石头有以下几种：*ke-i、ke-pue、ala-mea、kai-alii、humu-ula、pi-wai、awa-lii、lau-kea、mauna*。这些石头都非常坚硬，在这一点上胜过其他石头，而且不像叫作 *ala* 的那种石头那样有气孔。[^t1]
 
 !!! place "冒纳凯阿山上的石斧采石场"
-    夏威夷最著名的石斧（ko‘i）石料产地，在夏威夷岛冒纳凯阿（Mauna Kea）山顶附近、海拔三千多米的高处，今称 Keanakāko‘i（“斧的洞穴”）。一般认为那里的玄武岩是冰期时熔岩在冰川下或冰缘急冷而成，质地格外细密，工匠上山开采、打出斧坯，再运下山磨制，现场至今留有大片碎石片堆。Malo 名单中的 humu-ula 与夏威夷岛冒纳凯阿东坡的地名 Humu‘ula 同名，mauna（“山”）也可能指来自高山的石料，但这两个名称是否真的指这一产地，本站无法确证。
+    夏威夷最著名的石斧（ko‘i）石料产地，在夏威夷岛冒纳凯阿（Mauna Kea）山顶附近、海拔三千多米的高处，今称 Keanakāko‘i（“斧的洞穴”）。一般认为那里的玄武岩是冰期时熔岩在冰川下或冰缘急冷而成，质地格外细密，工匠上山开采、打出斧坯，再运下山磨制，现场至今留有大片碎石片堆。Malo 名单中的 humu-ula 与夏威夷岛冒纳凯阿东坡的地名 Humu‘ula 同名，mauna（“山”）也可能指来自高山的石料，但这两个名称是否真的指这一产地，本站无法确证。采石场的详情见[[essays/mauna-kea]]。
 
 ¶4 用来做 *lu-hee*（捉乌贼的诱饵）的石头很特别，种类也很多。它们的名字是：*hiena、ma-heu、hau、pa-pa、lae-koloa、lei-ole、ha-pou、kawau-puu、ma-ili、au、nani-nui、ma-ki-ki、pa-pohaku、kaua-ula、wai-anuu-kole、hono-ke-a-a、kupa-oa、poli-poli、ho-one、no-hu、lu-au、wai-mano、hule-ia、maka-wela*。
 
@@ -34,7 +34,7 @@ status: draft
 ¶5 用来做 *maika* 的石头有 *ma-ka*（*maka-a?*）、*hiu-pa iki-makua*、*kumu-one*[^1]、*ma-ki-ki*、*kumu-mao-mao*、*ka-lama-ula* 和 *paa-kea*[^2]。
 
 !!! culture "maika 石饼"
-    [[g:maika]] 是夏威夷的滚石游戏：把一块磨成圆饼形、两面微凸或微凹的石头（‘ulu maika）在平整的场地上滚出去，比谁滚得远，或比谁能让它从两根相距很近的立桩之间穿过。著名的 maika 场地长可数百米，游戏常伴随赌注，在 Makahiki 节期间尤其盛行（见[[ma:12]]）。好的石饼被主人珍藏，代代相传；Emerson 注 2 说他收藏的一枚曾被用作护身符或药符，也说明石头本身可以带有灵力（[[g:mana]]）。
+    [[g:maika]] 是夏威夷的滚石游戏：把一块磨成圆饼形、两面微凸或微凹的石头（‘ulu maika）在平整的场地上滚出去，比谁滚得远，或比谁能让它从两根相距很近的立桩之间穿过。著名的 maika 场地长可数百米，游戏常伴随赌注，在 Makahiki 节期间尤其盛行（见[[ma:12]]）。Malo 在[[ma:45]]专门讲这种游戏。好的石饼被主人珍藏，代代相传；Emerson 注 2 说他收藏的一枚曾被用作护身符或药符，也说明石头本身可以带有灵力（[[g:mana]]）。
 
 ¶6 火山的 *pa-hoe-hoe* 是被佩蕾之火熔化过的一类岩石。*Ele-ku* 和 *a-na*（浮石）是很轻、多孔的岩石。另一种石头是 *a-la*[^3]，还有 *pa-ea*。[^t2]
 

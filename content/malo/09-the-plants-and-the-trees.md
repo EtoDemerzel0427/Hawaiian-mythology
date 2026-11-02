@@ -61,7 +61,7 @@ status: draft
 ¶8 *mamane* 和 *uhi-uhi* 是坚实的木材，用来做 *holua* 滑橇的滑板，以及农人用的锹 *o-o*。*alani* 是用来做独木舟索具撑杆的木材之一。
 
 !!! culture "滑橇与掘棒"
-    [[g:holua]] 是酋长们从石砌滑道上俯卧冲下的竞技，滑橇的两条窄长滑板要求木质坚韧光滑，所以选用 māmane（*Sophora chrysophylla*，豆科）和 uhiuhi（*Caesalpinia kavaiensis*，旧名 *Mezoneuron kavaiense*）。‘ō‘ō 是夏威夷农人唯一的主要农具：一根一头削尖或削成扁铲形的硬木长棒，用来掘土、种芋头和甘薯。alani 是芸香科 *Melicope*（旧 *Pelea*）属的几种树。
+    [[g:holua]] 是酋长们从石砌滑道上俯卧冲下的竞技（Malo 在[[ma:49]]详述），滑橇的两条窄长滑板要求木质坚韧光滑，所以选用 māmane（*Sophora chrysophylla*，豆科）和 uhiuhi（*Caesalpinia kavaiensis*，旧名 *Mezoneuron kavaiense*）。‘ō‘ō 是夏威夷农人唯一的主要农具：一根一头削尖或削成扁铲形的硬木长棒，用来掘土、种芋头和甘薯。alani 是芸香科 *Melicope*（旧 *Pelea*）属的几种树。
 
 ¶9 *olomea* 是一种常用来钻木取火的木头；*ku-kui* 的木头有时用来做独木舟的船身；它的根皮与另外几样东西相混，可以调成涂独木舟的黑漆；它的果仁被串起来做成火把，叫作 *ku-kui*。[^6]
 
@@ -119,7 +119,7 @@ status: draft
 !!! culture "露兜叶与滑镖"
     [[g:hala]]（露兜树，*Pandanus tectorius*）是夏威夷海岸最常见的树。它的叶子（lau hala）去刺、晒干、压平后编成席子、篮子、枕头，以至独木舟的三角帆；果实由许多楔形小果组成，可以拆开串成花环。
 
-    pahe‘e 是一种比赛技巧的游戏：在平滑的场地上把粗短沉重的木镖（ihe pahe‘e）贴地滑出去，比谁滑得远、滑得准。‘ūlei（*Osteomeles anthyllidifolia*）是蔷薇科灌木，枝条极韧，也用来做撑网口的弯杆。alahe‘e（Malo 写作 wala-hee，*Psydrax odorata*）木质极硬，常被做成掘棒 ‘ō‘ō 与小扁斧。‘ā‘e 所指不确定（可能是 *Zanthoxylum* 属或 *Sapindus saponaria*），po-ola 所指不详。
+    pahe‘e 是一种比赛技巧的游戏（见[[ma:46]]）：在平滑的场地上把粗短沉重的木镖（ihe pahe‘e）贴地滑出去，比谁滑得远、滑得准。‘ūlei（*Osteomeles anthyllidifolia*）是蔷薇科灌木，枝条极韧，也用来做撑网口的弯杆。alahe‘e（Malo 写作 wala-hee，*Psydrax odorata*）木质极硬，常被做成掘棒 ‘ō‘ō 与小扁斧。‘ā‘e 所指不确定（可能是 *Zanthoxylum* 属或 *Sapindus saponaria*），po-ola 所指不详。
 
 ¶19 香蕉，即 *maia*，结出美味的果实。香蕉有许多种，用途也很多。*maua* 是一种可作木材（字面是木板、板材 *papa*）的树。*haa*、*ho-awa*、*hao* 以及许多我在这里没有提到的树，无疑都可以当柴烧。此外还有许多树我没有提到。
 
