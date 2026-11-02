@@ -1,0 +1,45 @@
+{
+ "ahu-ula": {
+  "term": "ahu‘ula",
+  "modern": "‘ahu‘ula",
+  "zh": "羽毛斗篷",
+  "def": "字面义“红色的披肩”：在 olonā 纤维细网上密密绑扎红、黄羽毛制成的斗篷，高级酋长在战时和典礼上披戴，是最贵重的王权标志。黄羽取自 ‘ō‘ō 与 mamo，红羽取自 ‘i‘iwi 与 ‘apapane。",
+  "see": [
+   "g:kahili"
+  ]
+ },
+ "kaukau-alii": {
+  "term": "kaukau ali‘i",
+  "modern": "kaukau ali‘i",
+  "zh": "低级酋长",
+  "def": "等级较低的酋长阶层；据 Malo，父亲是高级酋长、母亲是低等级女酋长所生的子女属此类。Emerson 引夏威夷人的解释说 kau 是“台阶”，意为一步步登上酋长之位。这一阶层常充任大酋长的管事与侍从。",
+  "see": [
+   "g:alii"
+  ]
+ },
+ "aikane": {
+  "term": "aikāne",
+  "modern": "aikāne",
+  "zh": "密友",
+  "def": "同性之间的亲密友伴；在古代常指酋长的男性亲密伴侣，这种关系公开而受尊重。19 世纪以后词义逐渐只剩“朋友”。",
+  "see": []
+ },
+ "ilamuku": {
+  "term": "ilāmuku",
+  "modern": "ilāmuku",
+  "zh": "执法官",
+  "def": "酋长的执法官，负责宣布和执行 kapu、拘捕和处罚违禁者；后来也用来称呼警长、法警。",
+  "see": [
+   "g:kapu"
+  ]
+ },
+ "kuaaina": {
+  "term": "kua‘āina",
+  "modern": "kua‘āina",
+  "zh": "乡下人",
+  "def": "“土地背面的人”：住在远离酋长宫廷的边远地区、尤其迎风面的平民，旧时是贬称；20 世纪后期被用来正面地称呼在乡间坚守传统生活的夏威夷人。",
+  "see": [
+   "g:makaainana"
+  ]
+ }
+}

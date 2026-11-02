@@ -20,6 +20,12 @@ Martha Warren Beckwith, *The Kumulipo: A Hawaiian Creation Chant*. Chicago: Univ
 
 **版权。** 该书 1951 年在美国出版。一般认为其版权在 1979 年前后的续展期内未被续展，因而在美国属于公有领域（sacred-texts 据此收录；Stanford 版权续展数据库中未见续展记录）。这一判断没有像前一本书那样经过 HathiTrust 的正式审查，特此说明。1972 年影印本所附 Luomala 序言仍受版权保护，本站不收录。《库穆利波》颂歌本身是传统口传文本，不受版权保护。
 
+### 《夏威夷古俗》
+
+David Malo, *Hawaiian Antiquities (Moolelo Hawaii)*, translated by Nathaniel B. Emerson. Honolulu: Hawaiian Gazette Co., 1903 (Bernice P. Bishop Museum Special Publication 2).
+
+英文底本由 Internet Archive 扫描本（[hawaiianantiquit00malorich](https://archive.org/details/hawaiianantiquit00malorich)）的 OCR 逐章校对而成。段落号 ¶ 即 Malo 原书的小节编号；Emerson 附在各章之后的注释作为“Emerson 注”全部译出。1903 年出版，美国公有领域。
+
 ## 怎样阅读
 
 - **¶ 段落号**与英文底本一一对应。点击段首的 ¶ 号展开该段原文；右上角“中 / 对照 / 英”切换整页的显示方式，选择会被记住。

@@ -1,0 +1,11 @@
+{
+  "ili": {"term": "ili", "modern": "‘ili", "zh": "小分区", "def": "ahupua‘a 之下的土地单位，由一个家族或几户人家耕种，有自己的名字和边界；也有独立于所属 ahupua‘a、直属上级酋长的 ‘ili kūpono。"},
+  "koele": {"term": "koele", "modern": "kō‘ele", "zh": "王田", "def": "在 ahupua‘a 中划出、专归酋长的田地，由当地平民在指定的日子出工耕种，收成全归酋长。", "see": ["g:ahupuaa", "g:konohiki"]},
+  "lomilomi": {"term": "lomilomi", "modern": "lomilomi", "zh": "按摩", "def": "夏威夷传统按摩，用手掌、前臂、肘部揉捏推拿；酋长身边常有专职的按摩侍从，今天仍是广为流传的疗法。"},
+  "loi": {"term": "loi", "modern": "lo‘i", "zh": "芋头水田", "def": "用土石田埂围起、以水渠（‘auwai）引溪水灌溉的浅水田，专种芋头，常沿谷底层层排列成梯田。", "see": ["g:kalo"]},
+  "kula": {"term": "kula", "modern": "kula", "zh": "旱坡地", "def": "没有溪流、只靠雨水的开阔旱地，多在山坡中段，种甘薯、旱芋、甘蔗；后来进入夏威夷英语，指高地牧场。"},
+  "uala": {"term": "uala", "modern": "‘uala", "zh": "甘薯", "def": "番薯（*Ipomoea batatas*），旱地上的主要作物，约六个月成熟；与毛利语 kūmara 同源，原产美洲，怎样传入波利尼西亚至今仍有争论。"},
+  "upena": {"term": "upena", "modern": "‘upena", "zh": "鱼网", "def": "用 olonā 纤维搓线编结的网，有围网、拦网、抄网等数十种，各有专名。"},
+  "hinai": {"term": "hinai", "modern": "hīna‘i", "zh": "鱼篮", "def": "用 ‘ie‘ie 藤的气根编成的鱼篮或鱼笼，有口小腹大的笼篮，也有潜水时扣鱼用的手篮。"},
+  "kalaimoku": {"term": "kalaimoku", "modern": "kālaimoku", "zh": "治国谋臣", "def": "字面义“雕琢岛屿者”，指治国之道，也指国王的首席谋臣；Malo 说他掌管行政与平民事务，与掌管祭祀的大祭司并为国王的左右手。"}
+}

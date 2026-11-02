@@ -1,0 +1,6 @@
+{
+  "hale-pea": {"term": "hale pe‘a", "modern": "hale pe‘a", "zh": "经期小屋", "def": "kapu 时代妇女月经期间独居的小屋；这期间她不得为男人做饭、不得接近神圣之物，男人也不得与她亲近。", "see": ["g:hale-mua", "g:kapu"]},
+  "luhee": {"term": "lūhe‘e", "modern": "lūhe‘e", "zh": "章鱼诱饵", "def": "钓章鱼的拟饵：宝贝螺壳与打磨过的石坠背靠背捆在一起，下系骨钩或木钩，从独木舟上垂到海底抖动，章鱼抱住螺壳即被提起。", "see": []},
+  "kapu-po": {"term": "kapu pō", "modern": "kapu pō", "zh": "禁忌之夜", "def": "每个太阴月中献给诸神的几段禁忌夜：库、Hua、卡纳洛亚（Kāloa）、卡内四段，期间酋长与祭司在神庙中祭祀，夫妻分房，许多日常活动停止；Makahiki 节期中暂停。", "see": ["g:kaulana-mahina", "g:makahiki"]},
+  "ai-kapu": {"term": "‘ai kapu", "modern": "‘ai kapu", "zh": "禁忌饮食（男女分食）", "def": "“受禁忌约束的进食”：男女分灶、分屋进食，猪肉、香蕉、椰子及若干种鱼只许男人吃；1819 年因 ‘ai noa 而废除。今天的历史学家常以此指整个 kapu 宗教制度。", "see": ["g:ai-noa", "g:kapu"]}
+}
